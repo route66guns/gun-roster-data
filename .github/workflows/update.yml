@@ -27,21 +27,18 @@ jobs:
         run: python update_handguns.py
 
       - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "GitHub actor: $GITHUB_ACTOR"
-          echo "Using token directly in remote URL"
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
 
-          git config --global user.name "auto-updater"
-          git config --global user.email "actions@github.com"
           git add sample_handguns.json
           git diff --cached --quiet || git commit -m "Auto-update handgun list"
 
-          git config credential.helper store
-          echo "https://x-access-token:${{ secrets.GH_TOKEN }}@github.com" > ~/.git-credentials
-
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
           git remote -v
-          git push https://github.com/${{ github.repository }} HEAD:main
-
+          git push origin HEAD:main
 
       - name: Upload debug screenshot
         if: always()
