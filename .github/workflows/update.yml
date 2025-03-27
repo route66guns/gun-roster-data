@@ -35,9 +35,13 @@ jobs:
           git config --global user.email "actions@github.com"
           git add sample_handguns.json
           git diff --cached --quiet || git commit -m "Auto-update handgun list"
-          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}
+
+          git config credential.helper store
+          echo "https://x-access-token:${{ secrets.GH_TOKEN }}@github.com" > ~/.git-credentials
+
           git remote -v
-          git push origin HEAD:main
+          git push https://github.com/${{ github.repository }} HEAD:main
+
 
       - name: Upload debug screenshot
         if: always()
