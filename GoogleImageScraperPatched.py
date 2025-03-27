@@ -27,7 +27,7 @@ class GoogleImageScraper():
         if headless:
             options.add_argument("--headless")
             options.add_argument("--disable-gpu")
-        self.driver = webdriver.Chrome(webdriver_path, options=options)
+        self.driver = webdriver.Chrome(executable_path=webdriver_path, options=options)
         self.search_key = search_key
         self.number_of_images = number_of_images
         self.image_path = image_path
