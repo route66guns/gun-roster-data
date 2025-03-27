@@ -18,13 +18,16 @@ jobs:
         with:
           python-version: "3.x"
 
+      - name: Install system dependencies
+        run: sudo apt-get update && sudo apt-get install -y xvfb
+
       - name: Install dependencies
         run: |
           pip install playwright
           playwright install chromium
 
-      - name: Run Playwright scraper
-        run: python update_handguns.py
+      - name: Run Playwright scraper (with xvfb)
+        run: xvfb-run --auto-servernum --server-args='-screen 0 1280x720x24' python update_handguns.py
 
       - name: Commit and push changes
         env:
