@@ -1,4 +1,3 @@
-
 import asyncio
 import json
 import time
@@ -6,43 +5,27 @@ import re
 import os
 from datetime import datetime
 from playwright.async_api import async_playwright
-from GoogleImageScraperPatched import GoogleImageScraper
 
 DOJ_URL = "https://oag.ca.gov/firearms/certified-handguns/recently-added"
 PLACEHOLDER_IMAGE = "https://raw.githubusercontent.com/route66guns/gun-roster-data/main/images/placeholder.jpg"
 
-webdriver_path = os.path.abspath("chromedriver")
 image_path = os.path.abspath("photos")
 os.makedirs(image_path, exist_ok=True)
 
 def clean_query(text):
     return re.sub(r'[^a-zA-Z0-9 ]+', '', text)
 
-def fetch_google_image(search_query):
+async def fetch_bing_image(search_query, page):
     try:
-        image_scraper = GoogleImageScraper(
-            webdriver_path=webdriver_path,
-            image_path=image_path,
-            search_key=search_query,
-            number_of_images=1,
-            headless=True,
-            min_resolution=(320, 240),
-            max_resolution=(1920, 1080),
-            max_missed=5
-        )
-
-        try:
-            image_urls = image_scraper.find_image_urls()
-        except Exception as inner_error:
-            print(f"⚠️ Error inside find_image_urls() for '{search_query}': {inner_error}")
-            return PLACEHOLDER_IMAGE
-
-        if not image_urls or len(image_urls) == 0:
-            print(f"⚠️ No image found for: {search_query}")
-            return PLACEHOLDER_IMAGE
-        return image_urls[0]
+        await page.goto(f"https://www.bing.com/images/search?q={search_query.replace(' ', '+')}+handgun", timeout=60000)
+        await page.wait_for_selector("img.mimg", timeout=15000)
+        image_element = await page.query_selector("img.mimg")
+        if image_element:
+            image_url = await image_element.get_attribute("src")
+            return image_url if image_url else PLACEHOLDER_IMAGE
+        return PLACEHOLDER_IMAGE
     except Exception as e:
-        print(f"❌ Google image fetch failed for '{search_query}': {e}")
+        print(f"❌ Bing image fetch failed for '{search_query}': {e}")
         return PLACEHOLDER_IMAGE
 
 async def scrape_handguns():
@@ -77,9 +60,9 @@ async def scrape_handguns():
 
                 cleaned_manufacturer = clean_query(manufacturer)
                 cleaned_model = clean_query(model)
-                search_query = f"{cleaned_manufacturer} {cleaned_model} handgun"
-                print(f"🔍 Google image search: {search_query}")
-                image_url = fetch_google_image(search_query)
+                search_query = f"{cleaned_manufacturer} {cleaned_model}"
+                print(f"🔍 Bing image search: {search_query}")
+                image_url = await fetch_bing_image(search_query, page)
                 time.sleep(1)
 
                 description = f"The {manufacturer} {model} is a recently certified handgun featuring a {barrel_length} barrel and chambered in {caliber}."
