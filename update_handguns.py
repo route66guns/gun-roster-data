@@ -9,60 +9,63 @@ from playwright.async_api import async_playwright
 DOJ_URL = "https://oag.ca.gov/firearms/certified-handguns/recently-added"
 PLACEHOLDER_IMAGE = "https://raw.githubusercontent.com/route66guns/gun-roster-data/main/images/placeholder.jpg"
 
-image_path = os.path.abspath("photos")
-os.makedirs(image_path, exist_ok=True)
-
 def clean_query(text):
     return re.sub(r'[^a-zA-Z0-9 ]+', '', text)
 
-async def fetch_bing_image(search_query, page):
+async def fetch_bing_image(page, search_query):
     try:
-        await page.goto(f"https://www.bing.com/images/search?q={search_query.replace(' ', '+')}+handgun", timeout=60000)
-        await page.wait_for_selector("img.mimg", timeout=15000)
-        image_element = await page.query_selector("img.mimg")
-        if image_element:
-            image_url = await image_element.get_attribute("src")
-            return image_url if image_url else PLACEHOLDER_IMAGE
-        return PLACEHOLDER_IMAGE
+        await page.goto(f"https://www.bing.com/images/search?q={search_query.replace(' ', '+')}&form=HDRSC2")
+        await page.wait_for_selector("img.mimg", timeout=10000)
+        image = await page.query_selector("img.mimg")
+        src = await image.get_attribute("src")
+        if src and src.startswith("http"):
+            return src
     except Exception as e:
         print(f"❌ Bing image fetch failed for '{search_query}': {e}")
-        return PLACEHOLDER_IMAGE
+    return PLACEHOLDER_IMAGE
 
 async def scrape_handguns():
     handguns = []
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
-        page = await browser.new_page()
+        context = await browser.new_context()
+        doj_page = await context.new_page()
         print("Navigating to DOJ page...")
-        await page.goto(DOJ_URL, timeout=90000)
+        await doj_page.goto(DOJ_URL, timeout=90000)
 
         try:
             print("Waiting for DOJ table...")
-            await page.wait_for_selector("table.views-table", timeout=90000)
+            await doj_page.wait_for_selector("table.views-table", timeout=90000)
             print("✅ DOJ Table found.")
         except Exception as e:
             print("❌ DOJ Table not found:", e)
-            await page.screenshot(path="page_debug.png", full_page=True)
+            await doj_page.screenshot(path="page_debug.png", full_page=True)
             await browser.close()
             return
 
-        rows = await page.query_selector_all("table.views-table tr")
-        for row in rows[1:]:
-            cells = await row.query_selector_all("td")
-            if len(cells) >= 5:
-                manufacturer = await cells[0].inner_text()
-                model = await cells[1].inner_text()
-                caliber = await cells[2].inner_text()
-                gun_type = await cells[3].inner_text()
-                barrel_length = await cells[4].inner_text()
-                date_added = await cells[5].inner_text() if len(cells) > 5 else ""
+        row_count = await doj_page.locator("table.views-table tr").count()
+
+        bing_page = await context.new_page()
+
+        for i in range(1, row_count):  # Skip header row
+            row = doj_page.locator("table.views-table tr").nth(i)
+            cells = row.locator("td")
+            cell_count = await cells.count()
+
+            if cell_count >= 5:
+                manufacturer = await cells.nth(0).inner_text()
+                model = await cells.nth(1).inner_text()
+                caliber = await cells.nth(2).inner_text()
+                gun_type = await cells.nth(3).inner_text()
+                barrel_length = await cells.nth(4).inner_text()
+                date_added = await cells.nth(5).inner_text() if cell_count > 5 else ""
 
                 cleaned_manufacturer = clean_query(manufacturer)
                 cleaned_model = clean_query(model)
-                search_query = f"{cleaned_manufacturer} {cleaned_model}"
+                search_query = f"{cleaned_manufacturer} {cleaned_model} handgun"
                 print(f"🔍 Bing image search: {search_query}")
-                image_url = await fetch_bing_image(search_query, page)
+                image_url = await fetch_bing_image(bing_page, search_query)
                 time.sleep(1)
 
                 description = f"The {manufacturer} {model} is a recently certified handgun featuring a {barrel_length} barrel and chambered in {caliber}."
