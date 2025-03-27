@@ -23,7 +23,6 @@ from PIL import Image
 import re
 
 #custom patch libraries
-import patch
 
 class GoogleImageScraper():
     def __init__(self, webdriver_path, image_path, search_key="cat", number_of_images=1, headless=True, min_resolution=(0, 0), max_resolution=(1920, 1080), max_missed=10):
@@ -57,7 +56,7 @@ class GoogleImageScraper():
                     continue
             except Exception as e:
                 #update chromedriver
-                pattern = '(\d+\.\d+\.\d+\.\d+)'
+                pattern = r'(\d+\.\d+\.\d+\.\d+)'  # raw string to fix the warning
                 version = list(set(re.findall(pattern, str(e))))[0]
                 is_patched = patch.download_lastest_chromedriver(version)
                 if (not is_patched):
