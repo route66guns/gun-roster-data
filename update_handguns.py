@@ -28,9 +28,9 @@ def fetch_google_image(search_query):
     headless=True,
     min_resolution=(320, 240),
     max_resolution=(1920, 1080),
-    max_missed=5,
-    webdriver_option=[]
+    max_missed=5
 )
+
 
         image_urls = image_scraper.find_image_urls()
         return image_urls[0] if image_urls else PLACEHOLDER_IMAGE
