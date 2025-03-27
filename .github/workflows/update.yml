@@ -31,6 +31,9 @@ jobs:
           unzip chromedriver-linux64.zip
           chmod +x chromedriver-linux64/chromedriver
           mv chromedriver-linux64/chromedriver ./chromedriver
+          
+     - name: Print GoogleImageScraper contents (debug)
+       run: head -n 20 GoogleImageScraper.py || head -n 20 GoogleImageScraperPatched.py
 
       - name: Run scraper
         run: xvfb-run --auto-servernum --server-args='-screen 0 1280x720x24' python update_handguns.py
