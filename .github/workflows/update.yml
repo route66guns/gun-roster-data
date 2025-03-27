@@ -23,7 +23,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install playwright
+          pip install playwright aiohttp
           playwright install chromium
 
       - name: Run Playwright scraper (with xvfb)
