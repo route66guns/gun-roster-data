@@ -2,7 +2,7 @@ name: Update Handgun JSON
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Every day at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -18,15 +18,21 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Install system dependencies
-        run: sudo apt-get update && sudo apt-get install -y xvfb
-
       - name: Install dependencies
         run: |
-          pip install playwright aiohttp
+          sudo apt-get update
+          sudo apt-get install -y unzip wget xvfb chromium-browser
+          pip install pillow selenium requests playwright aiohttp
           playwright install chromium
 
-      - name: Run Playwright scraper (with xvfb)
+      - name: Download Chromedriver
+        run: |
+          wget https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.111/linux64/chromedriver-linux64.zip
+          unzip chromedriver-linux64.zip
+          chmod +x chromedriver-linux64/chromedriver
+          mv chromedriver-linux64/chromedriver ./chromedriver
+
+      - name: Run scraper
         run: xvfb-run --auto-servernum --server-args='-screen 0 1280x720x24' python update_handguns.py
 
       - name: Commit and push changes
@@ -35,12 +41,9 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-
           git add sample_handguns.json
           git diff --cached --quiet || git commit -m "Auto-update handgun list"
-
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
-          git remote -v
           git push origin HEAD:main
 
       - name: Upload debug screenshot
