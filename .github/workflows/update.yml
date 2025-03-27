@@ -26,7 +26,7 @@ jobs:
       - name: Run Playwright scraper
         run: python update_handguns.py
 
-           - name: Commit and push changes
+      - name: Commit and push changes
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
