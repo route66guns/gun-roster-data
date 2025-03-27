@@ -21,17 +21,17 @@ def clean_query(text):
 def fetch_google_image(search_query):
     try:
         image_scraper = GoogleImageScraper(
-            webdriver_path=webdriver_path,
-            image_path=image_path,
-            search_key=search_query,
-            number_of_images=1,
-            headless=True,
-            min_resolution=(320, 240),
-            max_resolution=(1920, 1080),
-            max_missed=5,
-            save_metadata=False,
-            webdriver_option=[]
-        )
+    webdriver_path=webdriver_path,
+    image_path=image_path,
+    search_key=search_query,
+    number_of_images=1,
+    headless=True,
+    min_resolution=(320, 240),
+    max_resolution=(1920, 1080),
+    max_missed=5,
+    webdriver_option=[]
+)
+
         image_urls = image_scraper.find_image_urls()
         return image_urls[0] if image_urls else PLACEHOLDER_IMAGE
     except Exception as e:
