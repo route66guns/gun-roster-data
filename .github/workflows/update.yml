@@ -26,12 +26,19 @@ jobs:
       - name: Run Playwright scraper
         run: python update_handguns.py
 
-      - name: Commit and push changes
+           - name: Commit and push changes
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --global user.name "auto-updater"
           git config --global user.email "actions@github.com"
           git add sample_handguns.json
-          git commit -m "Auto-update handgun list"
+          git diff --cached --quiet || git commit -m "Auto-update handgun list"
           git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
+
+      - name: Upload debug screenshot
+        if: always()
+        uses: actions/upload-artifact@v3
+        with:
+          name: page_debug
+          path: page_debug.png
