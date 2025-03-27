@@ -5,7 +5,7 @@ import json
 from datetime import datetime
 
 async def scrape_handguns():
-    url = "https://oag.ca.gov/firearms/certified-handguns/recent"
+    url = "https://oag.ca.gov/firearms/certified-handguns/recently-added"
     handguns = []
 
     async with async_playwright() as p:
