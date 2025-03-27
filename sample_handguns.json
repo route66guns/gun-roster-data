@@ -1,0 +1,39 @@
+{
+  "updated": "2025-03-27T05:47:48.660145",
+  "handguns": [
+    {
+      "manufacturer": "Glock",
+      "model": "19 Gen5",
+      "caliber": "9mm",
+      "type": "Pistol",
+      "barrel_length": "4.02\"",
+      "date_added": "2025-03-25",
+      "description": "The Glock 19 Gen5 is a compact 9mm pistol known for its reliability and performance.",
+      "features": [
+        "Caliber: 9mm",
+        "Barrel Length: 4.02 inches",
+        "Type: Pistol",
+        "Finish: nDLC",
+        "Capacity: 15 rounds"
+      ],
+      "image_url": "https://via.placeholder.com/150x100?text=Glock+19"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "M&P 9 Shield Plus",
+      "caliber": "9mm",
+      "type": "Pistol",
+      "barrel_length": "3.1\"",
+      "date_added": "2025-03-25",
+      "description": "The M&P 9 Shield Plus offers increased capacity and comfort for concealed carry.",
+      "features": [
+        "Caliber: 9mm",
+        "Barrel Length: 3.1 inches",
+        "Type: Pistol",
+        "Finish: Armornite",
+        "Capacity: 13+1 rounds"
+      ],
+      "image_url": "https://via.placeholder.com/150x100?text=Shield+Plus"
+    }
+  ]
+}
