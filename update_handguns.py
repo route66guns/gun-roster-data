@@ -4,6 +4,7 @@ import time
 import re
 import os
 from datetime import datetime
+from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
 from playwright.async_api import async_playwright
 
 DOJ_URL = "https://oag.ca.gov/firearms/certified-handguns/recently-added"
@@ -12,6 +13,13 @@ PLACEHOLDER_IMAGE = "https://raw.githubusercontent.com/route66guns/gun-roster-da
 def clean_query(text):
     return re.sub(r'[^a-zA-Z0-9 ]+', '', text)
 
+def enhance_bing_image_url(url, width=800, height=600):
+    parsed = urlparse(url)
+    query = parse_qs(parsed.query)
+    query["w"] = [str(width)]
+    query["h"] = [str(height)]
+    return urlunparse(parsed._replace(query=urlencode(query, doseq=True)))
+
 async def fetch_bing_image(page, search_query):
     try:
         await page.goto(f"https://www.bing.com/images/search?q={search_query.replace(' ', '+')}&form=HDRSC2")
@@ -19,7 +27,8 @@ async def fetch_bing_image(page, search_query):
         image = await page.query_selector("img.mimg")
         src = await image.get_attribute("src")
         if src and src.startswith("http"):
-            return src
+            high_res_url = enhance_bing_image_url(src)
+            return high_res_url
     except Exception as e:
         print(f"❌ Bing image fetch failed for '{search_query}': {e}")
     return PLACEHOLDER_IMAGE
