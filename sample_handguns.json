@@ -1,5 +1,5 @@
 {
-  "updated": "2025-04-09T19:01:43.293087",
+  "updated": "2025-04-10T03:11:25.703772",
   "handguns": [
     {
       "manufacturer": "Walther",
@@ -32,6 +32,22 @@
         "Manufacturer: Walther"
       ],
       "image_url": "https://th.bing.com/th/id/OIP.5GI8t3EsrAWYzM6QD0tgyAHaEK?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "642-UC SKU 13995",
+      "caliber": ".38 S&W SPL.",
+      "type": "Revolver",
+      "barrel_length": "1.875\"",
+      "date_added": "03/27/2025",
+      "description": "The Smith & Wesson 642-UC SKU 13995 is a recently certified handgun featuring a 1.875\" barrel and chambered in .38 S&W SPL..",
+      "features": [
+        "Caliber: .38 S&W SPL.",
+        "Type: Revolver",
+        "Barrel Length: 1.875\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.bnzHuGsWtnw8IhJA7kDzywHaEJ?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -82,22 +98,6 @@
       "image_url": "https://th.bing.com/th/id/OIP.-17K-U0Nh6bvUFGQok1SuwAAAA?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
-      "manufacturer": "Smith & Wesson",
-      "model": "642-UC SKU 13995",
-      "caliber": ".38 S&W SPL.",
-      "type": "Revolver",
-      "barrel_length": "1.875\"",
-      "date_added": "03/27/2025",
-      "description": "The Smith & Wesson 642-UC SKU 13995 is a recently certified handgun featuring a 1.875\" barrel and chambered in .38 S&W SPL..",
-      "features": [
-        "Caliber: .38 S&W SPL.",
-        "Type: Revolver",
-        "Barrel Length: 1.875\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.bnzHuGsWtnw8IhJA7kDzywHaEJ?w=800&h=600&c=7&r=0&o=5&pid=1.7"
-    },
-    {
       "manufacturer": "Sig Sauer",
       "model": "322C-BAS-CA*",
       "caliber": ".22 LR",
@@ -128,6 +128,22 @@
         "Manufacturer: Girsan (Imported by European American Armory Corporation)"
       ],
       "image_url": "https://th.bing.com/th/id/OIP.a5MtRMm_igq_jJmvVTjWwAHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "manufacturer": "Century Arms Inc.",
+      "model": "METE MC9LS-FDE (HG7885CAD-N)*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "3.6\"",
+      "date_added": "02/20/2025",
+      "description": "The Century Arms Inc. METE MC9LS-FDE (HG7885CAD-N)* is a recently certified handgun featuring a 3.6\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 3.6\"",
+        "Manufacturer: Century Arms Inc."
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.cF1d3SOLPPpa827co4o06QAAAA?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Century Arms Inc.",
@@ -178,22 +194,6 @@
       "image_url": "https://th.bing.com/th/id/OIP.2po9pba_Ne884QqWHviAZAHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
-      "manufacturer": "Century Arms Inc.",
-      "model": "METE MC9LS-FDE (HG7885CAD-N)*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "3.6\"",
-      "date_added": "02/20/2025",
-      "description": "The Century Arms Inc. METE MC9LS-FDE (HG7885CAD-N)* is a recently certified handgun featuring a 3.6\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 3.6\"",
-        "Manufacturer: Century Arms Inc."
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.cF1d3SOLPPpa827co4o06QAAAA?w=800&h=600&c=7&r=0&o=5&pid=1.7"
-    },
-    {
       "manufacturer": "Biofire",
       "model": "Smart Gun*",
       "caliber": "9MM",
@@ -208,6 +208,86 @@
         "Manufacturer: Biofire"
       ],
       "image_url": "https://th.bing.com/th/id/OIP.DckuQizvfm5e9e7qD6llaQHaE8?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "SD9VE CA COMP SKU 13579 H-214 (BULL SHARK GREY)*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4\"",
+      "date_added": "01/28/2025",
+      "description": "The Smith & Wesson SD9VE CA COMP SKU 13579 H-214 (BULL SHARK GREY)* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.kygWaV2rDiVAPPWPovTHZwHaFs?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "637-2 (S&W Logo Grip) SKU 163050A",
+      "caliber": ".38 Spl",
+      "type": "Revolver",
+      "barrel_length": "1.87\"",
+      "date_added": "01/28/2025",
+      "description": "The Smith & Wesson 637-2 (S&W Logo Grip) SKU 163050A is a recently certified handgun featuring a 1.87\" barrel and chambered in .38 Spl.",
+      "features": [
+        "Caliber: .38 Spl",
+        "Type: Revolver",
+        "Barrel Length: 1.87\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.cCz6u5OXB3g2rBwZ_UvbxgHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "686-6 M686 SKU 150853A",
+      "caliber": ".357 Magnum",
+      "type": "Revolver",
+      "barrel_length": "3\"",
+      "date_added": "01/28/2025",
+      "description": "The Smith & Wesson 686-6 M686 SKU 150853A is a recently certified handgun featuring a 3\" barrel and chambered in .357 Magnum.",
+      "features": [
+        "Caliber: .357 Magnum",
+        "Type: Revolver",
+        "Barrel Length: 3\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.NXTrVNqwGATBGaEKnvtWagHaJ4?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "M642-2 SKU150466A",
+      "caliber": ".38 Spl",
+      "type": "Revolver",
+      "barrel_length": "1.875\"",
+      "date_added": "01/28/2025",
+      "description": "The Smith & Wesson M642-2 SKU150466A is a recently certified handgun featuring a 1.875\" barrel and chambered in .38 Spl.",
+      "features": [
+        "Caliber: .38 Spl",
+        "Type: Revolver",
+        "Barrel Length: 1.875\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.zOGa0Cwl_BVQfdM_Vhx9CgHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "686-6 Plus Pro Series (Stn Stnls) SKU 178038A",
+      "caliber": ".357 Magnum",
+      "type": "Revolver",
+      "barrel_length": "5\"",
+      "date_added": "01/28/2025",
+      "description": "The Smith & Wesson 686-6 Plus Pro Series (Stn Stnls) SKU 178038A is a recently certified handgun featuring a 5\" barrel and chambered in .357 Magnum.",
+      "features": [
+        "Caliber: .357 Magnum",
+        "Type: Revolver",
+        "Barrel Length: 5\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.djHpYg-ZcXZ49fUTOgG1IQHaEK?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -578,84 +658,20 @@
       "image_url": "https://th.bing.com/th/id/OIP.1gnkyy2kI5n3aFB_VJsceAHaFX?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
-      "manufacturer": "Smith & Wesson",
-      "model": "SD9VE CA COMP SKU 13579 H-214 (BULL SHARK GREY)*",
+      "manufacturer": "Century Arms Inc.",
+      "model": "METE MC9LS- BLACK (HG7885CA-N)*",
       "caliber": "9MM",
       "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "01/28/2025",
-      "description": "The Smith & Wesson SD9VE CA COMP SKU 13579 H-214 (BULL SHARK GREY)* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "barrel_length": "3.6\"",
+      "date_added": "01/23/2025",
+      "description": "The Century Arms Inc. METE MC9LS- BLACK (HG7885CA-N)* is a recently certified handgun featuring a 3.6\" barrel and chambered in 9MM.",
       "features": [
         "Caliber: 9MM",
         "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: Smith & Wesson"
+        "Barrel Length: 3.6\"",
+        "Manufacturer: Century Arms Inc."
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.kygWaV2rDiVAPPWPovTHZwHaFs?w=800&h=600&c=7&r=0&o=5&pid=1.7"
-    },
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "637-2 (S&W Logo Grip) SKU 163050A",
-      "caliber": ".38 Spl",
-      "type": "Revolver",
-      "barrel_length": "1.87\"",
-      "date_added": "01/28/2025",
-      "description": "The Smith & Wesson 637-2 (S&W Logo Grip) SKU 163050A is a recently certified handgun featuring a 1.87\" barrel and chambered in .38 Spl.",
-      "features": [
-        "Caliber: .38 Spl",
-        "Type: Revolver",
-        "Barrel Length: 1.87\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.cCz6u5OXB3g2rBwZ_UvbxgHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
-    },
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "686-6 M686 SKU 150853A",
-      "caliber": ".357 Magnum",
-      "type": "Revolver",
-      "barrel_length": "3\"",
-      "date_added": "01/28/2025",
-      "description": "The Smith & Wesson 686-6 M686 SKU 150853A is a recently certified handgun featuring a 3\" barrel and chambered in .357 Magnum.",
-      "features": [
-        "Caliber: .357 Magnum",
-        "Type: Revolver",
-        "Barrel Length: 3\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.NXTrVNqwGATBGaEKnvtWagHaJ4?w=800&h=600&c=7&r=0&o=5&pid=1.7"
-    },
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "M642-2 SKU150466A",
-      "caliber": ".38 Spl",
-      "type": "Revolver",
-      "barrel_length": "1.875\"",
-      "date_added": "01/28/2025",
-      "description": "The Smith & Wesson M642-2 SKU150466A is a recently certified handgun featuring a 1.875\" barrel and chambered in .38 Spl.",
-      "features": [
-        "Caliber: .38 Spl",
-        "Type: Revolver",
-        "Barrel Length: 1.875\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.zOGa0Cwl_BVQfdM_Vhx9CgHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
-    },
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "686-6 Plus Pro Series (Stn Stnls) SKU 178038A",
-      "caliber": ".357 Magnum",
-      "type": "Revolver",
-      "barrel_length": "5\"",
-      "date_added": "01/28/2025",
-      "description": "The Smith & Wesson 686-6 Plus Pro Series (Stn Stnls) SKU 178038A is a recently certified handgun featuring a 5\" barrel and chambered in .357 Magnum.",
-      "features": [
-        "Caliber: .357 Magnum",
-        "Type: Revolver",
-        "Barrel Length: 5\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.djHpYg-ZcXZ49fUTOgG1IQHaEK?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.TqrESdxjbP9KGJP3nkXspwAAAA?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Century Arms Inc.",
@@ -706,20 +722,20 @@
       "image_url": "https://th.bing.com/th/id/OIP.E9A5eexl5TQ-iGXOXj8G_gHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
-      "manufacturer": "Century Arms Inc.",
-      "model": "METE MC9LS- BLACK (HG7885CA-N)*",
+      "manufacturer": "Shadow Systems",
+      "model": "MR920 SS-1040-CA*",
       "caliber": "9MM",
       "type": "Pistol",
-      "barrel_length": "3.6\"",
-      "date_added": "01/23/2025",
-      "description": "The Century Arms Inc. METE MC9LS- BLACK (HG7885CA-N)* is a recently certified handgun featuring a 3.6\" barrel and chambered in 9MM.",
+      "barrel_length": "4\"",
+      "date_added": "01/22/2025",
+      "description": "The Shadow Systems MR920 SS-1040-CA* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
       "features": [
         "Caliber: 9MM",
         "Type: Pistol",
-        "Barrel Length: 3.6\"",
-        "Manufacturer: Century Arms Inc."
+        "Barrel Length: 4\"",
+        "Manufacturer: Shadow Systems"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.TqrESdxjbP9KGJP3nkXspwAAAA?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.Xh3c6sKfPwqZD2Jmhjb9uAHaI8?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Shadow Systems",
@@ -800,22 +816,6 @@
         "Manufacturer: Shadow Systems"
       ],
       "image_url": "https://th.bing.com/th/id/OIP.Iw3pq6OGE31NX092as2EPwHaHU?w=800&h=600&c=7&r=0&o=5&pid=1.7"
-    },
-    {
-      "manufacturer": "Shadow Systems",
-      "model": "MR920 SS-1040-CA*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "01/22/2025",
-      "description": "The Shadow Systems MR920 SS-1040-CA* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: Shadow Systems"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.Xh3c6sKfPwqZD2Jmhjb9uAHaI8?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Girsan (Imported by European American Armory Corporation)",
