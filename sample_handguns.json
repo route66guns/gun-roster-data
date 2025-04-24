@@ -1,5 +1,5 @@
 {
-  "updated": "2025-04-23T03:14:27.298139",
+  "updated": "2025-04-24T03:16:22.413861",
   "handguns": [
     {
       "manufacturer": "Colt",
@@ -35,22 +35,6 @@
     },
     {
       "manufacturer": "Walther",
-      "model": "PDP 4.0\" Compact*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "04/04/2025",
-      "description": "The Walther PDP 4.0\" Compact* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: Walther"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.YfNXUiytUX9i4DdRvJ_WHwHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
-    },
-    {
-      "manufacturer": "Walther",
       "model": "PDP 4.5\" Full Size*",
       "caliber": "9MM",
       "type": "Pistol",
@@ -63,7 +47,23 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Walther"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.5GI8t3EsrAWYzM6QD0tgyAHaEK?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.8yoz-33IEEZgEEq695WtkQHaEK?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "manufacturer": "Walther",
+      "model": "PDP 4.0\" Compact*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4\"",
+      "date_added": "04/04/2025",
+      "description": "The Walther PDP 4.0\" Compact* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4\"",
+        "Manufacturer: Walther"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.PpvBJ_XC_ovI64A-aeRU0wHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -159,7 +159,7 @@
         "Barrel Length: 4.87\"",
         "Manufacturer: Girsan (Imported by European American Armory Corporation)"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.dONi0FFJVTKl9hHDmIRMaAHaJ4?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.2TEFrfczQwdXm8xsSJLLMgAAAA?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Century Arms Inc.",
@@ -175,7 +175,7 @@
         "Barrel Length: 3.6\"",
         "Manufacturer: Century Arms Inc."
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.4lSnCJ-rmbA57xZl9-aKdwHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.E9A5eexl5TQ-iGXOXj8G_gHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Century Arms Inc.",
@@ -207,7 +207,7 @@
         "Barrel Length: 3.2\"",
         "Manufacturer: Century Arms Inc."
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.4lSnCJ-rmbA57xZl9-aKdwHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.E9A5eexl5TQ-iGXOXj8G_gHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Century Arms Inc.",
@@ -243,6 +243,38 @@
     },
     {
       "manufacturer": "Smith & Wesson",
+      "model": "642-1 (Matte Silver) SKU 178042A",
+      "caliber": ".38 Spl",
+      "type": "Revolver",
+      "barrel_length": "1.87\"",
+      "date_added": "01/28/2025",
+      "description": "The Smith & Wesson 642-1 (Matte Silver) SKU 178042A is a recently certified handgun featuring a 1.87\" barrel and chambered in .38 Spl.",
+      "features": [
+        "Caliber: .38 Spl",
+        "Type: Revolver",
+        "Barrel Length: 1.87\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.BEFCZZgBiOTJ607aek4JxQHaDR?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "642 SKU 10186A",
+      "caliber": ".38 Special +P",
+      "type": "Revolver",
+      "barrel_length": "1.875\"",
+      "date_added": "01/28/2025",
+      "description": "The Smith & Wesson 642 SKU 10186A is a recently certified handgun featuring a 1.875\" barrel and chambered in .38 Special +P.",
+      "features": [
+        "Caliber: .38 Special +P",
+        "Type: Revolver",
+        "Barrel Length: 1.875\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.LyQL74iifO25zIiZyvKAXgHaEJ?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
       "model": "637-2 (S&W Logo Grip) SKU 163050A",
       "caliber": ".38 Spl",
       "type": "Revolver",
@@ -255,7 +287,7 @@
         "Barrel Length: 1.87\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.cCz6u5OXB3g2rBwZ_UvbxgHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.aW9-W_Yb5PVNP5QtfSVeTgHaFn?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -271,7 +303,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.kygWaV2rDiVAPPWPovTHZwHaFs?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.AWPmz5qe_gWlkQnRxuIiEAAAAA?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -291,22 +323,6 @@
     },
     {
       "manufacturer": "Smith & Wesson",
-      "model": "M642-2 SKU150466A",
-      "caliber": ".38 Spl",
-      "type": "Revolver",
-      "barrel_length": "1.875\"",
-      "date_added": "01/28/2025",
-      "description": "The Smith & Wesson M642-2 SKU150466A is a recently certified handgun featuring a 1.875\" barrel and chambered in .38 Spl.",
-      "features": [
-        "Caliber: .38 Spl",
-        "Type: Revolver",
-        "Barrel Length: 1.875\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.zOGa0Cwl_BVQfdM_Vhx9CgHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
-    },
-    {
-      "manufacturer": "Smith & Wesson",
       "model": "686-6 Plus Pro Series (Stn Stnls) SKU 178038A",
       "caliber": ".357 Magnum",
       "type": "Revolver",
@@ -323,6 +339,22 @@
     },
     {
       "manufacturer": "Smith & Wesson",
+      "model": "M642-2 SKU150466A",
+      "caliber": ".38 Spl",
+      "type": "Revolver",
+      "barrel_length": "1.875\"",
+      "date_added": "01/28/2025",
+      "description": "The Smith & Wesson M642-2 SKU150466A is a recently certified handgun featuring a 1.875\" barrel and chambered in .38 Spl.",
+      "features": [
+        "Caliber: .38 Spl",
+        "Type: Revolver",
+        "Barrel Length: 1.875\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.Nz8WjRXbusAg8Hb-mjHcZwHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
       "model": "642-2 (S&W Logo Grip) SKU 163810A",
       "caliber": ".38 Spl",
       "type": "Revolver",
@@ -335,7 +367,7 @@
         "Barrel Length: 1.87\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.-W2vK5o3xa-usTp7ULU_qQHaEK?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.4QV5Qhp1naHfceo0Z3YeYQHaFj?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -351,7 +383,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.-qCvNrjMcjmOT8Ra2YMCIAHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.kygWaV2rDiVAPPWPovTHZwHaFs?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -371,6 +403,22 @@
     },
     {
       "manufacturer": "Smith & Wesson",
+      "model": "PC 637-2 SKU 170349A",
+      "caliber": ".38 S&W Special +P",
+      "type": "Revolver",
+      "barrel_length": "1.875\"",
+      "date_added": "01/28/2025",
+      "description": "The Smith & Wesson PC 637-2 SKU 170349A is a recently certified handgun featuring a 1.875\" barrel and chambered in .38 S&W Special +P.",
+      "features": [
+        "Caliber: .38 S&W Special +P",
+        "Type: Revolver",
+        "Barrel Length: 1.875\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP._nLMfbVhn2F41kAL2IJHWwHaFZ?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
       "model": "686-6 M686 SKU 150712A",
       "caliber": ".357 Magnum",
       "type": "Revolver",
@@ -384,22 +432,6 @@
         "Manufacturer: Smith & Wesson"
       ],
       "image_url": "https://th.bing.com/th/id/OIP.NXTrVNqwGATBGaEKnvtWagHaJ4?w=800&h=600&c=7&r=0&o=5&pid=1.7"
-    },
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "PC 637-2 SKU 170349A",
-      "caliber": ".38 S&W Special +P",
-      "type": "Revolver",
-      "barrel_length": "1.875\"",
-      "date_added": "01/28/2025",
-      "description": "The Smith & Wesson PC 637-2 SKU 170349A is a recently certified handgun featuring a 1.875\" barrel and chambered in .38 S&W Special +P.",
-      "features": [
-        "Caliber: .38 S&W Special +P",
-        "Type: Revolver",
-        "Barrel Length: 1.875\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.QNHMGW2MnBEwDuxqP-Yi3wHaFW?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -463,23 +495,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.RavAN65UPK2IUa_2hInvdAHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
-    },
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "686-6 M686 SKU 150713A",
-      "caliber": ".357 Magnum",
-      "type": "Revolver",
-      "barrel_length": "3\"",
-      "date_added": "01/28/2025",
-      "description": "The Smith & Wesson 686-6 M686 SKU 150713A is a recently certified handgun featuring a 3\" barrel and chambered in .357 Magnum.",
-      "features": [
-        "Caliber: .357 Magnum",
-        "Type: Revolver",
-        "Barrel Length: 3\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.NXTrVNqwGATBGaEKnvtWagHaJ4?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.lR5Gu4B76YPi1osHrF-MAwHaNK?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -496,6 +512,22 @@
         "Manufacturer: Smith & Wesson"
       ],
       "image_url": "https://th.bing.com/th/id/OIP.kqhOzrOi0aG401JPfbF64QAAAA?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "686-6 M686 SKU 150713A",
+      "caliber": ".357 Magnum",
+      "type": "Revolver",
+      "barrel_length": "3\"",
+      "date_added": "01/28/2025",
+      "description": "The Smith & Wesson 686-6 M686 SKU 150713A is a recently certified handgun featuring a 3\" barrel and chambered in .357 Magnum.",
+      "features": [
+        "Caliber: .357 Magnum",
+        "Type: Revolver",
+        "Barrel Length: 3\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.NXTrVNqwGATBGaEKnvtWagHaJ4?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -527,7 +559,7 @@
         "Barrel Length: 2.75\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.ArYvLF5kEp-finfRBAmixwHaEm?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.PRjTs1WPr7CtRPE-gtda9AHaFj?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -543,7 +575,7 @@
         "Barrel Length: 1.875\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.j6YyonvmsDoxLzhYPZt5WgHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.k3ZPQMJ3fPwWL73_Gp9XgwAAAA?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -559,7 +591,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.r_1g2CjpKQJ8kKLvv_yyHwHaFS?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.P5iOYEY7PSDFxlka6iOoFwHaE8?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -575,7 +607,7 @@
         "Barrel Length: 6.5\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.RYqt9lIK8AbAVMlvLyOohAHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.q4L3GW-uQb0AXkMjLlso7gHaFj?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -591,7 +623,7 @@
         "Barrel Length: 14\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.25E1OqDxLNd838eSdOgIWgHaFK?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.jpQqgbWG1d_lwiKCqr9UsQHaFK?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -607,7 +639,7 @@
         "Barrel Length: 2.75\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.O0kX9SDwUHRHD7wutqOU2gHaDQ?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.pgbWYgHwlKYUDO8uO-M0AAHaGe?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -639,7 +671,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.kygWaV2rDiVAPPWPovTHZwHaFs?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.2Kc5mw7Y1RCf3oRwyS8MrgHaE8?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -655,39 +687,7 @@
         "Barrel Length: 3\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.RYqt9lIK8AbAVMlvLyOohAHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
-    },
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "642 SKU 10186A",
-      "caliber": ".38 Special +P",
-      "type": "Revolver",
-      "barrel_length": "1.875\"",
-      "date_added": "01/28/2025",
-      "description": "The Smith & Wesson 642 SKU 10186A is a recently certified handgun featuring a 1.875\" barrel and chambered in .38 Special +P.",
-      "features": [
-        "Caliber: .38 Special +P",
-        "Type: Revolver",
-        "Barrel Length: 1.875\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.LyQL74iifO25zIiZyvKAXgHaEJ?w=800&h=600&c=7&r=0&o=5&pid=1.7"
-    },
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "642-1 (Matte Silver) SKU 178042A",
-      "caliber": ".38 Spl",
-      "type": "Revolver",
-      "barrel_length": "1.87\"",
-      "date_added": "01/28/2025",
-      "description": "The Smith & Wesson 642-1 (Matte Silver) SKU 178042A is a recently certified handgun featuring a 1.87\" barrel and chambered in .38 Spl.",
-      "features": [
-        "Caliber: .38 Spl",
-        "Type: Revolver",
-        "Barrel Length: 1.87\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.1gnkyy2kI5n3aFB_VJsceAHaFX?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.NRXUiq5G2BAU4kbBvoxQ4wAAAA?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Century Arms Inc.",
@@ -703,7 +703,7 @@
         "Barrel Length: 3.6\"",
         "Manufacturer: Century Arms Inc."
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.TqrESdxjbP9KGJP3nkXspwAAAA?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.GG-z9U5vJUjkNK0tu3a4BAHaFk?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Century Arms Inc.",
@@ -719,7 +719,7 @@
         "Barrel Length: 3.2\"",
         "Manufacturer: Century Arms Inc."
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.E9A5eexl5TQ-iGXOXj8G_gHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.14V7P58nEY7Q5VLSAiXxWwHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Century Arms Inc.",
@@ -751,103 +751,7 @@
         "Barrel Length: 3.2\"",
         "Manufacturer: Century Arms Inc."
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.4lSnCJ-rmbA57xZl9-aKdwHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
-    },
-    {
-      "manufacturer": "Shadow Systems",
-      "model": "MR920 SS-1040-CA*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "01/22/2025",
-      "description": "The Shadow Systems MR920 SS-1040-CA* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: Shadow Systems"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.QEsd4vYF6rm9gzmL2WPtewHaFx?w=800&h=600&c=7&r=0&o=5&pid=1.7"
-    },
-    {
-      "manufacturer": "Shadow Systems",
-      "model": "MR920 SS-1052-CA*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "01/22/2025",
-      "description": "The Shadow Systems MR920 SS-1052-CA* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: Shadow Systems"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.fNwRBnLIVDOqAxLfXA8_LQHaFB?w=800&h=600&c=7&r=0&o=5&pid=1.7"
-    },
-    {
-      "manufacturer": "Shadow Systems",
-      "model": "XR920 SS-3052-CA*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "01/22/2025",
-      "description": "The Shadow Systems XR920 SS-3052-CA* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: Shadow Systems"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.hq8gdW5fjtD6foMqXF0scAHaHP?w=800&h=600&c=7&r=0&o=5&pid=1.7"
-    },
-    {
-      "manufacturer": "Heckler & Koch",
-      "model": "VP9 Match*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "5.51\"",
-      "date_added": "01/22/2025",
-      "description": "The Heckler & Koch VP9 Match* is a recently certified handgun featuring a 5.51\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 5.51\"",
-        "Manufacturer: Heckler & Koch"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP._TtHdt2TeK1mOLpcWKDhBAHaD_?w=800&h=600&c=7&r=0&o=5&pid=1.7"
-    },
-    {
-      "manufacturer": "Shadow Systems",
-      "model": "XR920 SS-3040-CA*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "01/22/2025",
-      "description": "The Shadow Systems XR920 SS-3040-CA* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: Shadow Systems"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.hq8gdW5fjtD6foMqXF0scAHaHP?w=800&h=600&c=7&r=0&o=5&pid=1.7"
-    },
-    {
-      "manufacturer": "Shadow Systems",
-      "model": "DR920P SS-2240-CA*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4.5\"",
-      "date_added": "01/22/2025",
-      "description": "The Shadow Systems DR920P SS-2240-CA* is a recently certified handgun featuring a 4.5\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4.5\"",
-        "Manufacturer: Shadow Systems"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.Iw3pq6OGE31NX092as2EPwHaHU?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.E9A5eexl5TQ-iGXOXj8G_gHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     }
   ]
 }
