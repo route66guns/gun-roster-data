@@ -1,5 +1,5 @@
 {
-  "updated": "2025-04-27T03:16:45.899638",
+  "updated": "2025-04-28T01:22:44.445890",
   "handguns": [
     {
       "manufacturer": "Colt",
@@ -240,22 +240,6 @@
         "Manufacturer: Biofire"
       ],
       "image_url": "https://th.bing.com/th/id/OIP.DckuQizvfm5e9e7qD6llaQHaE8?w=800&h=600&c=7&r=0&o=5&pid=1.7"
-    },
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "629-6 M629 Deluxe SKU 150714A",
-      "caliber": ".44 Magnum",
-      "type": "Revolver",
-      "barrel_length": "6.5\"",
-      "date_added": "01/28/2025",
-      "description": "The Smith & Wesson 629-6 M629 Deluxe SKU 150714A is a recently certified handgun featuring a 6.5\" barrel and chambered in .44 Magnum.",
-      "features": [
-        "Caliber: .44 Magnum",
-        "Type: Revolver",
-        "Barrel Length: 6.5\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.q4L3GW-uQb0AXkMjLlso7gHaFj?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -688,6 +672,22 @@
         "Manufacturer: Smith & Wesson"
       ],
       "image_url": "https://th.bing.com/th/id/OIP.k3ZPQMJ3fPwWL73_Gp9XgwAAAA?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "629-6 M629 Deluxe SKU 150714A",
+      "caliber": ".44 Magnum",
+      "type": "Revolver",
+      "barrel_length": "6.5\"",
+      "date_added": "01/28/2025",
+      "description": "The Smith & Wesson 629-6 M629 Deluxe SKU 150714A is a recently certified handgun featuring a 6.5\" barrel and chambered in .44 Magnum.",
+      "features": [
+        "Caliber: .44 Magnum",
+        "Type: Revolver",
+        "Barrel Length: 6.5\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.q4L3GW-uQb0AXkMjLlso7gHaFj?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     }
   ]
 }
