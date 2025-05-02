@@ -1,22 +1,6 @@
 {
-  "updated": "2025-05-01T01:27:12.644478",
+  "updated": "2025-05-02T01:20:32.063837",
   "handguns": [
-    {
-      "manufacturer": "Colt",
-      "model": "GRIZZLY (GRIZZLY-SP4RTS)",
-      "caliber": ".357 Magnum",
-      "type": "Revolver",
-      "barrel_length": "4.25\"",
-      "date_added": "04/22/2025",
-      "description": "The Colt GRIZZLY (GRIZZLY-SP4RTS) is a recently certified handgun featuring a 4.25\" barrel and chambered in .357 Magnum.",
-      "features": [
-        "Caliber: .357 Magnum",
-        "Type: Revolver",
-        "Barrel Length: 4.25\"",
-        "Manufacturer: Colt"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.eQnyMnvsJThBmWRIDNbD0gHaFj?w=800&h=600&c=7&r=0&o=5&pid=1.7"
-    },
     {
       "manufacturer": "Colt",
       "model": "KODIAK (KODIAK-SP4RTS)",
@@ -31,7 +15,23 @@
         "Barrel Length: 4.25\"",
         "Manufacturer: Colt"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.S4PNsyvIlcDcrjdf_Vu-8AHaE7?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.aWNWmyJejvu8gms4mcHQjQHaFj?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "manufacturer": "Colt",
+      "model": "GRIZZLY (GRIZZLY-SP4RTS)",
+      "caliber": ".357 Magnum",
+      "type": "Revolver",
+      "barrel_length": "4.25\"",
+      "date_added": "04/22/2025",
+      "description": "The Colt GRIZZLY (GRIZZLY-SP4RTS) is a recently certified handgun featuring a 4.25\" barrel and chambered in .357 Magnum.",
+      "features": [
+        "Caliber: .357 Magnum",
+        "Type: Revolver",
+        "Barrel Length: 4.25\"",
+        "Manufacturer: Colt"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.RZ-VZ5E645kc2AwkSEi4YwHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Walther",
@@ -47,7 +47,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Walther"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.UooJzVnwi3kwQ3oL43i2CgHaFj?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.YfNXUiytUX9i4DdRvJ_WHwHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Walther",
@@ -63,23 +63,7 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Walther"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.wOHLe509A49dpgXpWvS1JQHaF2?w=800&h=600&c=7&r=0&o=5&pid=1.7"
-    },
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "442-UC SKU 13996",
-      "caliber": ".38 S&W SPL.",
-      "type": "Revolver",
-      "barrel_length": "1.875\"",
-      "date_added": "03/27/2025",
-      "description": "The Smith & Wesson 442-UC SKU 13996 is a recently certified handgun featuring a 1.875\" barrel and chambered in .38 S&W SPL..",
-      "features": [
-        "Caliber: .38 S&W SPL.",
-        "Type: Revolver",
-        "Barrel Length: 1.875\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.dFfmAf5ULM92IUQ7QHtv4gHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.5GI8t3EsrAWYzM6QD0tgyAHaEK?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -95,7 +79,7 @@
         "Barrel Length: 1.875\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.65sd7E6HOQv_OCYL0r3H9wAAAA?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.cZ6z6_57_H72BffB_EwDXwAAAA?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -111,7 +95,7 @@
         "Barrel Length: 1.875\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.b907EmcNl3h5oyqiGhxQwAAAAA?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.-17K-U0Nh6bvUFGQok1SuwAAAA?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -130,6 +114,22 @@
       "image_url": "https://th.bing.com/th/id/OIP.bnzHuGsWtnw8IhJA7kDzywHaEJ?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
+      "manufacturer": "Smith & Wesson",
+      "model": "442-UC SKU 13996",
+      "caliber": ".38 S&W SPL.",
+      "type": "Revolver",
+      "barrel_length": "1.875\"",
+      "date_added": "03/27/2025",
+      "description": "The Smith & Wesson 442-UC SKU 13996 is a recently certified handgun featuring a 1.875\" barrel and chambered in .38 S&W SPL..",
+      "features": [
+        "Caliber: .38 S&W SPL.",
+        "Type: Revolver",
+        "Barrel Length: 1.875\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.peRjAIarN-fYcupWQoskaAHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+    },
+    {
       "manufacturer": "Sig Sauer",
       "model": "322C-BAS-CA*",
       "caliber": ".22 LR",
@@ -143,7 +143,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Sig Sauer"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.F29xkHrfyUiqGVat9NXVjwHaFL?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.FC9yVkifPtfyFf-Trxh2KQHaG-?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Girsan (Imported by European American Armory Corporation)",
@@ -159,23 +159,7 @@
         "Barrel Length: 4.87\"",
         "Manufacturer: Girsan (Imported by European American Armory Corporation)"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.DrVqjDVqH_2duwqihTMdMgHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
-    },
-    {
-      "manufacturer": "Century Arms Inc.",
-      "model": "METE MC9LS-FDE (HG7885CAD-N)*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "3.6\"",
-      "date_added": "02/20/2025",
-      "description": "The Century Arms Inc. METE MC9LS-FDE (HG7885CAD-N)* is a recently certified handgun featuring a 3.6\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 3.6\"",
-        "Manufacturer: Century Arms Inc."
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.V177j1ntXysegqwYjl22WQHaFk?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.dONi0FFJVTKl9hHDmIRMaAHaJ4?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Century Arms Inc.",
@@ -191,7 +175,7 @@
         "Barrel Length: 3.2\"",
         "Manufacturer: Century Arms Inc."
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.V177j1ntXysegqwYjl22WQHaFk?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.2po9pba_Ne884QqWHviAZAHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Century Arms Inc.",
@@ -207,7 +191,7 @@
         "Barrel Length: 3.2\"",
         "Manufacturer: Century Arms Inc."
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.cUWJ1rwIR80cxGROjP86awAAAA?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.E9A5eexl5TQ-iGXOXj8G_gHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Century Arms Inc.",
@@ -223,7 +207,23 @@
         "Barrel Length: 3.6\"",
         "Manufacturer: Century Arms Inc."
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.cUWJ1rwIR80cxGROjP86awAAAA?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.2po9pba_Ne884QqWHviAZAHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "manufacturer": "Century Arms Inc.",
+      "model": "METE MC9LS-FDE (HG7885CAD-N)*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "3.6\"",
+      "date_added": "02/20/2025",
+      "description": "The Century Arms Inc. METE MC9LS-FDE (HG7885CAD-N)* is a recently certified handgun featuring a 3.6\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 3.6\"",
+        "Manufacturer: Century Arms Inc."
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.cF1d3SOLPPpa827co4o06QAAAA?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Biofire",
@@ -239,7 +239,7 @@
         "Barrel Length: 4.69\"",
         "Manufacturer: Biofire"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.muCxdQesmi00rmItKqdAaQHaFF?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.c1EWIvXUduzmdGwtXVzNJwHaE8?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     }
   ]
 }
