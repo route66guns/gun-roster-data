@@ -1,38 +1,6 @@
 {
-  "updated": "2025-05-11T01:26:46.347472",
+  "updated": "2025-05-12T01:24:34.219068",
   "handguns": [
-    {
-      "manufacturer": "KelTec",
-      "model": "P15*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "05/07/2025",
-      "description": "The KelTec P15* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: KelTec"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.ij-vYZwJ86sTd5M3SRxVhAHaFu?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
-    },
-    {
-      "manufacturer": "North American Arms",
-      "model": "NAA-PUG-D-HG",
-      "caliber": ".22 Magnum",
-      "type": "Revolver",
-      "barrel_length": "1\"",
-      "date_added": "05/07/2025",
-      "description": "The North American Arms NAA-PUG-D-HG is a recently certified handgun featuring a 1\" barrel and chambered in .22 Magnum.",
-      "features": [
-        "Caliber: .22 Magnum",
-        "Type: Revolver",
-        "Barrel Length: 1\"",
-        "Manufacturer: North American Arms"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.Rn8bdvum89_EnraUzUGVrQHaE6?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
-    },
     {
       "manufacturer": "North American Arms",
       "model": "NAA-22LR-HG",
@@ -64,6 +32,38 @@
         "Manufacturer: North American Arms"
       ],
       "image_url": "https://th.bing.com/th/id/OIP.fpj-cPGHABq3ZZDQuDqYcgHaHa?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
+    },
+    {
+      "manufacturer": "KelTec",
+      "model": "P15*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4\"",
+      "date_added": "05/07/2025",
+      "description": "The KelTec P15* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4\"",
+        "Manufacturer: KelTec"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.ij-vYZwJ86sTd5M3SRxVhAHaFu?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
+    },
+    {
+      "manufacturer": "North American Arms",
+      "model": "NAA-PUG-D-HG",
+      "caliber": ".22 Magnum",
+      "type": "Revolver",
+      "barrel_length": "1\"",
+      "date_added": "05/07/2025",
+      "description": "The North American Arms NAA-PUG-D-HG is a recently certified handgun featuring a 1\" barrel and chambered in .22 Magnum.",
+      "features": [
+        "Caliber: .22 Magnum",
+        "Type: Revolver",
+        "Barrel Length: 1\"",
+        "Manufacturer: North American Arms"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.Rn8bdvum89_EnraUzUGVrQHaE6?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
     },
     {
       "manufacturer": "Colt",
@@ -131,6 +131,22 @@
     },
     {
       "manufacturer": "Smith & Wesson",
+      "model": "642-UC SKU 13995",
+      "caliber": ".38 S&W SPL.",
+      "type": "Revolver",
+      "barrel_length": "1.875\"",
+      "date_added": "03/27/2025",
+      "description": "The Smith & Wesson 642-UC SKU 13995 is a recently certified handgun featuring a 1.875\" barrel and chambered in .38 S&W SPL..",
+      "features": [
+        "Caliber: .38 S&W SPL.",
+        "Type: Revolver",
+        "Barrel Length: 1.875\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.bnzHuGsWtnw8IhJA7kDzywHaEJ?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
       "model": "442-UC SKU 13996",
       "caliber": ".38 S&W SPL.",
       "type": "Revolver",
@@ -178,22 +194,6 @@
       "image_url": "https://th.bing.com/th/id/OIP.Tycp9M5nbKxG0K3WKP0XrQAAAA?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
     },
     {
-      "manufacturer": "Smith & Wesson",
-      "model": "642-UC SKU 13995",
-      "caliber": ".38 S&W SPL.",
-      "type": "Revolver",
-      "barrel_length": "1.875\"",
-      "date_added": "03/27/2025",
-      "description": "The Smith & Wesson 642-UC SKU 13995 is a recently certified handgun featuring a 1.875\" barrel and chambered in .38 S&W SPL..",
-      "features": [
-        "Caliber: .38 S&W SPL.",
-        "Type: Revolver",
-        "Barrel Length: 1.875\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.XP_loBBGlhTV18a6rd0YMAHaIL?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
-    },
-    {
       "manufacturer": "Sig Sauer",
       "model": "322C-BAS-CA*",
       "caliber": ".22 LR",
@@ -224,6 +224,22 @@
         "Manufacturer: Girsan (Imported by European American Armory Corporation)"
       ],
       "image_url": "https://th.bing.com/th/id/OIP.DrVqjDVqH_2duwqihTMdMgHaHa?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
+    },
+    {
+      "manufacturer": "Century Arms Inc.",
+      "model": "METE MC9LS- SLIDE BLACK FRAME FDE (HG7885CABD-N)*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "3.6\"",
+      "date_added": "02/20/2025",
+      "description": "The Century Arms Inc. METE MC9LS- SLIDE BLACK FRAME FDE (HG7885CABD-N)* is a recently certified handgun featuring a 3.6\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 3.6\"",
+        "Manufacturer: Century Arms Inc."
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.dSGp_OkpcyU2suDQpP_qfgHaHa?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
     },
     {
       "manufacturer": "Century Arms Inc.",
@@ -272,22 +288,6 @@
         "Manufacturer: Century Arms Inc."
       ],
       "image_url": "https://th.bing.com/th/id/OIP.cUWJ1rwIR80cxGROjP86awAAAA?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
-    },
-    {
-      "manufacturer": "Century Arms Inc.",
-      "model": "METE MC9LS- SLIDE BLACK FRAME FDE (HG7885CABD-N)*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "3.6\"",
-      "date_added": "02/20/2025",
-      "description": "The Century Arms Inc. METE MC9LS- SLIDE BLACK FRAME FDE (HG7885CABD-N)* is a recently certified handgun featuring a 3.6\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 3.6\"",
-        "Manufacturer: Century Arms Inc."
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.dSGp_OkpcyU2suDQpP_qfgHaHa?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
     }
   ]
 }
