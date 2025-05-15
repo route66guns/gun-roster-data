@@ -1,5 +1,5 @@
 {
-  "updated": "2025-05-14T01:21:54.937760",
+  "updated": "2025-05-15T01:20:06.552293",
   "handguns": [
     {
       "manufacturer": "Magnum Research",
@@ -99,6 +99,22 @@
     },
     {
       "manufacturer": "North American Arms",
+      "model": "NAA-PUG-D-HG",
+      "caliber": ".22 Magnum",
+      "type": "Revolver",
+      "barrel_length": "1\"",
+      "date_added": "05/07/2025",
+      "description": "The North American Arms NAA-PUG-D-HG is a recently certified handgun featuring a 1\" barrel and chambered in .22 Magnum.",
+      "features": [
+        "Caliber: .22 Magnum",
+        "Type: Revolver",
+        "Barrel Length: 1\"",
+        "Manufacturer: North American Arms"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.SrB4rt2ML9dybCdPXODKgQHaHa?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "North American Arms",
       "model": "NAA-22LR-HG",
       "caliber": ".22 LR",
       "type": "Revolver",
@@ -146,22 +162,6 @@
       "image_url": "https://th.bing.com/th/id/OIP.gGfAOVnc4PNCD214k1GggwHaFZ?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     },
     {
-      "manufacturer": "North American Arms",
-      "model": "NAA-PUG-D-HG",
-      "caliber": ".22 Magnum",
-      "type": "Revolver",
-      "barrel_length": "1\"",
-      "date_added": "05/07/2025",
-      "description": "The North American Arms NAA-PUG-D-HG is a recently certified handgun featuring a 1\" barrel and chambered in .22 Magnum.",
-      "features": [
-        "Caliber: .22 Magnum",
-        "Type: Revolver",
-        "Barrel Length: 1\"",
-        "Manufacturer: North American Arms"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.ICOQama1dbt_45KiwIRDQwHaJ3?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
-    },
-    {
       "manufacturer": "Colt",
       "model": "GRIZZLY (GRIZZLY-SP4RTS)",
       "caliber": ".357 Magnum",
@@ -175,7 +175,7 @@
         "Barrel Length: 4.25\"",
         "Manufacturer: Colt"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.BiCV1c3yWptzURkgwWcGoQHaFj?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.yFOtCzL7cxznBcxBcHPN2QHaHa?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Colt",
@@ -227,6 +227,22 @@
     },
     {
       "manufacturer": "Smith & Wesson",
+      "model": "432-UC SKU 14035",
+      "caliber": ".32 H&R",
+      "type": "Revolver",
+      "barrel_length": "1.875\"",
+      "date_added": "03/27/2025",
+      "description": "The Smith & Wesson 432-UC SKU 14035 is a recently certified handgun featuring a 1.875\" barrel and chambered in .32 H&R.",
+      "features": [
+        "Caliber: .32 H&R",
+        "Type: Revolver",
+        "Barrel Length: 1.875\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.b907EmcNl3h5oyqiGhxQwAAAAA?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
       "model": "642-UC SKU 13995",
       "caliber": ".38 S&W SPL.",
       "type": "Revolver",
@@ -272,22 +288,6 @@
         "Manufacturer: Smith & Wesson"
       ],
       "image_url": "https://th.bing.com/th/id/OIP.65sd7E6HOQv_OCYL0r3H9wAAAA?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "432-UC SKU 14035",
-      "caliber": ".32 H&R",
-      "type": "Revolver",
-      "barrel_length": "1.875\"",
-      "date_added": "03/27/2025",
-      "description": "The Smith & Wesson 432-UC SKU 14035 is a recently certified handgun featuring a 1.875\" barrel and chambered in .32 H&R.",
-      "features": [
-        "Caliber: .32 H&R",
-        "Type: Revolver",
-        "Barrel Length: 1.875\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.b907EmcNl3h5oyqiGhxQwAAAAA?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Sig Sauer",
