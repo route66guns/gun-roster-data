@@ -1,6 +1,22 @@
 {
-  "updated": "2025-05-17T01:20:58.469057",
+  "updated": "2025-05-18T01:27:52.373425",
   "handguns": [
+    {
+      "manufacturer": "Magnum Research",
+      "model": "DE44CABB (Burnt Bronze)",
+      "caliber": ".44 Magnum",
+      "type": "Pistol",
+      "barrel_length": "6\"",
+      "date_added": "05/13/2025",
+      "description": "The Magnum Research DE44CABB (Burnt Bronze) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
+      "features": [
+        "Caliber: .44 Magnum",
+        "Type: Pistol",
+        "Barrel Length: 6\"",
+        "Manufacturer: Magnum Research"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.mQfstNmEFecrWUc-3iQS1gHaFC?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
+    },
     {
       "manufacturer": "Magnum Research",
       "model": "DE44CATU (Tungsten)",
@@ -15,7 +31,7 @@
         "Barrel Length: 6\"",
         "Manufacturer: Magnum Research"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.jMQQOPt0pJahIO7DP-fjBgHaJ4?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.BmO3aK_kqM6wYAIw_IrLYwHaHa?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Staccato 2011 LLC",
@@ -31,7 +47,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Staccato 2011 LLC"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.LYheGG2g7P9U19sK0EP7UwHaHa?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.uYgex9fJDXZpyLsG0_bZewHaHa?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Magnum Research",
@@ -47,7 +63,7 @@
         "Barrel Length: 6\"",
         "Manufacturer: Magnum Research"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.0cApFrH45wFnG7CLEW0aiwHaFj?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.0cApFrH45wFnG7CLEW0aiwHaFj?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Magnum Research",
@@ -63,7 +79,7 @@
         "Barrel Length: 6\"",
         "Manufacturer: Magnum Research"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.X7FgkXeB2uohSOqmspO71QHaE8?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.4aScoxIXhf9dxTiP270rZQHaHa?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Magnum Research",
@@ -79,71 +95,7 @@
         "Barrel Length: 6\"",
         "Manufacturer: Magnum Research"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.2YDD0NSsAwEhkejCWQaI8QHaD1?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
-    },
-    {
-      "manufacturer": "Magnum Research",
-      "model": "DE44CABB (Burnt Bronze)",
-      "caliber": ".44 Magnum",
-      "type": "Pistol",
-      "barrel_length": "6\"",
-      "date_added": "05/13/2025",
-      "description": "The Magnum Research DE44CABB (Burnt Bronze) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
-      "features": [
-        "Caliber: .44 Magnum",
-        "Type: Pistol",
-        "Barrel Length: 6\"",
-        "Manufacturer: Magnum Research"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.mQfstNmEFecrWUc-3iQS1gHaFC?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
-    },
-    {
-      "manufacturer": "North American Arms",
-      "model": "NAA-PUG-D-HG",
-      "caliber": ".22 Magnum",
-      "type": "Revolver",
-      "barrel_length": "1\"",
-      "date_added": "05/07/2025",
-      "description": "The North American Arms NAA-PUG-D-HG is a recently certified handgun featuring a 1\" barrel and chambered in .22 Magnum.",
-      "features": [
-        "Caliber: .22 Magnum",
-        "Type: Revolver",
-        "Barrel Length: 1\"",
-        "Manufacturer: North American Arms"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.SrB4rt2ML9dybCdPXODKgQHaHa?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
-    },
-    {
-      "manufacturer": "North American Arms",
-      "model": "NAA-22LR-HG",
-      "caliber": ".22 LR",
-      "type": "Revolver",
-      "barrel_length": "1.125\"",
-      "date_added": "05/07/2025",
-      "description": "The North American Arms NAA-22LR-HG is a recently certified handgun featuring a 1.125\" barrel and chambered in .22 LR.",
-      "features": [
-        "Caliber: .22 LR",
-        "Type: Revolver",
-        "Barrel Length: 1.125\"",
-        "Manufacturer: North American Arms"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.CGq6457GuijcxfJMOFJ-RQHaJ3?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
-    },
-    {
-      "manufacturer": "North American Arms",
-      "model": "NAA-22MS-HG",
-      "caliber": ".22 Magnum",
-      "type": "Revolver",
-      "barrel_length": "1.125\"",
-      "date_added": "05/07/2025",
-      "description": "The North American Arms NAA-22MS-HG is a recently certified handgun featuring a 1.125\" barrel and chambered in .22 Magnum.",
-      "features": [
-        "Caliber: .22 Magnum",
-        "Type: Revolver",
-        "Barrel Length: 1.125\"",
-        "Manufacturer: North American Arms"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.fpj-cPGHABq3ZZDQuDqYcgHaHa?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.2YDD0NSsAwEhkejCWQaI8QHaD1?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     },
     {
       "manufacturer": "KelTec",
@@ -159,23 +111,55 @@
         "Barrel Length: 4\"",
         "Manufacturer: KelTec"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.gGfAOVnc4PNCD214k1GggwHaFZ?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.ij-vYZwJ86sTd5M3SRxVhAHaFu?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     },
     {
-      "manufacturer": "Colt",
-      "model": "KODIAK (KODIAK-SP4RTS)",
-      "caliber": ".44 Magnum",
+      "manufacturer": "North American Arms",
+      "model": "NAA-PUG-D-HG",
+      "caliber": ".22 Magnum",
       "type": "Revolver",
-      "barrel_length": "4.25\"",
-      "date_added": "04/22/2025",
-      "description": "The Colt KODIAK (KODIAK-SP4RTS) is a recently certified handgun featuring a 4.25\" barrel and chambered in .44 Magnum.",
+      "barrel_length": "1\"",
+      "date_added": "05/07/2025",
+      "description": "The North American Arms NAA-PUG-D-HG is a recently certified handgun featuring a 1\" barrel and chambered in .22 Magnum.",
       "features": [
-        "Caliber: .44 Magnum",
+        "Caliber: .22 Magnum",
         "Type: Revolver",
-        "Barrel Length: 4.25\"",
-        "Manufacturer: Colt"
+        "Barrel Length: 1\"",
+        "Manufacturer: North American Arms"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.S4PNsyvIlcDcrjdf_Vu-8AHaE7?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.Rn8bdvum89_EnraUzUGVrQHaE6?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "North American Arms",
+      "model": "NAA-22LR-HG",
+      "caliber": ".22 LR",
+      "type": "Revolver",
+      "barrel_length": "1.125\"",
+      "date_added": "05/07/2025",
+      "description": "The North American Arms NAA-22LR-HG is a recently certified handgun featuring a 1.125\" barrel and chambered in .22 LR.",
+      "features": [
+        "Caliber: .22 LR",
+        "Type: Revolver",
+        "Barrel Length: 1.125\"",
+        "Manufacturer: North American Arms"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.Bgxb66AyvjhAj7lo-LFyDQHaFI?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "North American Arms",
+      "model": "NAA-22MS-HG",
+      "caliber": ".22 Magnum",
+      "type": "Revolver",
+      "barrel_length": "1.125\"",
+      "date_added": "05/07/2025",
+      "description": "The North American Arms NAA-22MS-HG is a recently certified handgun featuring a 1.125\" barrel and chambered in .22 Magnum.",
+      "features": [
+        "Caliber: .22 Magnum",
+        "Type: Revolver",
+        "Barrel Length: 1.125\"",
+        "Manufacturer: North American Arms"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.fpj-cPGHABq3ZZDQuDqYcgHaHa?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Colt",
@@ -191,23 +175,23 @@
         "Barrel Length: 4.25\"",
         "Manufacturer: Colt"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.HeVs_CHiWwOm9WlfXAbFnAHaHa?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.iy8GJYG_tSoO-TllKiERJwHaHa?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     },
     {
-      "manufacturer": "Walther",
-      "model": "PDP 4.0\" Compact*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "04/04/2025",
-      "description": "The Walther PDP 4.0\" Compact* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "manufacturer": "Colt",
+      "model": "KODIAK (KODIAK-SP4RTS)",
+      "caliber": ".44 Magnum",
+      "type": "Revolver",
+      "barrel_length": "4.25\"",
+      "date_added": "04/22/2025",
+      "description": "The Colt KODIAK (KODIAK-SP4RTS) is a recently certified handgun featuring a 4.25\" barrel and chambered in .44 Magnum.",
       "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: Walther"
+        "Caliber: .44 Magnum",
+        "Type: Revolver",
+        "Barrel Length: 4.25\"",
+        "Manufacturer: Colt"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.UooJzVnwi3kwQ3oL43i2CgHaFj?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.S4PNsyvIlcDcrjdf_Vu-8AHaE7?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Walther",
@@ -223,55 +207,23 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Walther"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.wOHLe509A49dpgXpWvS1JQHaF2?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.wOHLe509A49dpgXpWvS1JQHaF2?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     },
     {
-      "manufacturer": "Smith & Wesson",
-      "model": "442-UC SKU 13996",
-      "caliber": ".38 S&W SPL.",
-      "type": "Revolver",
-      "barrel_length": "1.875\"",
-      "date_added": "03/27/2025",
-      "description": "The Smith & Wesson 442-UC SKU 13996 is a recently certified handgun featuring a 1.875\" barrel and chambered in .38 S&W SPL..",
+      "manufacturer": "Walther",
+      "model": "PDP 4.0\" Compact*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4\"",
+      "date_added": "04/04/2025",
+      "description": "The Walther PDP 4.0\" Compact* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
       "features": [
-        "Caliber: .38 S&W SPL.",
-        "Type: Revolver",
-        "Barrel Length: 1.875\"",
-        "Manufacturer: Smith & Wesson"
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4\"",
+        "Manufacturer: Walther"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP._N6rnFwJhR_LRVJnZm7ikwAAAA?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
-    },
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "632-UC SKU 14034",
-      "caliber": ".32 H&R",
-      "type": "Revolver",
-      "barrel_length": "1.875\"",
-      "date_added": "03/27/2025",
-      "description": "The Smith & Wesson 632-UC SKU 14034 is a recently certified handgun featuring a 1.875\" barrel and chambered in .32 H&R.",
-      "features": [
-        "Caliber: .32 H&R",
-        "Type: Revolver",
-        "Barrel Length: 1.875\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.65sd7E6HOQv_OCYL0r3H9wAAAA?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
-    },
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "432-UC SKU 14035",
-      "caliber": ".32 H&R",
-      "type": "Revolver",
-      "barrel_length": "1.875\"",
-      "date_added": "03/27/2025",
-      "description": "The Smith & Wesson 432-UC SKU 14035 is a recently certified handgun featuring a 1.875\" barrel and chambered in .32 H&R.",
-      "features": [
-        "Caliber: .32 H&R",
-        "Type: Revolver",
-        "Barrel Length: 1.875\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.b907EmcNl3h5oyqiGhxQwAAAAA?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.wOHLe509A49dpgXpWvS1JQHaF2?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -287,7 +239,55 @@
         "Barrel Length: 1.875\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.bnzHuGsWtnw8IhJA7kDzywHaEJ?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.bnzHuGsWtnw8IhJA7kDzywHaEJ?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "442-UC SKU 13996",
+      "caliber": ".38 S&W SPL.",
+      "type": "Revolver",
+      "barrel_length": "1.875\"",
+      "date_added": "03/27/2025",
+      "description": "The Smith & Wesson 442-UC SKU 13996 is a recently certified handgun featuring a 1.875\" barrel and chambered in .38 S&W SPL..",
+      "features": [
+        "Caliber: .38 S&W SPL.",
+        "Type: Revolver",
+        "Barrel Length: 1.875\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP._N6rnFwJhR_LRVJnZm7ikwAAAA?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "632-UC SKU 14034",
+      "caliber": ".32 H&R",
+      "type": "Revolver",
+      "barrel_length": "1.875\"",
+      "date_added": "03/27/2025",
+      "description": "The Smith & Wesson 632-UC SKU 14034 is a recently certified handgun featuring a 1.875\" barrel and chambered in .32 H&R.",
+      "features": [
+        "Caliber: .32 H&R",
+        "Type: Revolver",
+        "Barrel Length: 1.875\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://raw.githubusercontent.com/route66guns/gun-roster-data/main/images/placeholder.jpg"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "432-UC SKU 14035",
+      "caliber": ".32 H&R",
+      "type": "Revolver",
+      "barrel_length": "1.875\"",
+      "date_added": "03/27/2025",
+      "description": "The Smith & Wesson 432-UC SKU 14035 is a recently certified handgun featuring a 1.875\" barrel and chambered in .32 H&R.",
+      "features": [
+        "Caliber: .32 H&R",
+        "Type: Revolver",
+        "Barrel Length: 1.875\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.Tycp9M5nbKxG0K3WKP0XrQAAAA?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Sig Sauer",
@@ -303,7 +303,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Sig Sauer"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.wcjzmSA1SIhYG7N5vSyzRAHaE8?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.F29xkHrfyUiqGVat9NXVjwHaFL?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Girsan (Imported by European American Armory Corporation)",
@@ -319,55 +319,7 @@
         "Barrel Length: 4.87\"",
         "Manufacturer: Girsan (Imported by European American Armory Corporation)"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.DrVqjDVqH_2duwqihTMdMgHaHa?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
-    },
-    {
-      "manufacturer": "Century Arms Inc.",
-      "model": "METE MC9L- SLIDE BLACK FRAME FDE (HG7884CABD-N)*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "3.2\"",
-      "date_added": "02/20/2025",
-      "description": "The Century Arms Inc. METE MC9L- SLIDE BLACK FRAME FDE (HG7884CABD-N)* is a recently certified handgun featuring a 3.2\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 3.2\"",
-        "Manufacturer: Century Arms Inc."
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.KLCTCV12704lGF8J5pUmCQHaE7?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
-    },
-    {
-      "manufacturer": "Century Arms Inc.",
-      "model": "METE MC9L-FDE (HG7884CAD-N)*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "3.2\"",
-      "date_added": "02/20/2025",
-      "description": "The Century Arms Inc. METE MC9L-FDE (HG7884CAD-N)* is a recently certified handgun featuring a 3.2\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 3.2\"",
-        "Manufacturer: Century Arms Inc."
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.cUWJ1rwIR80cxGROjP86awAAAA?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
-    },
-    {
-      "manufacturer": "Century Arms Inc.",
-      "model": "METE MC9LS- SLIDE BLACK FRAME FDE (HG7885CABD-N)*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "3.6\"",
-      "date_added": "02/20/2025",
-      "description": "The Century Arms Inc. METE MC9LS- SLIDE BLACK FRAME FDE (HG7885CABD-N)* is a recently certified handgun featuring a 3.6\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 3.6\"",
-        "Manufacturer: Century Arms Inc."
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.dSGp_OkpcyU2suDQpP_qfgHaHa?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.DrVqjDVqH_2duwqihTMdMgHaHa?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Century Arms Inc.",
@@ -383,7 +335,55 @@
         "Barrel Length: 3.6\"",
         "Manufacturer: Century Arms Inc."
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.E9A5eexl5TQ-iGXOXj8G_gHaHa?w=800&h=600&c=7&r=0&o=5&cb=iwc2&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.9bnqF4kZwkEGeGJaDhr1zQHaE8?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Century Arms Inc.",
+      "model": "METE MC9L- SLIDE BLACK FRAME FDE (HG7884CABD-N)*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "3.2\"",
+      "date_added": "02/20/2025",
+      "description": "The Century Arms Inc. METE MC9L- SLIDE BLACK FRAME FDE (HG7884CABD-N)* is a recently certified handgun featuring a 3.2\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 3.2\"",
+        "Manufacturer: Century Arms Inc."
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.v8AGxXhVuSrqxfROK-9D3gHaFj?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Century Arms Inc.",
+      "model": "METE MC9L-FDE (HG7884CAD-N)*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "3.2\"",
+      "date_added": "02/20/2025",
+      "description": "The Century Arms Inc. METE MC9L-FDE (HG7884CAD-N)* is a recently certified handgun featuring a 3.2\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 3.2\"",
+        "Manufacturer: Century Arms Inc."
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.cUWJ1rwIR80cxGROjP86awAAAA?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Century Arms Inc.",
+      "model": "METE MC9LS- SLIDE BLACK FRAME FDE (HG7885CABD-N)*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "3.6\"",
+      "date_added": "02/20/2025",
+      "description": "The Century Arms Inc. METE MC9LS- SLIDE BLACK FRAME FDE (HG7885CABD-N)* is a recently certified handgun featuring a 3.6\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 3.6\"",
+        "Manufacturer: Century Arms Inc."
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.dSGp_OkpcyU2suDQpP_qfgHaHa?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     }
   ]
 }
