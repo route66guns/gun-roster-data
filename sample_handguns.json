@@ -1,6 +1,38 @@
 {
-  "updated": "2025-05-18T01:27:52.373425",
+  "updated": "2025-05-19T01:26:17.232525",
   "handguns": [
+    {
+      "manufacturer": "Magnum Research",
+      "model": "DE44CAPC (Polished Chrome)",
+      "caliber": ".44 Magnum",
+      "type": "Pistol",
+      "barrel_length": "6\"",
+      "date_added": "05/13/2025",
+      "description": "The Magnum Research DE44CAPC (Polished Chrome) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
+      "features": [
+        "Caliber: .44 Magnum",
+        "Type: Pistol",
+        "Barrel Length: 6\"",
+        "Manufacturer: Magnum Research"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.4aScoxIXhf9dxTiP270rZQHaHa?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Magnum Research",
+      "model": "DE44CA (Black)",
+      "caliber": ".44 Magnum",
+      "type": "Pistol",
+      "barrel_length": "6\"",
+      "date_added": "05/13/2025",
+      "description": "The Magnum Research DE44CA (Black) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
+      "features": [
+        "Caliber: .44 Magnum",
+        "Type: Pistol",
+        "Barrel Length: 6\"",
+        "Manufacturer: Magnum Research"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.2YDD0NSsAwEhkejCWQaI8QHaD1?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
+    },
     {
       "manufacturer": "Magnum Research",
       "model": "DE44CABB (Burnt Bronze)",
@@ -66,36 +98,36 @@
       "image_url": "https://th.bing.com/th/id/OIP.0cApFrH45wFnG7CLEW0aiwHaFj?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     },
     {
-      "manufacturer": "Magnum Research",
-      "model": "DE44CAPC (Polished Chrome)",
-      "caliber": ".44 Magnum",
-      "type": "Pistol",
-      "barrel_length": "6\"",
-      "date_added": "05/13/2025",
-      "description": "The Magnum Research DE44CAPC (Polished Chrome) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
+      "manufacturer": "North American Arms",
+      "model": "NAA-22LR-HG",
+      "caliber": ".22 LR",
+      "type": "Revolver",
+      "barrel_length": "1.125\"",
+      "date_added": "05/07/2025",
+      "description": "The North American Arms NAA-22LR-HG is a recently certified handgun featuring a 1.125\" barrel and chambered in .22 LR.",
       "features": [
-        "Caliber: .44 Magnum",
-        "Type: Pistol",
-        "Barrel Length: 6\"",
-        "Manufacturer: Magnum Research"
+        "Caliber: .22 LR",
+        "Type: Revolver",
+        "Barrel Length: 1.125\"",
+        "Manufacturer: North American Arms"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.4aScoxIXhf9dxTiP270rZQHaHa?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.Bgxb66AyvjhAj7lo-LFyDQHaFI?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     },
     {
-      "manufacturer": "Magnum Research",
-      "model": "DE44CA (Black)",
-      "caliber": ".44 Magnum",
-      "type": "Pistol",
-      "barrel_length": "6\"",
-      "date_added": "05/13/2025",
-      "description": "The Magnum Research DE44CA (Black) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
+      "manufacturer": "North American Arms",
+      "model": "NAA-22MS-HG",
+      "caliber": ".22 Magnum",
+      "type": "Revolver",
+      "barrel_length": "1.125\"",
+      "date_added": "05/07/2025",
+      "description": "The North American Arms NAA-22MS-HG is a recently certified handgun featuring a 1.125\" barrel and chambered in .22 Magnum.",
       "features": [
-        "Caliber: .44 Magnum",
-        "Type: Pistol",
-        "Barrel Length: 6\"",
-        "Manufacturer: Magnum Research"
+        "Caliber: .22 Magnum",
+        "Type: Revolver",
+        "Barrel Length: 1.125\"",
+        "Manufacturer: North American Arms"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.2YDD0NSsAwEhkejCWQaI8QHaD1?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.fpj-cPGHABq3ZZDQuDqYcgHaHa?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     },
     {
       "manufacturer": "KelTec",
@@ -128,38 +160,6 @@
         "Manufacturer: North American Arms"
       ],
       "image_url": "https://th.bing.com/th/id/OIP.Rn8bdvum89_EnraUzUGVrQHaE6?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "North American Arms",
-      "model": "NAA-22LR-HG",
-      "caliber": ".22 LR",
-      "type": "Revolver",
-      "barrel_length": "1.125\"",
-      "date_added": "05/07/2025",
-      "description": "The North American Arms NAA-22LR-HG is a recently certified handgun featuring a 1.125\" barrel and chambered in .22 LR.",
-      "features": [
-        "Caliber: .22 LR",
-        "Type: Revolver",
-        "Barrel Length: 1.125\"",
-        "Manufacturer: North American Arms"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.Bgxb66AyvjhAj7lo-LFyDQHaFI?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "North American Arms",
-      "model": "NAA-22MS-HG",
-      "caliber": ".22 Magnum",
-      "type": "Revolver",
-      "barrel_length": "1.125\"",
-      "date_added": "05/07/2025",
-      "description": "The North American Arms NAA-22MS-HG is a recently certified handgun featuring a 1.125\" barrel and chambered in .22 Magnum.",
-      "features": [
-        "Caliber: .22 Magnum",
-        "Type: Revolver",
-        "Barrel Length: 1.125\"",
-        "Manufacturer: North American Arms"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.fpj-cPGHABq3ZZDQuDqYcgHaHa?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Colt",
@@ -195,6 +195,22 @@
     },
     {
       "manufacturer": "Walther",
+      "model": "PDP 4.0\" Compact*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4\"",
+      "date_added": "04/04/2025",
+      "description": "The Walther PDP 4.0\" Compact* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4\"",
+        "Manufacturer: Walther"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.wOHLe509A49dpgXpWvS1JQHaF2?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Walther",
       "model": "PDP 4.5\" Full Size*",
       "caliber": "9MM",
       "type": "Pistol",
@@ -210,20 +226,20 @@
       "image_url": "https://th.bing.com/th/id/OIP.wOHLe509A49dpgXpWvS1JQHaF2?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     },
     {
-      "manufacturer": "Walther",
-      "model": "PDP 4.0\" Compact*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "04/04/2025",
-      "description": "The Walther PDP 4.0\" Compact* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "manufacturer": "Smith & Wesson",
+      "model": "432-UC SKU 14035",
+      "caliber": ".32 H&R",
+      "type": "Revolver",
+      "barrel_length": "1.875\"",
+      "date_added": "03/27/2025",
+      "description": "The Smith & Wesson 432-UC SKU 14035 is a recently certified handgun featuring a 1.875\" barrel and chambered in .32 H&R.",
       "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: Walther"
+        "Caliber: .32 H&R",
+        "Type: Revolver",
+        "Barrel Length: 1.875\"",
+        "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.wOHLe509A49dpgXpWvS1JQHaF2?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.Tycp9M5nbKxG0K3WKP0XrQAAAA?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -271,23 +287,7 @@
         "Barrel Length: 1.875\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://raw.githubusercontent.com/route66guns/gun-roster-data/main/images/placeholder.jpg"
-    },
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "432-UC SKU 14035",
-      "caliber": ".32 H&R",
-      "type": "Revolver",
-      "barrel_length": "1.875\"",
-      "date_added": "03/27/2025",
-      "description": "The Smith & Wesson 432-UC SKU 14035 is a recently certified handgun featuring a 1.875\" barrel and chambered in .32 H&R.",
-      "features": [
-        "Caliber: .32 H&R",
-        "Type: Revolver",
-        "Barrel Length: 1.875\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.Tycp9M5nbKxG0K3WKP0XrQAAAA?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.65sd7E6HOQv_OCYL0r3H9wAAAA?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Sig Sauer",
@@ -323,6 +323,22 @@
     },
     {
       "manufacturer": "Century Arms Inc.",
+      "model": "METE MC9LS- SLIDE BLACK FRAME FDE (HG7885CABD-N)*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "3.6\"",
+      "date_added": "02/20/2025",
+      "description": "The Century Arms Inc. METE MC9LS- SLIDE BLACK FRAME FDE (HG7885CABD-N)* is a recently certified handgun featuring a 3.6\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 3.6\"",
+        "Manufacturer: Century Arms Inc."
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.dSGp_OkpcyU2suDQpP_qfgHaHa?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Century Arms Inc.",
       "model": "METE MC9LS-FDE (HG7885CAD-N)*",
       "caliber": "9MM",
       "type": "Pistol",
@@ -351,7 +367,7 @@
         "Barrel Length: 3.2\"",
         "Manufacturer: Century Arms Inc."
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.v8AGxXhVuSrqxfROK-9D3gHaFj?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.KLCTCV12704lGF8J5pUmCQHaE7?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Century Arms Inc.",
@@ -368,22 +384,6 @@
         "Manufacturer: Century Arms Inc."
       ],
       "image_url": "https://th.bing.com/th/id/OIP.cUWJ1rwIR80cxGROjP86awAAAA?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Century Arms Inc.",
-      "model": "METE MC9LS- SLIDE BLACK FRAME FDE (HG7885CABD-N)*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "3.6\"",
-      "date_added": "02/20/2025",
-      "description": "The Century Arms Inc. METE MC9LS- SLIDE BLACK FRAME FDE (HG7885CABD-N)* is a recently certified handgun featuring a 3.6\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 3.6\"",
-        "Manufacturer: Century Arms Inc."
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.dSGp_OkpcyU2suDQpP_qfgHaHa?w=800&h=600&c=7&r=0&o=7&cb=iwp2&pid=1.7&rm=3"
     }
   ]
 }
