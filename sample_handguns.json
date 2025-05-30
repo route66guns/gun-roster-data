@@ -1,5 +1,5 @@
 {
-  "updated": "2025-05-29T01:23:18.795454",
+  "updated": "2025-05-30T01:21:18.827387",
   "handguns": [
     {
       "manufacturer": "Rost Martin",
@@ -16,6 +16,22 @@
         "Manufacturer: Rost Martin"
       ],
       "image_url": "https://th.bing.com/th/id/OIP.t5XM8QPNxvOPWd0Z0ZYxhgHaE8?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "manufacturer": "Magnum Research",
+      "model": "DE44CA (Black)",
+      "caliber": ".44 Magnum",
+      "type": "Pistol",
+      "barrel_length": "6\"",
+      "date_added": "05/13/2025",
+      "description": "The Magnum Research DE44CA (Black) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
+      "features": [
+        "Caliber: .44 Magnum",
+        "Type: Pistol",
+        "Barrel Length: 6\"",
+        "Manufacturer: Magnum Research"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.2YDD0NSsAwEhkejCWQaI8QHaD1?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Magnum Research",
@@ -98,20 +114,36 @@
       "image_url": "https://th.bing.com/th/id/OIP.4aScoxIXhf9dxTiP270rZQHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
-      "manufacturer": "Magnum Research",
-      "model": "DE44CA (Black)",
-      "caliber": ".44 Magnum",
-      "type": "Pistol",
-      "barrel_length": "6\"",
-      "date_added": "05/13/2025",
-      "description": "The Magnum Research DE44CA (Black) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
+      "manufacturer": "North American Arms",
+      "model": "NAA-22LR-HG",
+      "caliber": ".22 LR",
+      "type": "Revolver",
+      "barrel_length": "1.125\"",
+      "date_added": "05/07/2025",
+      "description": "The North American Arms NAA-22LR-HG is a recently certified handgun featuring a 1.125\" barrel and chambered in .22 LR.",
       "features": [
-        "Caliber: .44 Magnum",
-        "Type: Pistol",
-        "Barrel Length: 6\"",
-        "Manufacturer: Magnum Research"
+        "Caliber: .22 LR",
+        "Type: Revolver",
+        "Barrel Length: 1.125\"",
+        "Manufacturer: North American Arms"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.2YDD0NSsAwEhkejCWQaI8QHaD1?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+      "image_url": "https://th.bing.com/th/id/OIP.Bgxb66AyvjhAj7lo-LFyDQHaFI?w=800&h=600&c=7&r=0&o=5&pid=1.7"
+    },
+    {
+      "manufacturer": "North American Arms",
+      "model": "NAA-22MS-HG",
+      "caliber": ".22 Magnum",
+      "type": "Revolver",
+      "barrel_length": "1.125\"",
+      "date_added": "05/07/2025",
+      "description": "The North American Arms NAA-22MS-HG is a recently certified handgun featuring a 1.125\" barrel and chambered in .22 Magnum.",
+      "features": [
+        "Caliber: .22 Magnum",
+        "Type: Revolver",
+        "Barrel Length: 1.125\"",
+        "Manufacturer: North American Arms"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.fpj-cPGHABq3ZZDQuDqYcgHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "KelTec",
@@ -144,38 +176,6 @@
         "Manufacturer: North American Arms"
       ],
       "image_url": "https://th.bing.com/th/id/OIP.Rn8bdvum89_EnraUzUGVrQHaE6?w=800&h=600&c=7&r=0&o=5&pid=1.7"
-    },
-    {
-      "manufacturer": "North American Arms",
-      "model": "NAA-22LR-HG",
-      "caliber": ".22 LR",
-      "type": "Revolver",
-      "barrel_length": "1.125\"",
-      "date_added": "05/07/2025",
-      "description": "The North American Arms NAA-22LR-HG is a recently certified handgun featuring a 1.125\" barrel and chambered in .22 LR.",
-      "features": [
-        "Caliber: .22 LR",
-        "Type: Revolver",
-        "Barrel Length: 1.125\"",
-        "Manufacturer: North American Arms"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.Bgxb66AyvjhAj7lo-LFyDQHaFI?w=800&h=600&c=7&r=0&o=5&pid=1.7"
-    },
-    {
-      "manufacturer": "North American Arms",
-      "model": "NAA-22MS-HG",
-      "caliber": ".22 Magnum",
-      "type": "Revolver",
-      "barrel_length": "1.125\"",
-      "date_added": "05/07/2025",
-      "description": "The North American Arms NAA-22MS-HG is a recently certified handgun featuring a 1.125\" barrel and chambered in .22 Magnum.",
-      "features": [
-        "Caliber: .22 Magnum",
-        "Type: Revolver",
-        "Barrel Length: 1.125\"",
-        "Manufacturer: North American Arms"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.fpj-cPGHABq3ZZDQuDqYcgHaHa?w=800&h=600&c=7&r=0&o=5&pid=1.7"
     },
     {
       "manufacturer": "Colt",
