@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-07T01:22:54.340732",
+  "updated": "2025-06-08T01:39:21.639808",
   "handguns": [
     {
       "manufacturer": "Rost Martin",
@@ -16,22 +16,6 @@
         "Manufacturer: Rost Martin"
       ],
       "image_url": "https://th.bing.com/th/id/OIP.AWYJg5KY21fKRslsWf514QHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Staccato 2011 LLC",
-      "model": "P4*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "05/13/2025",
-      "description": "The Staccato 2011 LLC P4* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: Staccato 2011 LLC"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.vMsfw8Jjcwu7ecQdOkHdbgHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Magnum Research",
@@ -114,6 +98,22 @@
       "image_url": "https://th.bing.com/th/id/OIP.Fpwfpch6fKKu5j_Sv82oFgHaE1?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
+      "manufacturer": "Staccato 2011 LLC",
+      "model": "P4*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4\"",
+      "date_added": "05/13/2025",
+      "description": "The Staccato 2011 LLC P4* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4\"",
+        "Manufacturer: Staccato 2011 LLC"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.vMsfw8Jjcwu7ecQdOkHdbgHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
       "manufacturer": "North American Arms",
       "model": "NAA-PUG-D-HG",
       "caliber": ".22 Magnum",
@@ -175,23 +175,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: KelTec"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.yaa2f05xgKKMyq8FN1jkugHaD6?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Colt",
-      "model": "KODIAK (KODIAK-SP4RTS)",
-      "caliber": ".44 Magnum",
-      "type": "Revolver",
-      "barrel_length": "4.25\"",
-      "date_added": "04/22/2025",
-      "description": "The Colt KODIAK (KODIAK-SP4RTS) is a recently certified handgun featuring a 4.25\" barrel and chambered in .44 Magnum.",
-      "features": [
-        "Caliber: .44 Magnum",
-        "Type: Revolver",
-        "Barrel Length: 4.25\"",
-        "Manufacturer: Colt"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.aWNWmyJejvu8gms4mcHQjQHaFj?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.gGfAOVnc4PNCD214k1GggwHaFZ?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Colt",
@@ -208,6 +192,22 @@
         "Manufacturer: Colt"
       ],
       "image_url": "https://th.bing.com/th/id/OIP.L7fGo6HLWR0uOB3xvz5-PwHaFj?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Colt",
+      "model": "KODIAK (KODIAK-SP4RTS)",
+      "caliber": ".44 Magnum",
+      "type": "Revolver",
+      "barrel_length": "4.25\"",
+      "date_added": "04/22/2025",
+      "description": "The Colt KODIAK (KODIAK-SP4RTS) is a recently certified handgun featuring a 4.25\" barrel and chambered in .44 Magnum.",
+      "features": [
+        "Caliber: .44 Magnum",
+        "Type: Revolver",
+        "Barrel Length: 4.25\"",
+        "Manufacturer: Colt"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.aWNWmyJejvu8gms4mcHQjQHaFj?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Walther",
@@ -240,22 +240,6 @@
         "Manufacturer: Walther"
       ],
       "image_url": "https://th.bing.com/th/id/OIP.5GI8t3EsrAWYzM6QD0tgyAHaEK?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "632-UC SKU 14034",
-      "caliber": ".32 H&R",
-      "type": "Revolver",
-      "barrel_length": "1.875\"",
-      "date_added": "03/27/2025",
-      "description": "The Smith & Wesson 632-UC SKU 14034 is a recently certified handgun featuring a 1.875\" barrel and chambered in .32 H&R.",
-      "features": [
-        "Caliber: .32 H&R",
-        "Type: Revolver",
-        "Barrel Length: 1.875\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.65sd7E6HOQv_OCYL0r3H9wAAAA?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -304,6 +288,22 @@
         "Manufacturer: Smith & Wesson"
       ],
       "image_url": "https://th.bing.com/th/id/OIP.peRjAIarN-fYcupWQoskaAHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "632-UC SKU 14034",
+      "caliber": ".32 H&R",
+      "type": "Revolver",
+      "barrel_length": "1.875\"",
+      "date_added": "03/27/2025",
+      "description": "The Smith & Wesson 632-UC SKU 14034 is a recently certified handgun featuring a 1.875\" barrel and chambered in .32 H&R.",
+      "features": [
+        "Caliber: .32 H&R",
+        "Type: Revolver",
+        "Barrel Length: 1.875\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.65sd7E6HOQv_OCYL0r3H9wAAAA?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Sig Sauer",
