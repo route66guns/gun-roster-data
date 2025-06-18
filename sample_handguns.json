@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-17T01:25:16.100024",
+  "updated": "2025-06-18T01:24:30.151814",
   "handguns": [
     {
       "manufacturer": "Rost Martin",
@@ -15,7 +15,7 @@
         "Barrel Length: 3.6\"",
         "Manufacturer: Rost Martin"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.yMKJGKoUh_Gb3bzLb-wtBwHaE7?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.AWYJg5KY21fKRslsWf514QHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Magnum Research",
@@ -47,7 +47,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Staccato 2011 LLC"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.5Kku0O3CY3ybhW7UI8t6iwHaFD?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.oQ6p7euT6hrb5dU3sh7QLwHaD7?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Magnum Research",
@@ -127,7 +127,7 @@
         "Barrel Length: 1\"",
         "Manufacturer: North American Arms"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.6gRUIukdkpHV7JrTq5jeUQHaJX?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.tvchC5h53RF0zWxqlT4H8gHaEw?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "North American Arms",
@@ -175,7 +175,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: KelTec"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.kszydqQDshy8rtFS6_vErgHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.MaOkhe5BNmJjwHh3Ft-tuwHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Colt",
@@ -223,7 +223,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Walther"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.KTLJyplurU1C6xvOaNtxpgHaFc?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.0-1NgktmdkuRxfbVP8w52wHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Walther",
@@ -239,7 +239,7 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Walther"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.KTLJyplurU1C6xvOaNtxpgHaFc?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.SUkuRc0M3LCJmo5AwAhz8wHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -255,7 +255,7 @@
         "Barrel Length: 1.875\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.1UoceFrKlSC0cS2WfD_e2AHaLH?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.AkNepqvAhvh641i3xaeO5wAAAA?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -271,7 +271,7 @@
         "Barrel Length: 1.875\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.1UoceFrKlSC0cS2WfD_e2AHaLH?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.AkNepqvAhvh641i3xaeO5wAAAA?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -287,7 +287,7 @@
         "Barrel Length: 1.875\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.1UoceFrKlSC0cS2WfD_e2AHaLH?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.AkNepqvAhvh641i3xaeO5wAAAA?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -303,23 +303,7 @@
         "Barrel Length: 1.875\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.1UoceFrKlSC0cS2WfD_e2AHaLH?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Sig Sauer",
-      "model": "322C-BAS-CA*",
-      "caliber": ".22 LR",
-      "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "03/18/2025",
-      "description": "The Sig Sauer 322C-BAS-CA* is a recently certified handgun featuring a 4\" barrel and chambered in .22 LR.",
-      "features": [
-        "Caliber: .22 LR",
-        "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: Sig Sauer"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.O9HgWloGQPLTm7T-gz21hgAAAA?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.AkNepqvAhvh641i3xaeO5wAAAA?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     }
   ]
 }
