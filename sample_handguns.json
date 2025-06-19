@@ -1,6 +1,38 @@
 {
-  "updated": "2025-06-18T01:24:30.151814",
+  "updated": "2025-06-19T01:25:16.543778",
   "handguns": [
+    {
+      "manufacturer": "Staccato 2011 LLC",
+      "model": "HD P4*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4\"",
+      "date_added": "06/18/2025",
+      "description": "The Staccato 2011 LLC HD P4* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4\"",
+        "Manufacturer: Staccato 2011 LLC"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.vMsfw8Jjcwu7ecQdOkHdbgHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Rost Martin",
+      "model": "RM1C ODG*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4\"",
+      "date_added": "06/18/2025",
+      "description": "The Rost Martin RM1C ODG* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4\"",
+        "Manufacturer: Rost Martin"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.LKzCSLrqObyOnOnu9z21ZgHaEK?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
     {
       "manufacturer": "Rost Martin",
       "model": "RM1SBLKOSP10CA*",
@@ -31,7 +63,7 @@
         "Barrel Length: 6\"",
         "Manufacturer: Magnum Research"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.odkGE4OHyBfTIVNyyTZIWgHaFk?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.--MdubUzOvRsHmujhv3KxgHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Staccato 2011 LLC",
@@ -47,7 +79,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Staccato 2011 LLC"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.oQ6p7euT6hrb5dU3sh7QLwHaD7?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.5Kku0O3CY3ybhW7UI8t6iwHaFD?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Magnum Research",
@@ -63,7 +95,7 @@
         "Barrel Length: 6\"",
         "Manufacturer: Magnum Research"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.odkGE4OHyBfTIVNyyTZIWgHaFk?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.--MdubUzOvRsHmujhv3KxgHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Magnum Research",
@@ -79,7 +111,7 @@
         "Barrel Length: 6\"",
         "Manufacturer: Magnum Research"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.odkGE4OHyBfTIVNyyTZIWgHaFk?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.--MdubUzOvRsHmujhv3KxgHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Magnum Research",
@@ -95,7 +127,7 @@
         "Barrel Length: 6\"",
         "Manufacturer: Magnum Research"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.odkGE4OHyBfTIVNyyTZIWgHaFk?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.--MdubUzOvRsHmujhv3KxgHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Magnum Research",
@@ -111,7 +143,7 @@
         "Barrel Length: 6\"",
         "Manufacturer: Magnum Research"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.odkGE4OHyBfTIVNyyTZIWgHaFk?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.--MdubUzOvRsHmujhv3KxgHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "North American Arms",
@@ -127,7 +159,7 @@
         "Barrel Length: 1\"",
         "Manufacturer: North American Arms"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.tvchC5h53RF0zWxqlT4H8gHaEw?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.6gRUIukdkpHV7JrTq5jeUQHaJX?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "North American Arms",
@@ -175,23 +207,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: KelTec"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.MaOkhe5BNmJjwHh3Ft-tuwHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Colt",
-      "model": "GRIZZLY (GRIZZLY-SP4RTS)",
-      "caliber": ".357 Magnum",
-      "type": "Revolver",
-      "barrel_length": "4.25\"",
-      "date_added": "04/22/2025",
-      "description": "The Colt GRIZZLY (GRIZZLY-SP4RTS) is a recently certified handgun featuring a 4.25\" barrel and chambered in .357 Magnum.",
-      "features": [
-        "Caliber: .357 Magnum",
-        "Type: Revolver",
-        "Barrel Length: 4.25\"",
-        "Manufacturer: Colt"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.qdGvOy0VaVEeyVvUbBJaswHaFk?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.gGfAOVnc4PNCD214k1GggwHaFZ?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Colt",
@@ -207,7 +223,23 @@
         "Barrel Length: 4.25\"",
         "Manufacturer: Colt"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.qdGvOy0VaVEeyVvUbBJaswHaFk?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.tKrgHZlSHYQgH_WkoJxcowHaE7?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Colt",
+      "model": "GRIZZLY (GRIZZLY-SP4RTS)",
+      "caliber": ".357 Magnum",
+      "type": "Revolver",
+      "barrel_length": "4.25\"",
+      "date_added": "04/22/2025",
+      "description": "The Colt GRIZZLY (GRIZZLY-SP4RTS) is a recently certified handgun featuring a 4.25\" barrel and chambered in .357 Magnum.",
+      "features": [
+        "Caliber: .357 Magnum",
+        "Type: Revolver",
+        "Barrel Length: 4.25\"",
+        "Manufacturer: Colt"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.tKrgHZlSHYQgH_WkoJxcowHaE7?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Walther",
@@ -223,7 +255,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Walther"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.0-1NgktmdkuRxfbVP8w52wHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.HimYhKKKDSZQ4nYxc72KEAHaF0?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Walther",
@@ -239,7 +271,7 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Walther"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.SUkuRc0M3LCJmo5AwAhz8wHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.HimYhKKKDSZQ4nYxc72KEAHaF0?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -255,7 +287,7 @@
         "Barrel Length: 1.875\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.AkNepqvAhvh641i3xaeO5wAAAA?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.peRjAIarN-fYcupWQoskaAHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -271,7 +303,7 @@
         "Barrel Length: 1.875\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.AkNepqvAhvh641i3xaeO5wAAAA?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.65sd7E6HOQv_OCYL0r3H9wAAAA?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -287,7 +319,7 @@
         "Barrel Length: 1.875\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.AkNepqvAhvh641i3xaeO5wAAAA?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.Tycp9M5nbKxG0K3WKP0XrQAAAA?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -303,7 +335,7 @@
         "Barrel Length: 1.875\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.AkNepqvAhvh641i3xaeO5wAAAA?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.e0vWoCpF5lNRMjSh4TnKegHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     }
   ]
 }
