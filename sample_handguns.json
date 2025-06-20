@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-19T22:08:58.766076",
+  "updated": "2025-06-20T01:24:44.728328",
   "handguns": [
     {
       "manufacturer": "Staccato 2011 LLC",
@@ -31,7 +31,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Rost Martin"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.t5XM8QPNxvOPWd0Z0ZYxhgHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.gQ-vQzV6x51zn7HosppoPQHaFj?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Rost Martin",
@@ -47,7 +47,23 @@
         "Barrel Length: 3.6\"",
         "Manufacturer: Rost Martin"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.t5XM8QPNxvOPWd0Z0ZYxhgHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.gQ-vQzV6x51zn7HosppoPQHaFj?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Staccato 2011 LLC",
+      "model": "P4*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4\"",
+      "date_added": "05/13/2025",
+      "description": "The Staccato 2011 LLC P4* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4\"",
+        "Manufacturer: Staccato 2011 LLC"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.uYgex9fJDXZpyLsG0_bZewHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Magnum Research",
@@ -95,7 +111,7 @@
         "Barrel Length: 6\"",
         "Manufacturer: Magnum Research"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.2YDD0NSsAwEhkejCWQaI8QHaD1?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.D2PxqyMkXQUdGMoZGrfj3QHaEa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Magnum Research",
@@ -130,22 +146,6 @@
       "image_url": "https://th.bing.com/th/id/OIP.BmO3aK_kqM6wYAIw_IrLYwHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
-      "manufacturer": "Staccato 2011 LLC",
-      "model": "P4*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "05/13/2025",
-      "description": "The Staccato 2011 LLC P4* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: Staccato 2011 LLC"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.ItFToBzkwGhyTskrDl-wJQHaFa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
       "manufacturer": "North American Arms",
       "model": "NAA-PUG-D-HG",
       "caliber": ".22 Magnum",
@@ -159,7 +159,7 @@
         "Barrel Length: 1\"",
         "Manufacturer: North American Arms"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.Rn8bdvum89_EnraUzUGVrQHaE6?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.SrB4rt2ML9dybCdPXODKgQHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "North American Arms",
@@ -175,7 +175,7 @@
         "Barrel Length: 1.125\"",
         "Manufacturer: North American Arms"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.A7se7DKxZw9QlLigUaArsgHaFI?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.qc2pzh3YfqrQAGWKmRqsSAHaFj?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "North American Arms",
@@ -191,7 +191,7 @@
         "Barrel Length: 1.125\"",
         "Manufacturer: North American Arms"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.fpj-cPGHABq3ZZDQuDqYcgHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.GeiiriXuxYMPESKr7SoujwHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "KelTec",
@@ -211,6 +211,22 @@
     },
     {
       "manufacturer": "Colt",
+      "model": "KODIAK (KODIAK-SP4RTS)",
+      "caliber": ".44 Magnum",
+      "type": "Revolver",
+      "barrel_length": "4.25\"",
+      "date_added": "04/22/2025",
+      "description": "The Colt KODIAK (KODIAK-SP4RTS) is a recently certified handgun featuring a 4.25\" barrel and chambered in .44 Magnum.",
+      "features": [
+        "Caliber: .44 Magnum",
+        "Type: Revolver",
+        "Barrel Length: 4.25\"",
+        "Manufacturer: Colt"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.TVMNUXU5-U0uxLU6aKo62gHaFO?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Colt",
       "model": "GRIZZLY (GRIZZLY-SP4RTS)",
       "caliber": ".357 Magnum",
       "type": "Revolver",
@@ -224,22 +240,6 @@
         "Manufacturer: Colt"
       ],
       "image_url": "https://th.bing.com/th/id/OIP.du-TvmlNqzI8cfVwT1DzsgHaHW?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Colt",
-      "model": "KODIAK (KODIAK-SP4RTS)",
-      "caliber": ".44 Magnum",
-      "type": "Revolver",
-      "barrel_length": "4.25\"",
-      "date_added": "04/22/2025",
-      "description": "The Colt KODIAK (KODIAK-SP4RTS) is a recently certified handgun featuring a 4.25\" barrel and chambered in .44 Magnum.",
-      "features": [
-        "Caliber: .44 Magnum",
-        "Type: Revolver",
-        "Barrel Length: 4.25\"",
-        "Manufacturer: Colt"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.V-dazV_LnPf2slnRvw_N9wHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Walther",
@@ -303,7 +303,7 @@
         "Barrel Length: 1.875\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.b907EmcNl3h5oyqiGhxQwAAAAA?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.Tycp9M5nbKxG0K3WKP0XrQAAAA?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -335,7 +335,7 @@
         "Barrel Length: 1.875\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.lNgrUa65uzAdrKxHiv_MugHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP._N6rnFwJhR_LRVJnZm7ikwAAAA?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     }
   ]
 }
