@@ -1,5 +1,5 @@
 {
-  "updated": "2025-06-29T01:42:15.445219",
+  "updated": "2025-06-30T01:38:43.353173",
   "handguns": [
     {
       "manufacturer": "Heckler & Koch",
@@ -15,23 +15,7 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Heckler & Koch"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.Y6K83pjuLOw2SDAWNTMwPwHaIG?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Rost Martin",
-      "model": "RM1C ODG*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "06/18/2025",
-      "description": "The Rost Martin RM1C ODG* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: Rost Martin"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.UhhAnqQ1OEl8GhMMeSG0iQHaE9?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.iDyhYwUtkus1dkNP9pFA2gHaEJ?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Staccato 2011 LLC",
@@ -47,7 +31,23 @@
         "Barrel Length: 4\"",
         "Manufacturer: Staccato 2011 LLC"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.5Kku0O3CY3ybhW7UI8t6iwHaFD?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.J0KvBIm-3L-Qf7TNRtOX1AHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Rost Martin",
+      "model": "RM1C ODG*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4\"",
+      "date_added": "06/18/2025",
+      "description": "The Rost Martin RM1C ODG* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4\"",
+        "Manufacturer: Rost Martin"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.LKzCSLrqObyOnOnu9z21ZgHaEK?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Rost Martin",
@@ -63,71 +63,7 @@
         "Barrel Length: 3.6\"",
         "Manufacturer: Rost Martin"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.UhhAnqQ1OEl8GhMMeSG0iQHaE9?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Magnum Research",
-      "model": "DE44CA (Black)",
-      "caliber": ".44 Magnum",
-      "type": "Pistol",
-      "barrel_length": "6\"",
-      "date_added": "05/13/2025",
-      "description": "The Magnum Research DE44CA (Black) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
-      "features": [
-        "Caliber: .44 Magnum",
-        "Type: Pistol",
-        "Barrel Length: 6\"",
-        "Manufacturer: Magnum Research"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.r4YWfluu5eXwcL-8WtTF6QHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Magnum Research",
-      "model": "DE44CABB (Burnt Bronze)",
-      "caliber": ".44 Magnum",
-      "type": "Pistol",
-      "barrel_length": "6\"",
-      "date_added": "05/13/2025",
-      "description": "The Magnum Research DE44CABB (Burnt Bronze) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
-      "features": [
-        "Caliber: .44 Magnum",
-        "Type: Pistol",
-        "Barrel Length: 6\"",
-        "Manufacturer: Magnum Research"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.r4YWfluu5eXwcL-8WtTF6QHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Magnum Research",
-      "model": "DE44CATU (Tungsten)",
-      "caliber": ".44 Magnum",
-      "type": "Pistol",
-      "barrel_length": "6\"",
-      "date_added": "05/13/2025",
-      "description": "The Magnum Research DE44CATU (Tungsten) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
-      "features": [
-        "Caliber: .44 Magnum",
-        "Type: Pistol",
-        "Barrel Length: 6\"",
-        "Manufacturer: Magnum Research"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.r4YWfluu5eXwcL-8WtTF6QHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Staccato 2011 LLC",
-      "model": "P4*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "05/13/2025",
-      "description": "The Staccato 2011 LLC P4* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: Staccato 2011 LLC"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.5Kku0O3CY3ybhW7UI8t6iwHaFD?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.AWYJg5KY21fKRslsWf514QHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Magnum Research",
@@ -143,7 +79,7 @@
         "Barrel Length: 6\"",
         "Manufacturer: Magnum Research"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.r4YWfluu5eXwcL-8WtTF6QHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.7GogbJxf3925-sMKH8PXVwHaFj?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Magnum Research",
@@ -159,39 +95,71 @@
         "Barrel Length: 6\"",
         "Manufacturer: Magnum Research"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.r4YWfluu5eXwcL-8WtTF6QHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.4aScoxIXhf9dxTiP270rZQHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
-      "manufacturer": "North American Arms",
-      "model": "NAA-22MS-HG",
-      "caliber": ".22 Magnum",
-      "type": "Revolver",
-      "barrel_length": "1.125\"",
-      "date_added": "05/07/2025",
-      "description": "The North American Arms NAA-22MS-HG is a recently certified handgun featuring a 1.125\" barrel and chambered in .22 Magnum.",
+      "manufacturer": "Magnum Research",
+      "model": "DE44CA (Black)",
+      "caliber": ".44 Magnum",
+      "type": "Pistol",
+      "barrel_length": "6\"",
+      "date_added": "05/13/2025",
+      "description": "The Magnum Research DE44CA (Black) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
       "features": [
-        "Caliber: .22 Magnum",
-        "Type: Revolver",
-        "Barrel Length: 1.125\"",
-        "Manufacturer: North American Arms"
+        "Caliber: .44 Magnum",
+        "Type: Pistol",
+        "Barrel Length: 6\"",
+        "Manufacturer: Magnum Research"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.sb68Qn9Yynd_NOTtQDhYHQHaJG?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.Fpwfpch6fKKu5j_Sv82oFgHaE1?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
-      "manufacturer": "KelTec",
-      "model": "P15*",
+      "manufacturer": "Magnum Research",
+      "model": "DE44CABB (Burnt Bronze)",
+      "caliber": ".44 Magnum",
+      "type": "Pistol",
+      "barrel_length": "6\"",
+      "date_added": "05/13/2025",
+      "description": "The Magnum Research DE44CABB (Burnt Bronze) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
+      "features": [
+        "Caliber: .44 Magnum",
+        "Type: Pistol",
+        "Barrel Length: 6\"",
+        "Manufacturer: Magnum Research"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.3Y0Dm_Oagbt1nGnWXDk_YgHaEK?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Magnum Research",
+      "model": "DE44CATU (Tungsten)",
+      "caliber": ".44 Magnum",
+      "type": "Pistol",
+      "barrel_length": "6\"",
+      "date_added": "05/13/2025",
+      "description": "The Magnum Research DE44CATU (Tungsten) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
+      "features": [
+        "Caliber: .44 Magnum",
+        "Type: Pistol",
+        "Barrel Length: 6\"",
+        "Manufacturer: Magnum Research"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.Fpwfpch6fKKu5j_Sv82oFgHaE1?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Staccato 2011 LLC",
+      "model": "P4*",
       "caliber": "9MM",
       "type": "Pistol",
       "barrel_length": "4\"",
-      "date_added": "05/07/2025",
-      "description": "The KelTec P15* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "date_added": "05/13/2025",
+      "description": "The Staccato 2011 LLC P4* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
       "features": [
         "Caliber: 9MM",
         "Type: Pistol",
         "Barrel Length: 4\"",
-        "Manufacturer: KelTec"
+        "Manufacturer: Staccato 2011 LLC"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.vEAIdjVVO6YI4hsO-RgDkAHaE9?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.oQ6p7euT6hrb5dU3sh7QLwHaD7?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "North American Arms",
@@ -226,20 +194,36 @@
       "image_url": "https://th.bing.com/th/id/OIP.sb68Qn9Yynd_NOTtQDhYHQHaJG?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
-      "manufacturer": "Colt",
-      "model": "GRIZZLY (GRIZZLY-SP4RTS)",
-      "caliber": ".357 Magnum",
+      "manufacturer": "North American Arms",
+      "model": "NAA-22MS-HG",
+      "caliber": ".22 Magnum",
       "type": "Revolver",
-      "barrel_length": "4.25\"",
-      "date_added": "04/22/2025",
-      "description": "The Colt GRIZZLY (GRIZZLY-SP4RTS) is a recently certified handgun featuring a 4.25\" barrel and chambered in .357 Magnum.",
+      "barrel_length": "1.125\"",
+      "date_added": "05/07/2025",
+      "description": "The North American Arms NAA-22MS-HG is a recently certified handgun featuring a 1.125\" barrel and chambered in .22 Magnum.",
       "features": [
-        "Caliber: .357 Magnum",
+        "Caliber: .22 Magnum",
         "Type: Revolver",
-        "Barrel Length: 4.25\"",
-        "Manufacturer: Colt"
+        "Barrel Length: 1.125\"",
+        "Manufacturer: North American Arms"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.L7fGo6HLWR0uOB3xvz5-PwHaFj?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.sb68Qn9Yynd_NOTtQDhYHQHaJG?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "KelTec",
+      "model": "P15*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4\"",
+      "date_added": "05/07/2025",
+      "description": "The KelTec P15* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4\"",
+        "Manufacturer: KelTec"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.MaOkhe5BNmJjwHh3Ft-tuwHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Colt",
@@ -255,7 +239,23 @@
         "Barrel Length: 4.25\"",
         "Manufacturer: Colt"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.aWNWmyJejvu8gms4mcHQjQHaFj?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.dnLdsdYLeF0IS3ROQ81FWgHaEt?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Colt",
+      "model": "GRIZZLY (GRIZZLY-SP4RTS)",
+      "caliber": ".357 Magnum",
+      "type": "Revolver",
+      "barrel_length": "4.25\"",
+      "date_added": "04/22/2025",
+      "description": "The Colt GRIZZLY (GRIZZLY-SP4RTS) is a recently certified handgun featuring a 4.25\" barrel and chambered in .357 Magnum.",
+      "features": [
+        "Caliber: .357 Magnum",
+        "Type: Revolver",
+        "Barrel Length: 4.25\"",
+        "Manufacturer: Colt"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.dnLdsdYLeF0IS3ROQ81FWgHaEt?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Walther",
@@ -271,7 +271,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Walther"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.bhDF_iTRfBwm9UIvWZn6LAHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.dnmysimaZZMmAQ0xiIwQFAHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Walther",
@@ -287,7 +287,7 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Walther"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.heiSMvOIcF6xBy2hc6JIHwHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.5GI8t3EsrAWYzM6QD0tgyAHaEK?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     }
   ]
 }
