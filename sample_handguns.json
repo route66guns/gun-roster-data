@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-05T01:22:20.900425",
+  "updated": "2025-07-06T01:41:06.053858",
   "handguns": [
     {
       "manufacturer": "Taurus",
@@ -31,7 +31,7 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Heckler & Koch"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.Y6K83pjuLOw2SDAWNTMwPwHaIG?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.qgN9KnBByP7Efvv7_E6f5AHaJ4?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Staccato 2011 LLC",
@@ -47,7 +47,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Staccato 2011 LLC"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.5Kku0O3CY3ybhW7UI8t6iwHaFD?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.6trM6khBBCKNDI9Zi-Ib9wHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Rost Martin",
@@ -63,7 +63,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Rost Martin"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.AWYJg5KY21fKRslsWf514QHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.GoJrX247uXG1Z8NCPsu0dgHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Rost Martin",
@@ -79,55 +79,7 @@
         "Barrel Length: 3.6\"",
         "Manufacturer: Rost Martin"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP._Fc6Se6yLAesP_ySQ51YmAHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Magnum Research",
-      "model": "DE44CABC (Brushed Chrome)",
-      "caliber": ".44 Magnum",
-      "type": "Pistol",
-      "barrel_length": "6\"",
-      "date_added": "05/13/2025",
-      "description": "The Magnum Research DE44CABC (Brushed Chrome) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
-      "features": [
-        "Caliber: .44 Magnum",
-        "Type: Pistol",
-        "Barrel Length: 6\"",
-        "Manufacturer: Magnum Research"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.mph0FAPn2oc-P3MNqt2NHQHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Magnum Research",
-      "model": "DE44CAPC (Polished Chrome)",
-      "caliber": ".44 Magnum",
-      "type": "Pistol",
-      "barrel_length": "6\"",
-      "date_added": "05/13/2025",
-      "description": "The Magnum Research DE44CAPC (Polished Chrome) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
-      "features": [
-        "Caliber: .44 Magnum",
-        "Type: Pistol",
-        "Barrel Length: 6\"",
-        "Manufacturer: Magnum Research"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.mph0FAPn2oc-P3MNqt2NHQHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Magnum Research",
-      "model": "DE44CA (Black)",
-      "caliber": ".44 Magnum",
-      "type": "Pistol",
-      "barrel_length": "6\"",
-      "date_added": "05/13/2025",
-      "description": "The Magnum Research DE44CA (Black) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
-      "features": [
-        "Caliber: .44 Magnum",
-        "Type: Pistol",
-        "Barrel Length: 6\"",
-        "Manufacturer: Magnum Research"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.mph0FAPn2oc-P3MNqt2NHQHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.X4-UE4HMI_MZhNiUukOZNQHaFa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Magnum Research",
@@ -143,7 +95,7 @@
         "Barrel Length: 6\"",
         "Manufacturer: Magnum Research"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.mph0FAPn2oc-P3MNqt2NHQHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.mQfstNmEFecrWUc-3iQS1gHaFC?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Magnum Research",
@@ -159,7 +111,7 @@
         "Barrel Length: 6\"",
         "Manufacturer: Magnum Research"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.mph0FAPn2oc-P3MNqt2NHQHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.RD2Wmcrm1WsLrHFYS2v8fwHaFj?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Staccato 2011 LLC",
@@ -175,39 +127,55 @@
         "Barrel Length: 4\"",
         "Manufacturer: Staccato 2011 LLC"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.5Kku0O3CY3ybhW7UI8t6iwHaFD?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.BBRmoxvJQJ9AHveVsaroBQHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
-      "manufacturer": "North American Arms",
-      "model": "NAA-PUG-D-HG",
-      "caliber": ".22 Magnum",
-      "type": "Revolver",
-      "barrel_length": "1\"",
-      "date_added": "05/07/2025",
-      "description": "The North American Arms NAA-PUG-D-HG is a recently certified handgun featuring a 1\" barrel and chambered in .22 Magnum.",
+      "manufacturer": "Magnum Research",
+      "model": "DE44CABC (Brushed Chrome)",
+      "caliber": ".44 Magnum",
+      "type": "Pistol",
+      "barrel_length": "6\"",
+      "date_added": "05/13/2025",
+      "description": "The Magnum Research DE44CABC (Brushed Chrome) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
       "features": [
-        "Caliber: .22 Magnum",
-        "Type: Revolver",
-        "Barrel Length: 1\"",
-        "Manufacturer: North American Arms"
+        "Caliber: .44 Magnum",
+        "Type: Pistol",
+        "Barrel Length: 6\"",
+        "Manufacturer: Magnum Research"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.zsjm_fFf8xBqAjwwo3nF0wHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.0cApFrH45wFnG7CLEW0aiwHaFj?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
-      "manufacturer": "North American Arms",
-      "model": "NAA-22LR-HG",
-      "caliber": ".22 LR",
-      "type": "Revolver",
-      "barrel_length": "1.125\"",
-      "date_added": "05/07/2025",
-      "description": "The North American Arms NAA-22LR-HG is a recently certified handgun featuring a 1.125\" barrel and chambered in .22 LR.",
+      "manufacturer": "Magnum Research",
+      "model": "DE44CAPC (Polished Chrome)",
+      "caliber": ".44 Magnum",
+      "type": "Pistol",
+      "barrel_length": "6\"",
+      "date_added": "05/13/2025",
+      "description": "The Magnum Research DE44CAPC (Polished Chrome) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
       "features": [
-        "Caliber: .22 LR",
-        "Type: Revolver",
-        "Barrel Length: 1.125\"",
-        "Manufacturer: North American Arms"
+        "Caliber: .44 Magnum",
+        "Type: Pistol",
+        "Barrel Length: 6\"",
+        "Manufacturer: Magnum Research"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.zsjm_fFf8xBqAjwwo3nF0wHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.4aScoxIXhf9dxTiP270rZQHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Magnum Research",
+      "model": "DE44CA (Black)",
+      "caliber": ".44 Magnum",
+      "type": "Pistol",
+      "barrel_length": "6\"",
+      "date_added": "05/13/2025",
+      "description": "The Magnum Research DE44CA (Black) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
+      "features": [
+        "Caliber: .44 Magnum",
+        "Type: Pistol",
+        "Barrel Length: 6\"",
+        "Manufacturer: Magnum Research"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.Ryis3_XiSfhZW3aXeOxywQHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "North American Arms",
@@ -223,7 +191,7 @@
         "Barrel Length: 1.125\"",
         "Manufacturer: North American Arms"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.zsjm_fFf8xBqAjwwo3nF0wHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.ggJe4imPLJGbUznixgLc0wHaEK?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "KelTec",
@@ -239,23 +207,39 @@
         "Barrel Length: 4\"",
         "Manufacturer: KelTec"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.MtWCz4X58_5A8rJ7ZH2prAHaFj?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.SIy-o4N2FxYv70ZbVFUtxgHaFt?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
-      "manufacturer": "Colt",
-      "model": "KODIAK (KODIAK-SP4RTS)",
-      "caliber": ".44 Magnum",
+      "manufacturer": "North American Arms",
+      "model": "NAA-PUG-D-HG",
+      "caliber": ".22 Magnum",
       "type": "Revolver",
-      "barrel_length": "4.25\"",
-      "date_added": "04/22/2025",
-      "description": "The Colt KODIAK (KODIAK-SP4RTS) is a recently certified handgun featuring a 4.25\" barrel and chambered in .44 Magnum.",
+      "barrel_length": "1\"",
+      "date_added": "05/07/2025",
+      "description": "The North American Arms NAA-PUG-D-HG is a recently certified handgun featuring a 1\" barrel and chambered in .22 Magnum.",
       "features": [
-        "Caliber: .44 Magnum",
+        "Caliber: .22 Magnum",
         "Type: Revolver",
-        "Barrel Length: 4.25\"",
-        "Manufacturer: Colt"
+        "Barrel Length: 1\"",
+        "Manufacturer: North American Arms"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.yiUZY1yrLBAifJdaOy05GwHaFj?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.urzXYmzU_tSP9W8vWCA7mAHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "North American Arms",
+      "model": "NAA-22LR-HG",
+      "caliber": ".22 LR",
+      "type": "Revolver",
+      "barrel_length": "1.125\"",
+      "date_added": "05/07/2025",
+      "description": "The North American Arms NAA-22LR-HG is a recently certified handgun featuring a 1.125\" barrel and chambered in .22 LR.",
+      "features": [
+        "Caliber: .22 LR",
+        "Type: Revolver",
+        "Barrel Length: 1.125\"",
+        "Manufacturer: North American Arms"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.Bgxb66AyvjhAj7lo-LFyDQHaFI?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Colt",
@@ -271,7 +255,23 @@
         "Barrel Length: 4.25\"",
         "Manufacturer: Colt"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.RZ-VZ5E645kc2AwkSEi4YwHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.nuiTWOyV5hAuQMUt8APe-QAAAA?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Colt",
+      "model": "KODIAK (KODIAK-SP4RTS)",
+      "caliber": ".44 Magnum",
+      "type": "Revolver",
+      "barrel_length": "4.25\"",
+      "date_added": "04/22/2025",
+      "description": "The Colt KODIAK (KODIAK-SP4RTS) is a recently certified handgun featuring a 4.25\" barrel and chambered in .44 Magnum.",
+      "features": [
+        "Caliber: .44 Magnum",
+        "Type: Revolver",
+        "Barrel Length: 4.25\"",
+        "Manufacturer: Colt"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.451lFTIAowSgYscsQ8vcNAHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     }
   ]
 }
