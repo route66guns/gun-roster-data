@@ -1,22 +1,6 @@
 {
-  "updated": "2025-07-25T01:39:25.896386",
+  "updated": "2025-07-26T01:27:46.345684",
   "handguns": [
-    {
-      "manufacturer": "Derya",
-      "model": "DY9*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "3.86\"",
-      "date_added": "07/08/2025",
-      "description": "The Derya DY9* is a recently certified handgun featuring a 3.86\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 3.86\"",
-        "Manufacturer: Derya"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.WunZxYeJMS1Qp84bRWRlZwHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
     {
       "manufacturer": "Springfield Armory",
       "model": "Echelon*",
@@ -32,6 +16,22 @@
         "Manufacturer: Springfield Armory"
       ],
       "image_url": "https://th.bing.com/th/id/OIP.pgSaXLvlQ8jo8pgI14x1MwAAAA?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Derya",
+      "model": "DY9*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "3.86\"",
+      "date_added": "07/08/2025",
+      "description": "The Derya DY9* is a recently certified handgun featuring a 3.86\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 3.86\"",
+        "Manufacturer: Derya"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.WunZxYeJMS1Qp84bRWRlZwHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Taurus",
@@ -79,7 +79,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Staccato 2011 LLC"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.uYgex9fJDXZpyLsG0_bZewHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.6trM6khBBCKNDI9Zi-Ib9wHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Rost Martin",
@@ -95,7 +95,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Rost Martin"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.gQ-vQzV6x51zn7HosppoPQHaFj?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.t5XM8QPNxvOPWd0Z0ZYxhgHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Rost Martin",
@@ -111,7 +111,23 @@
         "Barrel Length: 3.6\"",
         "Manufacturer: Rost Martin"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.WIn0vLvmZ-Wl6-eVcAFtqAHaCs?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.t5XM8QPNxvOPWd0Z0ZYxhgHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Staccato 2011 LLC",
+      "model": "P4*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4\"",
+      "date_added": "05/13/2025",
+      "description": "The Staccato 2011 LLC P4* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4\"",
+        "Manufacturer: Staccato 2011 LLC"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.uYgex9fJDXZpyLsG0_bZewHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Magnum Research",
@@ -194,22 +210,6 @@
       "image_url": "https://th.bing.com/th/id/OIP.BmO3aK_kqM6wYAIw_IrLYwHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
-      "manufacturer": "Staccato 2011 LLC",
-      "model": "P4*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "05/13/2025",
-      "description": "The Staccato 2011 LLC P4* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: Staccato 2011 LLC"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.BBRmoxvJQJ9AHveVsaroBQHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
       "manufacturer": "North American Arms",
       "model": "NAA-PUG-D-HG",
       "caliber": ".22 Magnum",
@@ -239,7 +239,7 @@
         "Barrel Length: 1.125\"",
         "Manufacturer: North American Arms"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.CGq6457GuijcxfJMOFJ-RQHaJ3?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.Bgxb66AyvjhAj7lo-LFyDQHaFI?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "North American Arms",
