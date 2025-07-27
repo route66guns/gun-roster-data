@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-26T01:27:46.345684",
+  "updated": "2025-07-27T01:46:57.537773",
   "handguns": [
     {
       "manufacturer": "Springfield Armory",
@@ -31,7 +31,7 @@
         "Barrel Length: 3.86\"",
         "Manufacturer: Derya"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.WunZxYeJMS1Qp84bRWRlZwHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.z81o0wYhnfmdlVyN7taoiQHaEK?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Taurus",
@@ -111,7 +111,23 @@
         "Barrel Length: 3.6\"",
         "Manufacturer: Rost Martin"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.t5XM8QPNxvOPWd0Z0ZYxhgHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.WIn0vLvmZ-Wl6-eVcAFtqAHaCs?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Magnum Research",
+      "model": "DE44CATU (Tungsten)",
+      "caliber": ".44 Magnum",
+      "type": "Pistol",
+      "barrel_length": "6\"",
+      "date_added": "05/13/2025",
+      "description": "The Magnum Research DE44CATU (Tungsten) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
+      "features": [
+        "Caliber: .44 Magnum",
+        "Type: Pistol",
+        "Barrel Length: 6\"",
+        "Manufacturer: Magnum Research"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.RD2Wmcrm1WsLrHFYS2v8fwHaFj?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Staccato 2011 LLC",
@@ -127,7 +143,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Staccato 2011 LLC"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.uYgex9fJDXZpyLsG0_bZewHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.FCykiCUjy_yax7u7xvJAIgHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Magnum Research",
@@ -159,7 +175,7 @@
         "Barrel Length: 6\"",
         "Manufacturer: Magnum Research"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.4aScoxIXhf9dxTiP270rZQHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.GJMcy7ypqoH-bPLPjDSQ_QHaFj?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Magnum Research",
@@ -175,7 +191,7 @@
         "Barrel Length: 6\"",
         "Manufacturer: Magnum Research"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.8KGtmDtzqIRKp8VeVEb0eAHaEy?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.G75CGONpiKolskCw6HkdZgAAAA?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Magnum Research",
@@ -192,22 +208,6 @@
         "Manufacturer: Magnum Research"
       ],
       "image_url": "https://th.bing.com/th/id/OIP.mQfstNmEFecrWUc-3iQS1gHaFC?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Magnum Research",
-      "model": "DE44CATU (Tungsten)",
-      "caliber": ".44 Magnum",
-      "type": "Pistol",
-      "barrel_length": "6\"",
-      "date_added": "05/13/2025",
-      "description": "The Magnum Research DE44CATU (Tungsten) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
-      "features": [
-        "Caliber: .44 Magnum",
-        "Type: Pistol",
-        "Barrel Length: 6\"",
-        "Manufacturer: Magnum Research"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.BmO3aK_kqM6wYAIw_IrLYwHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "North American Arms",
