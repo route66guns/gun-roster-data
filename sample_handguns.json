@@ -1,22 +1,6 @@
 {
-  "updated": "2025-08-03T01:48:41.979723",
+  "updated": "2025-08-04T01:48:54.659328",
   "handguns": [
-    {
-      "manufacturer": "Derya",
-      "model": "DY9*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "3.86\"",
-      "date_added": "07/08/2025",
-      "description": "The Derya DY9* is a recently certified handgun featuring a 3.86\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 3.86\"",
-        "Manufacturer: Derya"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.la1kNLr0qWzqpvNMmpJzpAHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
     {
       "manufacturer": "Springfield Armory",
       "model": "Echelon*",
@@ -31,7 +15,23 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.RMICQ1SD7Znu7dpXPRdA4AHaFz?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.pgSaXLvlQ8jo8pgI14x1MwAAAA?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Derya",
+      "model": "DY9*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "3.86\"",
+      "date_added": "07/08/2025",
+      "description": "The Derya DY9* is a recently certified handgun featuring a 3.86\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 3.86\"",
+        "Manufacturer: Derya"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.z81o0wYhnfmdlVyN7taoiQHaEK?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Taurus",
@@ -47,7 +47,7 @@
         "Barrel Length: 3.38\"",
         "Manufacturer: Taurus"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.f17pzXNPP_nOe1pSxGb6EQHaKN?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.PR7ZbiYYoRZ9V2YjIlrpggHaDP?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Heckler & Koch",
@@ -63,7 +63,7 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Heckler & Koch"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP._KIemOXx5ANKQJ9uiSUMbgHaEH?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.0WRSNOn3kgZr1NkWbKEK1gHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Staccato 2011 LLC",
@@ -79,7 +79,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Staccato 2011 LLC"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.5Kku0O3CY3ybhW7UI8t6iwHaFD?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.SJVdBRBgXMY36GWbtawNhwHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Rost Martin",
@@ -95,7 +95,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Rost Martin"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.AWYJg5KY21fKRslsWf514QHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.7_0NheDNHDZTQZpvbs9CIAHaEo?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Rost Martin",
@@ -111,71 +111,7 @@
         "Barrel Length: 3.6\"",
         "Manufacturer: Rost Martin"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.AWYJg5KY21fKRslsWf514QHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Magnum Research",
-      "model": "DE44CAPC (Polished Chrome)",
-      "caliber": ".44 Magnum",
-      "type": "Pistol",
-      "barrel_length": "6\"",
-      "date_added": "05/13/2025",
-      "description": "The Magnum Research DE44CAPC (Polished Chrome) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
-      "features": [
-        "Caliber: .44 Magnum",
-        "Type: Pistol",
-        "Barrel Length: 6\"",
-        "Manufacturer: Magnum Research"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.0tDYdc3JfLigNZmF4JEtnwHaFk?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Magnum Research",
-      "model": "DE44CA (Black)",
-      "caliber": ".44 Magnum",
-      "type": "Pistol",
-      "barrel_length": "6\"",
-      "date_added": "05/13/2025",
-      "description": "The Magnum Research DE44CA (Black) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
-      "features": [
-        "Caliber: .44 Magnum",
-        "Type: Pistol",
-        "Barrel Length: 6\"",
-        "Manufacturer: Magnum Research"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.0tDYdc3JfLigNZmF4JEtnwHaFk?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Magnum Research",
-      "model": "DE44CABB (Burnt Bronze)",
-      "caliber": ".44 Magnum",
-      "type": "Pistol",
-      "barrel_length": "6\"",
-      "date_added": "05/13/2025",
-      "description": "The Magnum Research DE44CABB (Burnt Bronze) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
-      "features": [
-        "Caliber: .44 Magnum",
-        "Type: Pistol",
-        "Barrel Length: 6\"",
-        "Manufacturer: Magnum Research"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.0tDYdc3JfLigNZmF4JEtnwHaFk?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Magnum Research",
-      "model": "DE44CATU (Tungsten)",
-      "caliber": ".44 Magnum",
-      "type": "Pistol",
-      "barrel_length": "6\"",
-      "date_added": "05/13/2025",
-      "description": "The Magnum Research DE44CATU (Tungsten) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
-      "features": [
-        "Caliber: .44 Magnum",
-        "Type: Pistol",
-        "Barrel Length: 6\"",
-        "Manufacturer: Magnum Research"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.0tDYdc3JfLigNZmF4JEtnwHaFk?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.Hw8k-e4XbiFJDNHbWQSxrwHaFd?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Staccato 2011 LLC",
@@ -191,7 +127,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Staccato 2011 LLC"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.5Kku0O3CY3ybhW7UI8t6iwHaFD?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.FCykiCUjy_yax7u7xvJAIgHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Magnum Research",
@@ -207,7 +143,71 @@
         "Barrel Length: 6\"",
         "Manufacturer: Magnum Research"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.0tDYdc3JfLigNZmF4JEtnwHaFk?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.0cApFrH45wFnG7CLEW0aiwHaFj?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Magnum Research",
+      "model": "DE44CAPC (Polished Chrome)",
+      "caliber": ".44 Magnum",
+      "type": "Pistol",
+      "barrel_length": "6\"",
+      "date_added": "05/13/2025",
+      "description": "The Magnum Research DE44CAPC (Polished Chrome) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
+      "features": [
+        "Caliber: .44 Magnum",
+        "Type: Pistol",
+        "Barrel Length: 6\"",
+        "Manufacturer: Magnum Research"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.B4KKzQk4k2jXssreAIo-dgHaFj?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Magnum Research",
+      "model": "DE44CA (Black)",
+      "caliber": ".44 Magnum",
+      "type": "Pistol",
+      "barrel_length": "6\"",
+      "date_added": "05/13/2025",
+      "description": "The Magnum Research DE44CA (Black) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
+      "features": [
+        "Caliber: .44 Magnum",
+        "Type: Pistol",
+        "Barrel Length: 6\"",
+        "Manufacturer: Magnum Research"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.G75CGONpiKolskCw6HkdZgAAAA?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Magnum Research",
+      "model": "DE44CABB (Burnt Bronze)",
+      "caliber": ".44 Magnum",
+      "type": "Pistol",
+      "barrel_length": "6\"",
+      "date_added": "05/13/2025",
+      "description": "The Magnum Research DE44CABB (Burnt Bronze) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
+      "features": [
+        "Caliber: .44 Magnum",
+        "Type: Pistol",
+        "Barrel Length: 6\"",
+        "Manufacturer: Magnum Research"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.mQfstNmEFecrWUc-3iQS1gHaFC?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Magnum Research",
+      "model": "DE44CATU (Tungsten)",
+      "caliber": ".44 Magnum",
+      "type": "Pistol",
+      "barrel_length": "6\"",
+      "date_added": "05/13/2025",
+      "description": "The Magnum Research DE44CATU (Tungsten) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
+      "features": [
+        "Caliber: .44 Magnum",
+        "Type: Pistol",
+        "Barrel Length: 6\"",
+        "Manufacturer: Magnum Research"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.RD2Wmcrm1WsLrHFYS2v8fwHaFj?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "North American Arms",
@@ -223,7 +223,7 @@
         "Barrel Length: 1\"",
         "Manufacturer: North American Arms"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.eOuPXnnKz7PopECkKw6AWQHaFy?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.ApQkn8KCJb01K_o37s8rRwHaFj?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "North American Arms",
@@ -239,7 +239,7 @@
         "Barrel Length: 1.125\"",
         "Manufacturer: North American Arms"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.5ZusCtK7daHc0UEWDdu-nwHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.Bgxb66AyvjhAj7lo-LFyDQHaFI?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "North American Arms",
@@ -255,7 +255,7 @@
         "Barrel Length: 1.125\"",
         "Manufacturer: North American Arms"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.zqh39yXF2xi2wqR_qOPExwHaEs?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.fpj-cPGHABq3ZZDQuDqYcgHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "KelTec",
@@ -271,7 +271,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: KelTec"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.MaOkhe5BNmJjwHh3Ft-tuwHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.ij-vYZwJ86sTd5M3SRxVhAHaFu?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     }
   ]
 }
