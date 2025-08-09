@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-08T01:41:50.076242",
+  "updated": "2025-08-09T01:25:04.269953",
   "handguns": [
     {
       "manufacturer": "Springfield Armory",
@@ -15,7 +15,7 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://thf.bing.com/th/id/OIP.MIwKpOZfBm_rFdy4BRQ3HQHaFz?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.atIzq15X3YuNxiR-ISa6zAHaF-?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Derya",
@@ -31,7 +31,7 @@
         "Barrel Length: 3.86\"",
         "Manufacturer: Derya"
       ],
-      "image_url": "https://thf.bing.com/th/id/OIP.LRpFd5hCQpgjDpyAqLhvDQHaHa?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.TJY9kK09uhFhO32DjPQ52gHaE6?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Taurus",
@@ -47,7 +47,7 @@
         "Barrel Length: 3.38\"",
         "Manufacturer: Taurus"
       ],
-      "image_url": "https://thf.bing.com/th/id/OIP.GWTWxyEGk1zB6kdQs1aJ_wHaE8?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.GWTWxyEGk1zB6kdQs1aJ_wHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Heckler & Koch",
@@ -63,23 +63,7 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Heckler & Koch"
       ],
-      "image_url": "https://thf.bing.com/th/id/OIP.0WRSNOn3kgZr1NkWbKEK1gHaHa?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Rost Martin",
-      "model": "RM1C ODG*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "06/18/2025",
-      "description": "The Rost Martin RM1C ODG* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: Rost Martin"
-      ],
-      "image_url": "https://thf.bing.com/th/id/OIP.gQ-vQzV6x51zn7HosppoPQHaFj?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.0WRSNOn3kgZr1NkWbKEK1gHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Staccato 2011 LLC",
@@ -95,7 +79,23 @@
         "Barrel Length: 4\"",
         "Manufacturer: Staccato 2011 LLC"
       ],
-      "image_url": "https://thf.bing.com/th/id/OIP.ZIIsl66HWQy2pmCPwBhSrgHaFU?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.UK55M7hMGqsC6HMCERPm_gHaEK?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Rost Martin",
+      "model": "RM1C ODG*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4\"",
+      "date_added": "06/18/2025",
+      "description": "The Rost Martin RM1C ODG* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4\"",
+        "Manufacturer: Rost Martin"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.gQ-vQzV6x51zn7HosppoPQHaFj?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Rost Martin",
@@ -111,55 +111,7 @@
         "Barrel Length: 3.6\"",
         "Manufacturer: Rost Martin"
       ],
-      "image_url": "https://thf.bing.com/th/id/OIP.X4-UE4HMI_MZhNiUukOZNQHaFa?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Magnum Research",
-      "model": "DE44CAPC (Polished Chrome)",
-      "caliber": ".44 Magnum",
-      "type": "Pistol",
-      "barrel_length": "6\"",
-      "date_added": "05/13/2025",
-      "description": "The Magnum Research DE44CAPC (Polished Chrome) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
-      "features": [
-        "Caliber: .44 Magnum",
-        "Type: Pistol",
-        "Barrel Length: 6\"",
-        "Manufacturer: Magnum Research"
-      ],
-      "image_url": "https://thf.bing.com/th/id/OIP.4aScoxIXhf9dxTiP270rZQHaHa?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Magnum Research",
-      "model": "DE44CA (Black)",
-      "caliber": ".44 Magnum",
-      "type": "Pistol",
-      "barrel_length": "6\"",
-      "date_added": "05/13/2025",
-      "description": "The Magnum Research DE44CA (Black) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
-      "features": [
-        "Caliber: .44 Magnum",
-        "Type: Pistol",
-        "Barrel Length: 6\"",
-        "Manufacturer: Magnum Research"
-      ],
-      "image_url": "https://thf.bing.com/th/id/OIP.G75CGONpiKolskCw6HkdZgAAAA?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Magnum Research",
-      "model": "DE44CABB (Burnt Bronze)",
-      "caliber": ".44 Magnum",
-      "type": "Pistol",
-      "barrel_length": "6\"",
-      "date_added": "05/13/2025",
-      "description": "The Magnum Research DE44CABB (Burnt Bronze) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
-      "features": [
-        "Caliber: .44 Magnum",
-        "Type: Pistol",
-        "Barrel Length: 6\"",
-        "Manufacturer: Magnum Research"
-      ],
-      "image_url": "https://thf.bing.com/th/id/OIP.9h221OwKX3NZ8Qn0oWejbwHaE8?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.7_0NheDNHDZTQZpvbs9CIAHaEo?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Magnum Research",
@@ -175,7 +127,7 @@
         "Barrel Length: 6\"",
         "Manufacturer: Magnum Research"
       ],
-      "image_url": "https://thf.bing.com/th/id/OIP.BmO3aK_kqM6wYAIw_IrLYwHaHa?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.BmO3aK_kqM6wYAIw_IrLYwHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Staccato 2011 LLC",
@@ -191,7 +143,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Staccato 2011 LLC"
       ],
-      "image_url": "https://thf.bing.com/th/id/OIP.8WndKKatFhdvYQUyL7b7LQHaE8?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.UK55M7hMGqsC6HMCERPm_gHaEK?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Magnum Research",
@@ -207,7 +159,55 @@
         "Barrel Length: 6\"",
         "Manufacturer: Magnum Research"
       ],
-      "image_url": "https://thf.bing.com/th/id/OIP.0cApFrH45wFnG7CLEW0aiwHaFj?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.aTGKecpRZqke-0Wif78DpgHaGU?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Magnum Research",
+      "model": "DE44CAPC (Polished Chrome)",
+      "caliber": ".44 Magnum",
+      "type": "Pistol",
+      "barrel_length": "6\"",
+      "date_added": "05/13/2025",
+      "description": "The Magnum Research DE44CAPC (Polished Chrome) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
+      "features": [
+        "Caliber: .44 Magnum",
+        "Type: Pistol",
+        "Barrel Length: 6\"",
+        "Manufacturer: Magnum Research"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.4aScoxIXhf9dxTiP270rZQHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Magnum Research",
+      "model": "DE44CA (Black)",
+      "caliber": ".44 Magnum",
+      "type": "Pistol",
+      "barrel_length": "6\"",
+      "date_added": "05/13/2025",
+      "description": "The Magnum Research DE44CA (Black) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
+      "features": [
+        "Caliber: .44 Magnum",
+        "Type: Pistol",
+        "Barrel Length: 6\"",
+        "Manufacturer: Magnum Research"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.Ryis3_XiSfhZW3aXeOxywQHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Magnum Research",
+      "model": "DE44CABB (Burnt Bronze)",
+      "caliber": ".44 Magnum",
+      "type": "Pistol",
+      "barrel_length": "6\"",
+      "date_added": "05/13/2025",
+      "description": "The Magnum Research DE44CABB (Burnt Bronze) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
+      "features": [
+        "Caliber: .44 Magnum",
+        "Type: Pistol",
+        "Barrel Length: 6\"",
+        "Manufacturer: Magnum Research"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.mQfstNmEFecrWUc-3iQS1gHaFC?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     }
   ]
 }
