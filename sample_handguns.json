@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-18T01:40:11.155128",
+  "updated": "2025-08-19T01:22:13.040348",
   "handguns": [
     {
       "manufacturer": "Sturm, Ruger & Co.",
@@ -18,22 +18,6 @@
       "image_url": "https://th.bing.com/th/id/OIP.uZ_eAuj8iZhSfURuQ5QZngHaFk?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
-      "manufacturer": "Springfield Armory",
-      "model": "Echelon*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4.5\"",
-      "date_added": "07/08/2025",
-      "description": "The Springfield Armory Echelon* is a recently certified handgun featuring a 4.5\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4.5\"",
-        "Manufacturer: Springfield Armory"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.RMICQ1SD7Znu7dpXPRdA4AHaFz?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
       "manufacturer": "Derya",
       "model": "DY9*",
       "caliber": "9MM",
@@ -48,6 +32,22 @@
         "Manufacturer: Derya"
       ],
       "image_url": "https://th.bing.com/th/id/OIP.la1kNLr0qWzqpvNMmpJzpAHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Springfield Armory",
+      "model": "Echelon*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4.5\"",
+      "date_added": "07/08/2025",
+      "description": "The Springfield Armory Echelon* is a recently certified handgun featuring a 4.5\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4.5\"",
+        "Manufacturer: Springfield Armory"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Taurus",
@@ -95,7 +95,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Staccato 2011 LLC"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.UukPTES7KkT5x8du02T3mwHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.82weoZoACFGIaF-fAqOKHwHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Rost Martin",
