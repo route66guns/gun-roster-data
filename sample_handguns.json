@@ -1,6 +1,54 @@
 {
-  "updated": "2025-08-19T01:22:13.040348",
+  "updated": "2025-08-20T01:20:18.554874",
   "handguns": [
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "Model 10 Classic 4\"- 14074",
+      "caliber": ".38 SPL. S&W +P",
+      "type": "Revolver",
+      "barrel_length": "4\"",
+      "date_added": "08/19/2025",
+      "description": "The Smith & Wesson Model 10 Classic 4\"- 14074 is a recently certified handgun featuring a 4\" barrel and chambered in .38 SPL. S&W +P.",
+      "features": [
+        "Caliber: .38 SPL. S&W +P",
+        "Type: Revolver",
+        "Barrel Length: 4\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.XuR3w0RGP46-mnOPPwTPoAHaJ4?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "Model 36 Classic- 14076",
+      "caliber": ".38 SPL. S&W +P",
+      "type": "Revolver",
+      "barrel_length": "1.88\"",
+      "date_added": "08/19/2025",
+      "description": "The Smith & Wesson Model 36 Classic- 14076 is a recently certified handgun featuring a 1.88\" barrel and chambered in .38 SPL. S&W +P.",
+      "features": [
+        "Caliber: .38 SPL. S&W +P",
+        "Type: Revolver",
+        "Barrel Length: 1.88\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.XuR3w0RGP46-mnOPPwTPoAHaJ4?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "Model 19-10 No Lock- 14046",
+      "caliber": ".357 Magnum",
+      "type": "Revolver",
+      "barrel_length": "4.25\"",
+      "date_added": "08/19/2025",
+      "description": "The Smith & Wesson Model 19-10 No Lock- 14046 is a recently certified handgun featuring a 4.25\" barrel and chambered in .357 Magnum.",
+      "features": [
+        "Caliber: .357 Magnum",
+        "Type: Revolver",
+        "Barrel Length: 4.25\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.XuR3w0RGP46-mnOPPwTPoAHaJ4?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
     {
       "manufacturer": "Sturm, Ruger & Co.",
       "model": "LCP MAX 13754*",
@@ -16,22 +64,6 @@
         "Manufacturer: Sturm, Ruger & Co."
       ],
       "image_url": "https://th.bing.com/th/id/OIP.uZ_eAuj8iZhSfURuQ5QZngHaFk?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Derya",
-      "model": "DY9*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "3.86\"",
-      "date_added": "07/08/2025",
-      "description": "The Derya DY9* is a recently certified handgun featuring a 3.86\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 3.86\"",
-        "Manufacturer: Derya"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.la1kNLr0qWzqpvNMmpJzpAHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Springfield Armory",
@@ -50,6 +82,22 @@
       "image_url": "https://th.bing.com/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
+      "manufacturer": "Derya",
+      "model": "DY9*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "3.86\"",
+      "date_added": "07/08/2025",
+      "description": "The Derya DY9* is a recently certified handgun featuring a 3.86\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 3.86\"",
+        "Manufacturer: Derya"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.la1kNLr0qWzqpvNMmpJzpAHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
       "manufacturer": "Taurus",
       "model": "GX2 CA*",
       "caliber": "9MM",
@@ -63,7 +111,7 @@
         "Barrel Length: 3.38\"",
         "Manufacturer: Taurus"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.f17pzXNPP_nOe1pSxGb6EQHaKN?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.Vq4_2qv-_8d9EPZiPvSKsAHaFP?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Heckler & Koch",
@@ -79,7 +127,7 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Heckler & Koch"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.DhC_NG7VXC1AF5fhjZkRmwHaEI?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.fDd6vPx4nzFIo0pALzNZZQHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Staccato 2011 LLC",
