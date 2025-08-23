@@ -1,22 +1,6 @@
 {
-  "updated": "2025-08-22T01:20:19.693126",
+  "updated": "2025-08-23T01:17:49.619642",
   "handguns": [
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "Model 19-10 No Lock- 14046",
-      "caliber": ".357 Magnum",
-      "type": "Revolver",
-      "barrel_length": "4.25\"",
-      "date_added": "08/19/2025",
-      "description": "The Smith & Wesson Model 19-10 No Lock- 14046 is a recently certified handgun featuring a 4.25\" barrel and chambered in .357 Magnum.",
-      "features": [
-        "Caliber: .357 Magnum",
-        "Type: Revolver",
-        "Barrel Length: 4.25\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.wTr_wIF98o8OaIXXwIZ5hQHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
     {
       "manufacturer": "Smith & Wesson",
       "model": "Model 10 Classic 4\"- 14074",
@@ -31,7 +15,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.U9vIx_TMb_zB0bw-ivnc9QHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.otZy07DTpaVMpQb0doZemwHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -47,7 +31,23 @@
         "Barrel Length: 1.88\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.ranWq8htUuZC87of3Umq4wHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.otZy07DTpaVMpQb0doZemwHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "Model 19-10 No Lock- 14046",
+      "caliber": ".357 Magnum",
+      "type": "Revolver",
+      "barrel_length": "4.25\"",
+      "date_added": "08/19/2025",
+      "description": "The Smith & Wesson Model 19-10 No Lock- 14046 is a recently certified handgun featuring a 4.25\" barrel and chambered in .357 Magnum.",
+      "features": [
+        "Caliber: .357 Magnum",
+        "Type: Revolver",
+        "Barrel Length: 4.25\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.otZy07DTpaVMpQb0doZemwHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Sturm, Ruger & Co.",
@@ -79,7 +79,7 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.RMICQ1SD7Znu7dpXPRdA4AHaFz?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Derya",
@@ -111,7 +111,7 @@
         "Barrel Length: 3.38\"",
         "Manufacturer: Taurus"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.f17pzXNPP_nOe1pSxGb6EQHaKN?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.Vq4_2qv-_8d9EPZiPvSKsAHaFP?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Heckler & Koch",
