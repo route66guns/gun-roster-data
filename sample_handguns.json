@@ -1,22 +1,6 @@
 {
-  "updated": "2025-08-24T01:29:06.647326",
+  "updated": "2025-08-25T01:23:21.049354",
   "handguns": [
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "Model 10 Classic 4\"- 14074",
-      "caliber": ".38 SPL. S&W +P",
-      "type": "Revolver",
-      "barrel_length": "4\"",
-      "date_added": "08/19/2025",
-      "description": "The Smith & Wesson Model 10 Classic 4\"- 14074 is a recently certified handgun featuring a 4\" barrel and chambered in .38 SPL. S&W +P.",
-      "features": [
-        "Caliber: .38 SPL. S&W +P",
-        "Type: Revolver",
-        "Barrel Length: 4\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.WebTgR4onLWOPQGwJocrTwHaLH?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
     {
       "manufacturer": "Smith & Wesson",
       "model": "Model 36 Classic- 14076",
@@ -31,7 +15,7 @@
         "Barrel Length: 1.88\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.WebTgR4onLWOPQGwJocrTwHaLH?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://thafd.bing.com/th/id/OIP.55O-ZlocU-JxJRcU8y6AhAHaLH?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -47,7 +31,23 @@
         "Barrel Length: 4.25\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.WebTgR4onLWOPQGwJocrTwHaLH?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://thafd.bing.com/th/id/OIP.55O-ZlocU-JxJRcU8y6AhAHaLH?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "Model 10 Classic 4\"- 14074",
+      "caliber": ".38 SPL. S&W +P",
+      "type": "Revolver",
+      "barrel_length": "4\"",
+      "date_added": "08/19/2025",
+      "description": "The Smith & Wesson Model 10 Classic 4\"- 14074 is a recently certified handgun featuring a 4\" barrel and chambered in .38 SPL. S&W +P.",
+      "features": [
+        "Caliber: .38 SPL. S&W +P",
+        "Type: Revolver",
+        "Barrel Length: 4\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://thafd.bing.com/th/id/OIP.55O-ZlocU-JxJRcU8y6AhAHaLH?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Sturm, Ruger & Co.",
@@ -63,23 +63,7 @@
         "Barrel Length: 2.8\"",
         "Manufacturer: Sturm, Ruger & Co."
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.uZ_eAuj8iZhSfURuQ5QZngHaFk?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Springfield Armory",
-      "model": "Echelon*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4.5\"",
-      "date_added": "07/08/2025",
-      "description": "The Springfield Armory Echelon* is a recently certified handgun featuring a 4.5\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4.5\"",
-        "Manufacturer: Springfield Armory"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.RMICQ1SD7Znu7dpXPRdA4AHaFz?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://thafd.bing.com/th/id/OIP.uZ_eAuj8iZhSfURuQ5QZngHaFk?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Derya",
@@ -95,7 +79,23 @@
         "Barrel Length: 3.86\"",
         "Manufacturer: Derya"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.z42OlaWv5a0JsMXI0X6vJgHaFX?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://thafd.bing.com/th/id/OIP.la1kNLr0qWzqpvNMmpJzpAHaE8?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Springfield Armory",
+      "model": "Echelon*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4.5\"",
+      "date_added": "07/08/2025",
+      "description": "The Springfield Armory Echelon* is a recently certified handgun featuring a 4.5\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4.5\"",
+        "Manufacturer: Springfield Armory"
+      ],
+      "image_url": "https://thafd.bing.com/th/id/OIP.FOYHunA0cyAvChdxgUiAcQHaFj?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Taurus",
@@ -111,7 +111,7 @@
         "Barrel Length: 3.38\"",
         "Manufacturer: Taurus"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.jLV9njpoQKkcQyo1oe0W9AHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://thafd.bing.com/th/id/OIP.Vq4_2qv-_8d9EPZiPvSKsAHaFP?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Heckler & Koch",
@@ -127,7 +127,7 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Heckler & Koch"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.DhC_NG7VXC1AF5fhjZkRmwHaEI?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://thafd.bing.com/th/id/OIP._KIemOXx5ANKQJ9uiSUMbgHaEH?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Staccato 2011 LLC",
@@ -143,7 +143,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Staccato 2011 LLC"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.UukPTES7KkT5x8du02T3mwHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://thafd.bing.com/th/id/OIP.kUAlBLSdCWmdT9P4-oMrhgHaIA?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Rost Martin",
@@ -159,7 +159,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Rost Martin"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.lo5iViMci6dxxEwG9stf8gHaEo?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://thafd.bing.com/th/id/OIP.Xi0ZURkTdKUbJ672L0wyMAHaFj?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Rost Martin",
@@ -175,7 +175,7 @@
         "Barrel Length: 3.6\"",
         "Manufacturer: Rost Martin"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.lo5iViMci6dxxEwG9stf8gHaEo?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://thafd.bing.com/th/id/OIP.Xi0ZURkTdKUbJ672L0wyMAHaFj?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3"
     }
   ]
 }
