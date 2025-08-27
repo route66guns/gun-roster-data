@@ -1,6 +1,22 @@
 {
-  "updated": "2025-08-26T01:21:27.618776",
+  "updated": "2025-08-27T01:18:47.192839",
   "handguns": [
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "Model 10 Classic 4\"- 14074",
+      "caliber": ".38 SPL. S&W +P",
+      "type": "Revolver",
+      "barrel_length": "4\"",
+      "date_added": "08/19/2025",
+      "description": "The Smith & Wesson Model 10 Classic 4\"- 14074 is a recently certified handgun featuring a 4\" barrel and chambered in .38 SPL. S&W +P.",
+      "features": [
+        "Caliber: .38 SPL. S&W +P",
+        "Type: Revolver",
+        "Barrel Length: 4\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://thaka.bing.com/th/id/OIP.YcvaQAlKv5U7DPGoSxcVxAHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
     {
       "manufacturer": "Smith & Wesson",
       "model": "Model 36 Classic- 14076",
@@ -15,7 +31,7 @@
         "Barrel Length: 1.88\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.ranWq8htUuZC87of3Umq4wHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://thaka.bing.com/th/id/OIP.YcvaQAlKv5U7DPGoSxcVxAHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -31,23 +47,7 @@
         "Barrel Length: 4.25\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.47wrBarcigRT6WXJBIU2bgHaKu?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "Model 10 Classic 4\"- 14074",
-      "caliber": ".38 SPL. S&W +P",
-      "type": "Revolver",
-      "barrel_length": "4\"",
-      "date_added": "08/19/2025",
-      "description": "The Smith & Wesson Model 10 Classic 4\"- 14074 is a recently certified handgun featuring a 4\" barrel and chambered in .38 SPL. S&W +P.",
-      "features": [
-        "Caliber: .38 SPL. S&W +P",
-        "Type: Revolver",
-        "Barrel Length: 4\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.47wrBarcigRT6WXJBIU2bgHaKu?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://thaka.bing.com/th/id/OIP.YcvaQAlKv5U7DPGoSxcVxAHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Sturm, Ruger & Co.",
@@ -63,7 +63,7 @@
         "Barrel Length: 2.8\"",
         "Manufacturer: Sturm, Ruger & Co."
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.uZ_eAuj8iZhSfURuQ5QZngHaFk?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://thaka.bing.com/th/id/OIP.uZ_eAuj8iZhSfURuQ5QZngHaFk?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Springfield Armory",
@@ -79,7 +79,7 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.Q71Kaanq67E0cFi6uUr5cAHaLG?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://thaka.bing.com/th/id/OIP.OQK2I8s3ixnW9KfKmP1LFwHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Derya",
@@ -95,7 +95,7 @@
         "Barrel Length: 3.86\"",
         "Manufacturer: Derya"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.la1kNLr0qWzqpvNMmpJzpAHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://thaka.bing.com/th/id/OIP.la1kNLr0qWzqpvNMmpJzpAHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Taurus",
@@ -111,7 +111,7 @@
         "Barrel Length: 3.38\"",
         "Manufacturer: Taurus"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.Vq4_2qv-_8d9EPZiPvSKsAHaFP?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://thaka.bing.com/th/id/OIP.41N8r2VLX9xtbJGVyoJ3owHaF6?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Heckler & Koch",
@@ -127,7 +127,7 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Heckler & Koch"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.DhC_NG7VXC1AF5fhjZkRmwHaEI?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://thaka.bing.com/th/id/OIP.DhC_NG7VXC1AF5fhjZkRmwHaEI?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Staccato 2011 LLC",
@@ -143,7 +143,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Staccato 2011 LLC"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.82weoZoACFGIaF-fAqOKHwHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://thaka.bing.com/th/id/OIP.kUAlBLSdCWmdT9P4-oMrhgHaIA?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Rost Martin",
@@ -159,23 +159,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Rost Martin"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.AWYJg5KY21fKRslsWf514QHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Rost Martin",
-      "model": "RM1SBLKOSP10CA*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "3.6\"",
-      "date_added": "05/27/2025",
-      "description": "The Rost Martin RM1SBLKOSP10CA* is a recently certified handgun featuring a 3.6\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 3.6\"",
-        "Manufacturer: Rost Martin"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP._Fc6Se6yLAesP_ySQ51YmAHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://thaka.bing.com/th/id/OIP.AWYJg5KY21fKRslsWf514QHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     }
   ]
 }
