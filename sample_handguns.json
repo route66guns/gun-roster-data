@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-30T01:14:47.739159",
+  "updated": "2025-08-31T01:23:03.192653",
   "handguns": [
     {
       "manufacturer": "Smith & Wesson",
@@ -15,7 +15,7 @@
         "Barrel Length: 1.88\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://thaka.bing.com/th/id/OIP.DWBnz0v6qHx7FykZbEDVbgHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.DWBnz0v6qHx7FykZbEDVbgHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -31,7 +31,7 @@
         "Barrel Length: 4.25\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://thaka.bing.com/th/id/OIP.TeM68zVlR7SVGPDWjihscQHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.TeM68zVlR7SVGPDWjihscQHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -47,7 +47,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://thaka.bing.com/th/id/OIP.GiScwBM-2PHRQYZRm8twOgHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.GiScwBM-2PHRQYZRm8twOgHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Sturm, Ruger & Co.",
@@ -63,23 +63,7 @@
         "Barrel Length: 2.8\"",
         "Manufacturer: Sturm, Ruger & Co."
       ],
-      "image_url": "https://thaka.bing.com/th/id/OIP.0QTSrYp6_mUHQHZHQhp2kAHaF-?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Derya",
-      "model": "DY9*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "3.86\"",
-      "date_added": "07/08/2025",
-      "description": "The Derya DY9* is a recently certified handgun featuring a 3.86\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 3.86\"",
-        "Manufacturer: Derya"
-      ],
-      "image_url": "https://thaka.bing.com/th/id/OIP.TJY9kK09uhFhO32DjPQ52gHaE6?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.0QTSrYp6_mUHQHZHQhp2kAHaF-?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Springfield Armory",
@@ -95,7 +79,23 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://thaka.bing.com/th/id/OIP.EWk8u3yM3DqzqKgbd2puhQHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.EWk8u3yM3DqzqKgbd2puhQHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Derya",
+      "model": "DY9*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "3.86\"",
+      "date_added": "07/08/2025",
+      "description": "The Derya DY9* is a recently certified handgun featuring a 3.86\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 3.86\"",
+        "Manufacturer: Derya"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.TJY9kK09uhFhO32DjPQ52gHaE6?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Taurus",
@@ -111,7 +111,7 @@
         "Barrel Length: 3.38\"",
         "Manufacturer: Taurus"
       ],
-      "image_url": "https://thaka.bing.com/th/id/OIP.m5ATCs32MIMgfBFixvbFQQHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.m5ATCs32MIMgfBFixvbFQQHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Heckler & Koch",
@@ -127,7 +127,7 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Heckler & Koch"
       ],
-      "image_url": "https://thaka.bing.com/th/id/OIP.0WRSNOn3kgZr1NkWbKEK1gHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.0WRSNOn3kgZr1NkWbKEK1gHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Staccato 2011 LLC",
@@ -143,7 +143,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Staccato 2011 LLC"
       ],
-      "image_url": "https://thaka.bing.com/th/id/OIP.BBRmoxvJQJ9AHveVsaroBQHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.BBRmoxvJQJ9AHveVsaroBQHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Rost Martin",
@@ -159,7 +159,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Rost Martin"
       ],
-      "image_url": "https://thaka.bing.com/th/id/OIP.gQ-vQzV6x51zn7HosppoPQHaFj?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.gQ-vQzV6x51zn7HosppoPQHaFj?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     }
   ]
 }
