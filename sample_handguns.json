@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-04T01:14:44.391577",
+  "updated": "2025-09-05T01:16:27.904248",
   "handguns": [
     {
       "manufacturer": "Heritage Manufacturing",
@@ -15,39 +15,7 @@
         "Barrel Length: 3\"",
         "Manufacturer: Heritage Manufacturing"
       ],
-      "image_url": "https://thafd.bing.com/th/id/OIP.ciUyUkSud3sI_MIXb3a02QHaEK?w=800&h=600&c=7&r=0&o=7&cb=thfvnext&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "Model 19-10 No Lock- 14046",
-      "caliber": ".357 Magnum",
-      "type": "Revolver",
-      "barrel_length": "4.25\"",
-      "date_added": "08/19/2025",
-      "description": "The Smith & Wesson Model 19-10 No Lock- 14046 is a recently certified handgun featuring a 4.25\" barrel and chambered in .357 Magnum.",
-      "features": [
-        "Caliber: .357 Magnum",
-        "Type: Revolver",
-        "Barrel Length: 4.25\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://thafd.bing.com/th/id/OIP.XuR3w0RGP46-mnOPPwTPoAHaJ4?w=800&h=600&c=7&r=0&o=7&cb=thfvnext&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "Model 10 Classic 4\"- 14074",
-      "caliber": ".38 SPL. S&W +P",
-      "type": "Revolver",
-      "barrel_length": "4\"",
-      "date_added": "08/19/2025",
-      "description": "The Smith & Wesson Model 10 Classic 4\"- 14074 is a recently certified handgun featuring a 4\" barrel and chambered in .38 SPL. S&W +P.",
-      "features": [
-        "Caliber: .38 SPL. S&W +P",
-        "Type: Revolver",
-        "Barrel Length: 4\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://thafd.bing.com/th/id/OIP.XuR3w0RGP46-mnOPPwTPoAHaJ4?w=800&h=600&c=7&r=0&o=7&cb=thfvnext&pid=1.7&rm=3"
+      "image_url": "https://thafd.bing.com/th/id/OIP.FfBiE2RiQ_oUAqj0eYtZUwHaFX?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3&ucfimg=1"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -63,7 +31,39 @@
         "Barrel Length: 1.88\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://thafd.bing.com/th/id/OIP.XuR3w0RGP46-mnOPPwTPoAHaJ4?w=800&h=600&c=7&r=0&o=7&cb=thfvnext&pid=1.7&rm=3"
+      "image_url": "https://thafd.bing.com/th/id/OIP.DWBnz0v6qHx7FykZbEDVbgHaE8?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3&ucfimg=1"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "Model 19-10 No Lock- 14046",
+      "caliber": ".357 Magnum",
+      "type": "Revolver",
+      "barrel_length": "4.25\"",
+      "date_added": "08/19/2025",
+      "description": "The Smith & Wesson Model 19-10 No Lock- 14046 is a recently certified handgun featuring a 4.25\" barrel and chambered in .357 Magnum.",
+      "features": [
+        "Caliber: .357 Magnum",
+        "Type: Revolver",
+        "Barrel Length: 4.25\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://thafd.bing.com/th/id/OIP.TeM68zVlR7SVGPDWjihscQHaHa?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3&ucfimg=1"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "Model 10 Classic 4\"- 14074",
+      "caliber": ".38 SPL. S&W +P",
+      "type": "Revolver",
+      "barrel_length": "4\"",
+      "date_added": "08/19/2025",
+      "description": "The Smith & Wesson Model 10 Classic 4\"- 14074 is a recently certified handgun featuring a 4\" barrel and chambered in .38 SPL. S&W +P.",
+      "features": [
+        "Caliber: .38 SPL. S&W +P",
+        "Type: Revolver",
+        "Barrel Length: 4\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://thafd.bing.com/th/id/OIP.GiScwBM-2PHRQYZRm8twOgHaHa?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3&ucfimg=1"
     },
     {
       "manufacturer": "Sturm, Ruger & Co.",
@@ -79,7 +79,7 @@
         "Barrel Length: 2.8\"",
         "Manufacturer: Sturm, Ruger & Co."
       ],
-      "image_url": "https://thafd.bing.com/th/id/OIP.uZ_eAuj8iZhSfURuQ5QZngHaFk?w=800&h=600&c=7&r=0&o=7&cb=thfvnext&pid=1.7&rm=3"
+      "image_url": "https://thafd.bing.com/th/id/OIP.0QTSrYp6_mUHQHZHQhp2kAHaF-?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3&ucfimg=1"
     },
     {
       "manufacturer": "Springfield Armory",
@@ -95,7 +95,7 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://thafd.bing.com/th/id/OIP.zKaIsQLjLGMuNORoPtHcmAHaE8?w=800&h=600&c=7&r=0&o=7&cb=thfvnext&pid=1.7&rm=3"
+      "image_url": "https://thafd.bing.com/th/id/OIP.EWk8u3yM3DqzqKgbd2puhQHaE8?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3&ucfimg=1"
     },
     {
       "manufacturer": "Derya",
@@ -111,7 +111,7 @@
         "Barrel Length: 3.86\"",
         "Manufacturer: Derya"
       ],
-      "image_url": "https://thafd.bing.com/th/id/OIP.la1kNLr0qWzqpvNMmpJzpAHaE8?w=800&h=600&c=7&r=0&o=7&cb=thfvnext&pid=1.7&rm=3"
+      "image_url": "https://thafd.bing.com/th/id/OIP.TJY9kK09uhFhO32DjPQ52gHaE6?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3&ucfimg=1"
     },
     {
       "manufacturer": "Taurus",
@@ -127,7 +127,7 @@
         "Barrel Length: 3.38\"",
         "Manufacturer: Taurus"
       ],
-      "image_url": "https://thafd.bing.com/th/id/OIP.j8vJGnoczBj5tluJuwpmJgHaHa?w=800&h=600&c=7&r=0&o=7&cb=thfvnext&pid=1.7&rm=3"
+      "image_url": "https://thafd.bing.com/th/id/OIP.m5ATCs32MIMgfBFixvbFQQHaE8?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3&ucfimg=1"
     },
     {
       "manufacturer": "Heckler & Koch",
@@ -143,23 +143,7 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Heckler & Koch"
       ],
-      "image_url": "https://thafd.bing.com/th/id/OIP.DhC_NG7VXC1AF5fhjZkRmwHaEI?w=800&h=600&c=7&r=0&o=7&cb=thfvnext&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Staccato 2011 LLC",
-      "model": "HD P4*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "06/18/2025",
-      "description": "The Staccato 2011 LLC HD P4* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: Staccato 2011 LLC"
-      ],
-      "image_url": "https://thafd.bing.com/th/id/OIP.kUAlBLSdCWmdT9P4-oMrhgHaIA?w=800&h=600&c=7&r=0&o=7&cb=thfvnext&pid=1.7&rm=3"
+      "image_url": "https://thafd.bing.com/th/id/OIP.0WRSNOn3kgZr1NkWbKEK1gHaHa?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3&ucfimg=1"
     },
     {
       "manufacturer": "Rost Martin",
@@ -175,7 +159,23 @@
         "Barrel Length: 4\"",
         "Manufacturer: Rost Martin"
       ],
-      "image_url": "https://thafd.bing.com/th/id/OIP.Xi0ZURkTdKUbJ672L0wyMAHaFj?w=800&h=600&c=7&r=0&o=7&cb=thfvnext&pid=1.7&rm=3"
+      "image_url": "https://thafd.bing.com/th/id/OIP.gQ-vQzV6x51zn7HosppoPQHaFj?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3&ucfimg=1"
+    },
+    {
+      "manufacturer": "Staccato 2011 LLC",
+      "model": "HD P4*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4\"",
+      "date_added": "06/18/2025",
+      "description": "The Staccato 2011 LLC HD P4* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4\"",
+        "Manufacturer: Staccato 2011 LLC"
+      ],
+      "image_url": "https://thafd.bing.com/th/id/OIP.BBRmoxvJQJ9AHveVsaroBQHaE8?w=800&h=600&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3&ucfimg=1"
     }
   ]
 }
