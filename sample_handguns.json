@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-14T01:21:25.886501",
+  "updated": "2025-09-15T01:21:40.638591",
   "handguns": [
     {
       "manufacturer": "Springfield Armory",
@@ -15,7 +15,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.OQK2I8s3ixnW9KfKmP1LFwHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "FMK Firearms",
@@ -47,7 +47,7 @@
         "Barrel Length: 3.7\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.OQK2I8s3ixnW9KfKmP1LFwHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "FMK Firearms",
@@ -95,7 +95,7 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.OQK2I8s3ixnW9KfKmP1LFwHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Springfield Armory",
@@ -111,7 +111,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.OQK2I8s3ixnW9KfKmP1LFwHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Heritage Manufacturing",
@@ -127,7 +127,7 @@
         "Barrel Length: 3\"",
         "Manufacturer: Heritage Manufacturing"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.ciUyUkSud3sI_MIXb3a02QHaEK?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.qelWOIcCgeLJ8MFEMS7KmwHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -143,7 +143,7 @@
         "Barrel Length: 1.88\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.ranWq8htUuZC87of3Umq4wHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.47wrBarcigRT6WXJBIU2bgHaKu?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -159,7 +159,7 @@
         "Barrel Length: 4.25\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.zrnANUWmKcBFKQWqVValewAAAA?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.47wrBarcigRT6WXJBIU2bgHaKu?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -175,7 +175,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.U9vIx_TMb_zB0bw-ivnc9QHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.47wrBarcigRT6WXJBIU2bgHaKu?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Sturm, Ruger & Co.",
@@ -191,23 +191,7 @@
         "Barrel Length: 2.8\"",
         "Manufacturer: Sturm, Ruger & Co."
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.ooxXVCGnAgLZ4ZPJZT3EIQHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Springfield Armory",
-      "model": "Echelon*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4.5\"",
-      "date_added": "07/08/2025",
-      "description": "The Springfield Armory Echelon* is a recently certified handgun featuring a 4.5\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4.5\"",
-        "Manufacturer: Springfield Armory"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.OQK2I8s3ixnW9KfKmP1LFwHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.uZ_eAuj8iZhSfURuQ5QZngHaFk?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Derya",
@@ -226,6 +210,22 @@
       "image_url": "https://th.bing.com/th/id/OIP.la1kNLr0qWzqpvNMmpJzpAHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
+      "manufacturer": "Springfield Armory",
+      "model": "Echelon*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4.5\"",
+      "date_added": "07/08/2025",
+      "description": "The Springfield Armory Echelon* is a recently certified handgun featuring a 4.5\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4.5\"",
+        "Manufacturer: Springfield Armory"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
       "manufacturer": "Taurus",
       "model": "GX2 CA*",
       "caliber": "9MM",
@@ -239,7 +239,7 @@
         "Barrel Length: 3.38\"",
         "Manufacturer: Taurus"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.Vq4_2qv-_8d9EPZiPvSKsAHaFP?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.qUQWQ8GGU5LGLnctM0jGBQHaD5?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Heckler & Koch",
@@ -287,7 +287,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Rost Martin"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.BsnPRYB4LjHYAadIvPT9ZgHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.kgaPzE1hFMs8Aqsgtgia3QHaE7?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     }
   ]
 }
