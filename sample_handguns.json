@@ -1,6 +1,22 @@
 {
-  "updated": "2025-09-18T01:15:20.885235",
+  "updated": "2025-09-19T01:17:32.912382",
   "handguns": [
+    {
+      "manufacturer": "Springfield Armory",
+      "model": "Echelon 4.5F U-Notch Blk Comp CA*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4.5\"",
+      "date_added": "09/09/2025",
+      "description": "The Springfield Armory Echelon 4.5F U-Notch Blk Comp CA* is a recently certified handgun featuring a 4.5\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4.5\"",
+        "Manufacturer: Springfield Armory"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.0aDbn5NDCC2TcNBNiZkQGAHaGd?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
     {
       "manufacturer": "Springfield Armory",
       "model": "Echelon 4.0C U-Notch Blk Comp CA*",
@@ -31,7 +47,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.x2U5jq6EpL_gZBZgMCx7xAHaFE?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.Hm-59AEAYkLkMOyILtNCMgHaHW?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "FMK Firearms",
@@ -95,23 +111,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: FMK Firearms"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.shifFv7I1I5Igbf-a1QlGwHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Springfield Armory",
-      "model": "Echelon 4.5F U-Notch Blk Comp CA*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4.5\"",
-      "date_added": "09/09/2025",
-      "description": "The Springfield Armory Echelon 4.5F U-Notch Blk Comp CA* is a recently certified handgun featuring a 4.5\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4.5\"",
-        "Manufacturer: Springfield Armory"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.0aDbn5NDCC2TcNBNiZkQGAHaGd?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.L42WKtJV85bA8FFNnuhDMwHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Heritage Manufacturing",
@@ -128,6 +128,22 @@
         "Manufacturer: Heritage Manufacturing"
       ],
       "image_url": "https://th.bing.com/th/id/OIP.FfBiE2RiQ_oUAqj0eYtZUwHaFX?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "Model 19-10 No Lock- 14046",
+      "caliber": ".357 Magnum",
+      "type": "Revolver",
+      "barrel_length": "4.25\"",
+      "date_added": "08/19/2025",
+      "description": "The Smith & Wesson Model 19-10 No Lock- 14046 is a recently certified handgun featuring a 4.25\" barrel and chambered in .357 Magnum.",
+      "features": [
+        "Caliber: .357 Magnum",
+        "Type: Revolver",
+        "Barrel Length: 4.25\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.wTr_wIF98o8OaIXXwIZ5hQHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -160,22 +176,6 @@
         "Manufacturer: Smith & Wesson"
       ],
       "image_url": "https://th.bing.com/th/id/OIP.DWBnz0v6qHx7FykZbEDVbgHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "Model 19-10 No Lock- 14046",
-      "caliber": ".357 Magnum",
-      "type": "Revolver",
-      "barrel_length": "4.25\"",
-      "date_added": "08/19/2025",
-      "description": "The Smith & Wesson Model 19-10 No Lock- 14046 is a recently certified handgun featuring a 4.25\" barrel and chambered in .357 Magnum.",
-      "features": [
-        "Caliber: .357 Magnum",
-        "Type: Revolver",
-        "Barrel Length: 4.25\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.TeM68zVlR7SVGPDWjihscQHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Sturm, Ruger & Co.",
