@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-27T01:14:05.103150",
+  "updated": "2025-09-28T01:24:20.257249",
   "handguns": [
     {
       "manufacturer": "Heckler & Koch",
@@ -47,7 +47,55 @@
         "Barrel Length: 3.1\"",
         "Manufacturer: Sig Sauer"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.94-FZrxUeHu5FpP6T61X_gHaFC?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.3ALHYSh2PqM863hgqFKRegHaFk?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Springfield Armory",
+      "model": "Echelon 4.0C U-Notch Blk CA*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4\"",
+      "date_added": "09/09/2025",
+      "description": "The Springfield Armory Echelon 4.0C U-Notch Blk CA* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4\"",
+        "Manufacturer: Springfield Armory"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "FMK Firearms",
+      "model": "9C1 G3 (BURNT BRONZE FRAME)*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4\"",
+      "date_added": "09/09/2025",
+      "description": "The FMK Firearms 9C1 G3 (BURNT BRONZE FRAME)* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4\"",
+        "Manufacturer: FMK Firearms"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.ylmdh84Fbs8RhtK_pcLd9gHaF9?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Springfield Armory",
+      "model": "HCP9379BOSPCA-COMP*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "3.7\"",
+      "date_added": "09/09/2025",
+      "description": "The Springfield Armory HCP9379BOSPCA-COMP* is a recently certified handgun featuring a 3.7\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 3.7\"",
+        "Manufacturer: Springfield Armory"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "FMK Firearms",
@@ -95,7 +143,7 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.uXZCeMM4R3VnirZjkjB-vQHaFN?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Springfield Armory",
@@ -111,55 +159,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.uXZCeMM4R3VnirZjkjB-vQHaFN?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Springfield Armory",
-      "model": "Echelon 4.0C U-Notch Blk CA*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "09/09/2025",
-      "description": "The Springfield Armory Echelon 4.0C U-Notch Blk CA* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: Springfield Armory"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.nbwFoWZvT3AW4bvpqFQBJQHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "FMK Firearms",
-      "model": "9C1 G3 (BURNT BRONZE FRAME)*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "09/09/2025",
-      "description": "The FMK Firearms 9C1 G3 (BURNT BRONZE FRAME)* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: FMK Firearms"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.ylmdh84Fbs8RhtK_pcLd9gHaF9?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Springfield Armory",
-      "model": "HCP9379BOSPCA-COMP*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "3.7\"",
-      "date_added": "09/09/2025",
-      "description": "The Springfield Armory HCP9379BOSPCA-COMP* is a recently certified handgun featuring a 3.7\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 3.7\"",
-        "Manufacturer: Springfield Armory"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.l6pw_NXrDMfNYIIu8W-EfAHaHa?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Heritage Manufacturing",
@@ -175,7 +175,7 @@
         "Barrel Length: 3\"",
         "Manufacturer: Heritage Manufacturing"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.iwxnWdGvSMWOuXKSPIh5yAHaEK?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.ciUyUkSud3sI_MIXb3a02QHaEK?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -191,7 +191,7 @@
         "Barrel Length: 1.88\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.aqWHJ1_qAfnSdegJKtc_OgHaJ5?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.47wrBarcigRT6WXJBIU2bgHaKu?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -207,7 +207,7 @@
         "Barrel Length: 4.25\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.aqWHJ1_qAfnSdegJKtc_OgHaJ5?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.47wrBarcigRT6WXJBIU2bgHaKu?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -223,7 +223,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.aqWHJ1_qAfnSdegJKtc_OgHaJ5?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.47wrBarcigRT6WXJBIU2bgHaKu?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Sturm, Ruger & Co.",
@@ -239,23 +239,7 @@
         "Barrel Length: 2.8\"",
         "Manufacturer: Sturm, Ruger & Co."
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.uZ_eAuj8iZhSfURuQ5QZngHaFk?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Springfield Armory",
-      "model": "Echelon*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4.5\"",
-      "date_added": "07/08/2025",
-      "description": "The Springfield Armory Echelon* is a recently certified handgun featuring a 4.5\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4.5\"",
-        "Manufacturer: Springfield Armory"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.RMICQ1SD7Znu7dpXPRdA4AHaFz?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.ooxXVCGnAgLZ4ZPJZT3EIQHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Derya",
@@ -274,6 +258,22 @@
       "image_url": "https://th.bing.com/th/id/OIP.la1kNLr0qWzqpvNMmpJzpAHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
+      "manufacturer": "Springfield Armory",
+      "model": "Echelon*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4.5\"",
+      "date_added": "07/08/2025",
+      "description": "The Springfield Armory Echelon* is a recently certified handgun featuring a 4.5\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4.5\"",
+        "Manufacturer: Springfield Armory"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
       "manufacturer": "Taurus",
       "model": "GX2 CA*",
       "caliber": "9MM",
@@ -287,7 +287,7 @@
         "Barrel Length: 3.38\"",
         "Manufacturer: Taurus"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.Vq4_2qv-_8d9EPZiPvSKsAHaFP?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.f17pzXNPP_nOe1pSxGb6EQHaKN?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     }
   ]
 }
