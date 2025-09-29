@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-28T01:24:20.257249",
+  "updated": "2025-09-29T01:19:07.431863",
   "handguns": [
     {
       "manufacturer": "Heckler & Koch",
@@ -191,7 +191,7 @@
         "Barrel Length: 1.88\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.47wrBarcigRT6WXJBIU2bgHaKu?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.Efeb7I8oxX39rQHuKA-B1wHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -207,7 +207,7 @@
         "Barrel Length: 4.25\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.47wrBarcigRT6WXJBIU2bgHaKu?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.Efeb7I8oxX39rQHuKA-B1wHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -223,7 +223,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.47wrBarcigRT6WXJBIU2bgHaKu?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.Efeb7I8oxX39rQHuKA-B1wHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Sturm, Ruger & Co.",
@@ -239,23 +239,7 @@
         "Barrel Length: 2.8\"",
         "Manufacturer: Sturm, Ruger & Co."
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.ooxXVCGnAgLZ4ZPJZT3EIQHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Derya",
-      "model": "DY9*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "3.86\"",
-      "date_added": "07/08/2025",
-      "description": "The Derya DY9* is a recently certified handgun featuring a 3.86\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 3.86\"",
-        "Manufacturer: Derya"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.la1kNLr0qWzqpvNMmpJzpAHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.hLu7ZM9VUGuOVFde2h4oTQHaEK?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Springfield Armory",
@@ -274,6 +258,22 @@
       "image_url": "https://th.bing.com/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
+      "manufacturer": "Derya",
+      "model": "DY9*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "3.86\"",
+      "date_added": "07/08/2025",
+      "description": "The Derya DY9* is a recently certified handgun featuring a 3.86\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 3.86\"",
+        "Manufacturer: Derya"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.la1kNLr0qWzqpvNMmpJzpAHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
       "manufacturer": "Taurus",
       "model": "GX2 CA*",
       "caliber": "9MM",
@@ -287,7 +287,7 @@
         "Barrel Length: 3.38\"",
         "Manufacturer: Taurus"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.f17pzXNPP_nOe1pSxGb6EQHaKN?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.lhAv7KxH23l4_DSwtJsgWgHaEI?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     }
   ]
 }
