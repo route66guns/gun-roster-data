@@ -1,22 +1,6 @@
 {
-  "updated": "2025-09-29T01:19:07.431863",
+  "updated": "2025-09-30T01:18:00.566429",
   "handguns": [
-    {
-      "manufacturer": "Heckler & Koch",
-      "model": "VP9K*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4.09\"",
-      "date_added": "09/23/2025",
-      "description": "The Heckler & Koch VP9K* is a recently certified handgun featuring a 4.09\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4.09\"",
-        "Manufacturer: Heckler & Koch"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.QwYp6pn450B5XmQm0V9krQHaFQ?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
     {
       "manufacturer": "Girsan (Imported by European American Armory Corporation)",
       "model": "MC P35 CAL (BLK CHROME/ROSE GOLD)*",
@@ -31,103 +15,39 @@
         "Barrel Length: 4.87\"",
         "Manufacturer: Girsan (Imported by European American Armory Corporation)"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.2TEFrfczQwdXm8xsSJLLMgAAAA?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://tse2.mm.bing.net/th/id/OIP.2TEFrfczQwdXm8xsSJLLMgAAAA?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Sig Sauer",
-      "model": "365-9-BRX3P-MS-SL-CA*",
+      "model": "365-9-BXR3P-MS-SL-CA*",
       "caliber": "9MM",
       "type": "Pistol",
       "barrel_length": "3.1\"",
       "date_added": "09/23/2025",
-      "description": "The Sig Sauer 365-9-BRX3P-MS-SL-CA* is a recently certified handgun featuring a 3.1\" barrel and chambered in 9MM.",
+      "description": "The Sig Sauer 365-9-BXR3P-MS-SL-CA* is a recently certified handgun featuring a 3.1\" barrel and chambered in 9MM.",
       "features": [
         "Caliber: 9MM",
         "Type: Pistol",
         "Barrel Length: 3.1\"",
         "Manufacturer: Sig Sauer"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.3ALHYSh2PqM863hgqFKRegHaFk?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://tse1.mm.bing.net/th/id/OIP.3ALHYSh2PqM863hgqFKRegHaFk?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
-      "manufacturer": "Springfield Armory",
-      "model": "Echelon 4.0C U-Notch Blk CA*",
+      "manufacturer": "Heckler & Koch",
+      "model": "VP9K*",
       "caliber": "9MM",
       "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "09/09/2025",
-      "description": "The Springfield Armory Echelon 4.0C U-Notch Blk CA* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "barrel_length": "4.09\"",
+      "date_added": "09/23/2025",
+      "description": "The Heckler & Koch VP9K* is a recently certified handgun featuring a 4.09\" barrel and chambered in 9MM.",
       "features": [
         "Caliber: 9MM",
         "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: Springfield Armory"
+        "Barrel Length: 4.09\"",
+        "Manufacturer: Heckler & Koch"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "FMK Firearms",
-      "model": "9C1 G3 (BURNT BRONZE FRAME)*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "09/09/2025",
-      "description": "The FMK Firearms 9C1 G3 (BURNT BRONZE FRAME)* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: FMK Firearms"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.ylmdh84Fbs8RhtK_pcLd9gHaF9?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Springfield Armory",
-      "model": "HCP9379BOSPCA-COMP*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "3.7\"",
-      "date_added": "09/09/2025",
-      "description": "The Springfield Armory HCP9379BOSPCA-COMP* is a recently certified handgun featuring a 3.7\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 3.7\"",
-        "Manufacturer: Springfield Armory"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "FMK Firearms",
-      "model": "9C1 G3 (TITANIUM FRAME)*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "09/09/2025",
-      "description": "The FMK Firearms 9C1 G3 (TITANIUM FRAME)* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: FMK Firearms"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.bS9IqsD3ZUbwYI2VLKGaawHaDn?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "FMK Firearms",
-      "model": "9C1 G3 (FDE FRAME)(W/BURNT BRONZE SLIDE)*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "09/09/2025",
-      "description": "The FMK Firearms 9C1 G3 (FDE FRAME)(W/BURNT BRONZE SLIDE)* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: FMK Firearms"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.PGG_syvbq9wnMKVHCBZSJgHaFq?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://tse2.mm.bing.net/th/id/OIP.QwYp6pn450B5XmQm0V9krQHaFQ?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Springfield Armory",
@@ -143,7 +63,7 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://tse3.mm.bing.net/th/id/OIP.OQK2I8s3ixnW9KfKmP1LFwHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Springfield Armory",
@@ -159,7 +79,87 @@
         "Barrel Length: 4\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://tse3.mm.bing.net/th/id/OIP.OQK2I8s3ixnW9KfKmP1LFwHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Springfield Armory",
+      "model": "Echelon 4.0C U-Notch Blk CA*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4\"",
+      "date_added": "09/09/2025",
+      "description": "The Springfield Armory Echelon 4.0C U-Notch Blk CA* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4\"",
+        "Manufacturer: Springfield Armory"
+      ],
+      "image_url": "https://tse3.mm.bing.net/th/id/OIP.OQK2I8s3ixnW9KfKmP1LFwHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "FMK Firearms",
+      "model": "9C1 G3 (BURNT BRONZE FRAME)*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4\"",
+      "date_added": "09/09/2025",
+      "description": "The FMK Firearms 9C1 G3 (BURNT BRONZE FRAME)* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4\"",
+        "Manufacturer: FMK Firearms"
+      ],
+      "image_url": "https://tse3.mm.bing.net/th/id/OIP.ylmdh84Fbs8RhtK_pcLd9gHaF9?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Springfield Armory",
+      "model": "HCP9379BOSPCA-COMP*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "3.7\"",
+      "date_added": "09/09/2025",
+      "description": "The Springfield Armory HCP9379BOSPCA-COMP* is a recently certified handgun featuring a 3.7\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 3.7\"",
+        "Manufacturer: Springfield Armory"
+      ],
+      "image_url": "https://tse3.mm.bing.net/th/id/OIP.OQK2I8s3ixnW9KfKmP1LFwHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "FMK Firearms",
+      "model": "9C1 G3 (TITANIUM FRAME)*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4\"",
+      "date_added": "09/09/2025",
+      "description": "The FMK Firearms 9C1 G3 (TITANIUM FRAME)* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4\"",
+        "Manufacturer: FMK Firearms"
+      ],
+      "image_url": "https://tse1.mm.bing.net/th/id/OIP.bS9IqsD3ZUbwYI2VLKGaawHaDn?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "FMK Firearms",
+      "model": "9C1 G3 (FDE FRAME)(W/BURNT BRONZE SLIDE)*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4\"",
+      "date_added": "09/09/2025",
+      "description": "The FMK Firearms 9C1 G3 (FDE FRAME)(W/BURNT BRONZE SLIDE)* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4\"",
+        "Manufacturer: FMK Firearms"
+      ],
+      "image_url": "https://tse2.mm.bing.net/th/id/OIP.PGG_syvbq9wnMKVHCBZSJgHaFq?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Heritage Manufacturing",
@@ -175,23 +175,7 @@
         "Barrel Length: 3\"",
         "Manufacturer: Heritage Manufacturing"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.ciUyUkSud3sI_MIXb3a02QHaEK?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "Model 36 Classic- 14076",
-      "caliber": ".38 SPL. S&W +P",
-      "type": "Revolver",
-      "barrel_length": "1.88\"",
-      "date_added": "08/19/2025",
-      "description": "The Smith & Wesson Model 36 Classic- 14076 is a recently certified handgun featuring a 1.88\" barrel and chambered in .38 SPL. S&W +P.",
-      "features": [
-        "Caliber: .38 SPL. S&W +P",
-        "Type: Revolver",
-        "Barrel Length: 1.88\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.Efeb7I8oxX39rQHuKA-B1wHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://tse1.mm.bing.net/th/id/OIP.iwxnWdGvSMWOuXKSPIh5yAHaEK?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -207,7 +191,7 @@
         "Barrel Length: 4.25\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.Efeb7I8oxX39rQHuKA-B1wHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://tse4.mm.bing.net/th/id/OIP.d55WihOOUbtIw6h7tOA8ygHaE7?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -223,7 +207,23 @@
         "Barrel Length: 4\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.Efeb7I8oxX39rQHuKA-B1wHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://tse4.mm.bing.net/th/id/OIP.d55WihOOUbtIw6h7tOA8ygHaE7?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "Model 36 Classic- 14076",
+      "caliber": ".38 SPL. S&W +P",
+      "type": "Revolver",
+      "barrel_length": "1.88\"",
+      "date_added": "08/19/2025",
+      "description": "The Smith & Wesson Model 36 Classic- 14076 is a recently certified handgun featuring a 1.88\" barrel and chambered in .38 SPL. S&W +P.",
+      "features": [
+        "Caliber: .38 SPL. S&W +P",
+        "Type: Revolver",
+        "Barrel Length: 1.88\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://tse4.mm.bing.net/th/id/OIP.d55WihOOUbtIw6h7tOA8ygHaE7?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Sturm, Ruger & Co.",
@@ -239,7 +239,7 @@
         "Barrel Length: 2.8\"",
         "Manufacturer: Sturm, Ruger & Co."
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.hLu7ZM9VUGuOVFde2h4oTQHaEK?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://tse2.mm.bing.net/th/id/OIP.uZ_eAuj8iZhSfURuQ5QZngHaFk?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Springfield Armory",
@@ -255,7 +255,7 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://tse3.mm.bing.net/th/id/OIP.OQK2I8s3ixnW9KfKmP1LFwHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Derya",
@@ -271,7 +271,7 @@
         "Barrel Length: 3.86\"",
         "Manufacturer: Derya"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.la1kNLr0qWzqpvNMmpJzpAHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://tse2.mm.bing.net/th/id/OIP.la1kNLr0qWzqpvNMmpJzpAHaE8?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Taurus",
@@ -287,7 +287,7 @@
         "Barrel Length: 3.38\"",
         "Manufacturer: Taurus"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.lhAv7KxH23l4_DSwtJsgWgHaEI?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
+      "image_url": "https://tse4.mm.bing.net/th/id/OIP.Vq4_2qv-_8d9EPZiPvSKsAHaFP?w=800&h=600&c=7&r=0&o=7&pid=1.7&rm=3"
     }
   ]
 }
