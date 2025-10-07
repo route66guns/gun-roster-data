@@ -1,6 +1,22 @@
 {
-  "updated": "2025-10-06T01:17:48.708955",
+  "updated": "2025-10-07T01:16:27.343263",
   "handguns": [
+    {
+      "manufacturer": "Heckler & Koch",
+      "model": "VP9K*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4.09\"",
+      "date_added": "09/23/2025",
+      "description": "The Heckler & Koch VP9K* is a recently certified handgun featuring a 4.09\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4.09\"",
+        "Manufacturer: Heckler & Koch"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.fDd6vPx4nzFIo0pALzNZZQHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+    },
     {
       "manufacturer": "Girsan (Imported by European American Armory Corporation)",
       "model": "MC P35 CAL (BLK CHROME/ROSE GOLD)*",
@@ -32,54 +48,6 @@
         "Manufacturer: Sig Sauer"
       ],
       "image_url": "https://th.bing.com/th/id/OIP.Jy-QNB966e2AxmNCwE9Q7gAAAA?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Heckler & Koch",
-      "model": "VP9K*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4.09\"",
-      "date_added": "09/23/2025",
-      "description": "The Heckler & Koch VP9K* is a recently certified handgun featuring a 4.09\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4.09\"",
-        "Manufacturer: Heckler & Koch"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.QwYp6pn450B5XmQm0V9krQHaFQ?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Springfield Armory",
-      "model": "Echelon 4.5F U-Notch Blk Comp CA*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4.5\"",
-      "date_added": "09/09/2025",
-      "description": "The Springfield Armory Echelon 4.5F U-Notch Blk Comp CA* is a recently certified handgun featuring a 4.5\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4.5\"",
-        "Manufacturer: Springfield Armory"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.OQK2I8s3ixnW9KfKmP1LFwHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Springfield Armory",
-      "model": "Echelon 4.0C U-Notch Blk Comp CA*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "09/09/2025",
-      "description": "The Springfield Armory Echelon 4.0C U-Notch Blk Comp CA* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: Springfield Armory"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.OQK2I8s3ixnW9KfKmP1LFwHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Springfield Armory",
@@ -162,6 +130,38 @@
       "image_url": "https://th.bing.com/th/id/OIP.PGG_syvbq9wnMKVHCBZSJgHaFq?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
+      "manufacturer": "Springfield Armory",
+      "model": "Echelon 4.5F U-Notch Blk Comp CA*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4.5\"",
+      "date_added": "09/09/2025",
+      "description": "The Springfield Armory Echelon 4.5F U-Notch Blk Comp CA* is a recently certified handgun featuring a 4.5\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4.5\"",
+        "Manufacturer: Springfield Armory"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.OQK2I8s3ixnW9KfKmP1LFwHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Springfield Armory",
+      "model": "Echelon 4.0C U-Notch Blk Comp CA*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4\"",
+      "date_added": "09/09/2025",
+      "description": "The Springfield Armory Echelon 4.0C U-Notch Blk Comp CA* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4\"",
+        "Manufacturer: Springfield Armory"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.OQK2I8s3ixnW9KfKmP1LFwHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+    },
+    {
       "manufacturer": "Heritage Manufacturing",
       "model": "Roscoe",
       "caliber": ".38 Spl",
@@ -175,39 +175,7 @@
         "Barrel Length: 3\"",
         "Manufacturer: Heritage Manufacturing"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.ciUyUkSud3sI_MIXb3a02QHaEK?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "Model 19-10 No Lock- 14046",
-      "caliber": ".357 Magnum",
-      "type": "Revolver",
-      "barrel_length": "4.25\"",
-      "date_added": "08/19/2025",
-      "description": "The Smith & Wesson Model 19-10 No Lock- 14046 is a recently certified handgun featuring a 4.25\" barrel and chambered in .357 Magnum.",
-      "features": [
-        "Caliber: .357 Magnum",
-        "Type: Revolver",
-        "Barrel Length: 4.25\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.a9SDcgB7Jk8lp46elcGyqQHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "Model 10 Classic 4\"- 14074",
-      "caliber": ".38 SPL. S&W +P",
-      "type": "Revolver",
-      "barrel_length": "4\"",
-      "date_added": "08/19/2025",
-      "description": "The Smith & Wesson Model 10 Classic 4\"- 14074 is a recently certified handgun featuring a 4\" barrel and chambered in .38 SPL. S&W +P.",
-      "features": [
-        "Caliber: .38 SPL. S&W +P",
-        "Type: Revolver",
-        "Barrel Length: 4\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.a9SDcgB7Jk8lp46elcGyqQHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.Rq_2piroFhhbOFuqIDx0LAHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -223,7 +191,39 @@
         "Barrel Length: 1.88\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.a9SDcgB7Jk8lp46elcGyqQHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.otZy07DTpaVMpQb0doZemwHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "Model 19-10 No Lock- 14046",
+      "caliber": ".357 Magnum",
+      "type": "Revolver",
+      "barrel_length": "4.25\"",
+      "date_added": "08/19/2025",
+      "description": "The Smith & Wesson Model 19-10 No Lock- 14046 is a recently certified handgun featuring a 4.25\" barrel and chambered in .357 Magnum.",
+      "features": [
+        "Caliber: .357 Magnum",
+        "Type: Revolver",
+        "Barrel Length: 4.25\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.otZy07DTpaVMpQb0doZemwHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "Model 10 Classic 4\"- 14074",
+      "caliber": ".38 SPL. S&W +P",
+      "type": "Revolver",
+      "barrel_length": "4\"",
+      "date_added": "08/19/2025",
+      "description": "The Smith & Wesson Model 10 Classic 4\"- 14074 is a recently certified handgun featuring a 4\" barrel and chambered in .38 SPL. S&W +P.",
+      "features": [
+        "Caliber: .38 SPL. S&W +P",
+        "Type: Revolver",
+        "Barrel Length: 4\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.otZy07DTpaVMpQb0doZemwHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Sturm, Ruger & Co.",
