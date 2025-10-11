@@ -1,6 +1,22 @@
 {
-  "updated": "2025-10-10T01:17:25.172074",
+  "updated": "2025-10-11T01:14:39.964542",
   "handguns": [
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "M&P9 Metal OR-14278*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4.25\"",
+      "date_added": "10/08/2025",
+      "description": "The Smith & Wesson M&P9 Metal OR-14278* is a recently certified handgun featuring a 4.25\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4.25\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.vllbPCSKiMAFwFYM23ddpwHaE7?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+    },
     {
       "manufacturer": "Smith & Wesson",
       "model": "M&P9 Metal OR-14279*",
@@ -15,7 +31,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.557WQmsrlN7QwYlKD-M1TgHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.vllbPCSKiMAFwFYM23ddpwHaE7?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Magnum Research",
@@ -47,7 +63,7 @@
         "Barrel Length: 4.25\"",
         "Manufacturer: Girsan (Imported by European American Armory Corporation)"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.166gjjAPJbDjuFMDB4WBIgHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.l2X3jmOarj74eStL2ATbEAHaFL?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -63,7 +79,7 @@
         "Barrel Length: 4.0\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.557WQmsrlN7QwYlKD-M1TgHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.vllbPCSKiMAFwFYM23ddpwHaE7?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -79,23 +95,23 @@
         "Barrel Length: 4.25\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.557WQmsrlN7QwYlKD-M1TgHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.vllbPCSKiMAFwFYM23ddpwHaE7?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
-      "manufacturer": "Smith & Wesson",
-      "model": "M&P9 Metal OR-14278*",
+      "manufacturer": "Girsan (Imported by European American Armory Corporation)",
+      "model": "MC P35 CAL (BLK CHROME/ROSE GOLD)*",
       "caliber": "9MM",
       "type": "Pistol",
-      "barrel_length": "4.25\"",
-      "date_added": "10/08/2025",
-      "description": "The Smith & Wesson M&P9 Metal OR-14278* is a recently certified handgun featuring a 4.25\" barrel and chambered in 9MM.",
+      "barrel_length": "4.87\"",
+      "date_added": "09/23/2025",
+      "description": "The Girsan (Imported by European American Armory Corporation) MC P35 CAL (BLK CHROME/ROSE GOLD)* is a recently certified handgun featuring a 4.87\" barrel and chambered in 9MM.",
       "features": [
         "Caliber: 9MM",
         "Type: Pistol",
-        "Barrel Length: 4.25\"",
-        "Manufacturer: Smith & Wesson"
+        "Barrel Length: 4.87\"",
+        "Manufacturer: Girsan (Imported by European American Armory Corporation)"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.557WQmsrlN7QwYlKD-M1TgHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.2TEFrfczQwdXm8xsSJLLMgAAAA?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Sig Sauer",
@@ -111,7 +127,7 @@
         "Barrel Length: 3.1\"",
         "Manufacturer: Sig Sauer"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.fu-230Tke1kJb1gAp8Oe-wHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.Jy-QNB966e2AxmNCwE9Q7gAAAA?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Heckler & Koch",
@@ -130,20 +146,20 @@
       "image_url": "https://th.bing.com/th/id/OIP.HroT7d8W2uif6ceIX33ucgHaFF?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
-      "manufacturer": "Girsan (Imported by European American Armory Corporation)",
-      "model": "MC P35 CAL (BLK CHROME/ROSE GOLD)*",
+      "manufacturer": "Springfield Armory",
+      "model": "Echelon 4.5F U-Notch Blk Comp CA*",
       "caliber": "9MM",
       "type": "Pistol",
-      "barrel_length": "4.87\"",
-      "date_added": "09/23/2025",
-      "description": "The Girsan (Imported by European American Armory Corporation) MC P35 CAL (BLK CHROME/ROSE GOLD)* is a recently certified handgun featuring a 4.87\" barrel and chambered in 9MM.",
+      "barrel_length": "4.5\"",
+      "date_added": "09/09/2025",
+      "description": "The Springfield Armory Echelon 4.5F U-Notch Blk Comp CA* is a recently certified handgun featuring a 4.5\" barrel and chambered in 9MM.",
       "features": [
         "Caliber: 9MM",
         "Type: Pistol",
-        "Barrel Length: 4.87\"",
-        "Manufacturer: Girsan (Imported by European American Armory Corporation)"
+        "Barrel Length: 4.5\"",
+        "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.166gjjAPJbDjuFMDB4WBIgHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.uXZCeMM4R3VnirZjkjB-vQHaFN?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Springfield Armory",
@@ -159,7 +175,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.OQK2I8s3ixnW9KfKmP1LFwHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.uXZCeMM4R3VnirZjkjB-vQHaFN?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Springfield Armory",
@@ -175,7 +191,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.OQK2I8s3ixnW9KfKmP1LFwHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.nbwFoWZvT3AW4bvpqFQBJQHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "FMK Firearms",
@@ -207,7 +223,7 @@
         "Barrel Length: 3.7\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.OQK2I8s3ixnW9KfKmP1LFwHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.l6pw_NXrDMfNYIIu8W-EfAHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "FMK Firearms",
@@ -242,22 +258,6 @@
       "image_url": "https://th.bing.com/th/id/OIP.PGG_syvbq9wnMKVHCBZSJgHaFq?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
-      "manufacturer": "Springfield Armory",
-      "model": "Echelon 4.5F U-Notch Blk Comp CA*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4.5\"",
-      "date_added": "09/09/2025",
-      "description": "The Springfield Armory Echelon 4.5F U-Notch Blk Comp CA* is a recently certified handgun featuring a 4.5\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4.5\"",
-        "Manufacturer: Springfield Armory"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.OQK2I8s3ixnW9KfKmP1LFwHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
-    },
-    {
       "manufacturer": "Heritage Manufacturing",
       "model": "Roscoe",
       "caliber": ".38 Spl",
@@ -271,39 +271,7 @@
         "Barrel Length: 3\"",
         "Manufacturer: Heritage Manufacturing"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.ciUyUkSud3sI_MIXb3a02QHaEK?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "Model 36 Classic- 14076",
-      "caliber": ".38 SPL. S&W +P",
-      "type": "Revolver",
-      "barrel_length": "1.88\"",
-      "date_added": "08/19/2025",
-      "description": "The Smith & Wesson Model 36 Classic- 14076 is a recently certified handgun featuring a 1.88\" barrel and chambered in .38 SPL. S&W +P.",
-      "features": [
-        "Caliber: .38 SPL. S&W +P",
-        "Type: Revolver",
-        "Barrel Length: 1.88\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.557WQmsrlN7QwYlKD-M1TgHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "Model 19-10 No Lock- 14046",
-      "caliber": ".357 Magnum",
-      "type": "Revolver",
-      "barrel_length": "4.25\"",
-      "date_added": "08/19/2025",
-      "description": "The Smith & Wesson Model 19-10 No Lock- 14046 is a recently certified handgun featuring a 4.25\" barrel and chambered in .357 Magnum.",
-      "features": [
-        "Caliber: .357 Magnum",
-        "Type: Revolver",
-        "Barrel Length: 4.25\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.557WQmsrlN7QwYlKD-M1TgHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.iwxnWdGvSMWOuXKSPIh5yAHaEK?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -319,7 +287,39 @@
         "Barrel Length: 4\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.557WQmsrlN7QwYlKD-M1TgHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.vllbPCSKiMAFwFYM23ddpwHaE7?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "Model 36 Classic- 14076",
+      "caliber": ".38 SPL. S&W +P",
+      "type": "Revolver",
+      "barrel_length": "1.88\"",
+      "date_added": "08/19/2025",
+      "description": "The Smith & Wesson Model 36 Classic- 14076 is a recently certified handgun featuring a 1.88\" barrel and chambered in .38 SPL. S&W +P.",
+      "features": [
+        "Caliber: .38 SPL. S&W +P",
+        "Type: Revolver",
+        "Barrel Length: 1.88\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.vllbPCSKiMAFwFYM23ddpwHaE7?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "Model 19-10 No Lock- 14046",
+      "caliber": ".357 Magnum",
+      "type": "Revolver",
+      "barrel_length": "4.25\"",
+      "date_added": "08/19/2025",
+      "description": "The Smith & Wesson Model 19-10 No Lock- 14046 is a recently certified handgun featuring a 4.25\" barrel and chambered in .357 Magnum.",
+      "features": [
+        "Caliber: .357 Magnum",
+        "Type: Revolver",
+        "Barrel Length: 4.25\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.vllbPCSKiMAFwFYM23ddpwHaE7?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Sturm, Ruger & Co.",
