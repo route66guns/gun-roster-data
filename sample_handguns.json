@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-12T01:20:47.308571",
+  "updated": "2025-10-13T01:22:43.988509",
   "handguns": [
     {
       "manufacturer": "Smith & Wesson",
@@ -15,7 +15,7 @@
         "Barrel Length: 4.25\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.vllbPCSKiMAFwFYM23ddpwHaE7?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.47wrBarcigRT6WXJBIU2bgHaKu?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -31,7 +31,7 @@
         "Barrel Length: 4.25\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.vllbPCSKiMAFwFYM23ddpwHaE7?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.47wrBarcigRT6WXJBIU2bgHaKu?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -47,7 +47,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.vllbPCSKiMAFwFYM23ddpwHaE7?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.47wrBarcigRT6WXJBIU2bgHaKu?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Magnum Research",
@@ -63,7 +63,7 @@
         "Barrel Length: 6\"",
         "Manufacturer: Magnum Research"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.1rrxn4Thrm9xCAkPEq6z2gHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.wI7zAIU1V4Fb8GQxbSMOHAHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Girsan (Imported by European American Armory Corporation)",
@@ -79,7 +79,7 @@
         "Barrel Length: 4.25\"",
         "Manufacturer: Girsan (Imported by European American Armory Corporation)"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.roCI_s3krkCS-5c3ZvP4JQHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.166gjjAPJbDjuFMDB4WBIgHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -95,7 +95,7 @@
         "Barrel Length: 4.0\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.vllbPCSKiMAFwFYM23ddpwHaE7?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.47wrBarcigRT6WXJBIU2bgHaKu?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Girsan (Imported by European American Armory Corporation)",
@@ -111,7 +111,7 @@
         "Barrel Length: 4.87\"",
         "Manufacturer: Girsan (Imported by European American Armory Corporation)"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.2TEFrfczQwdXm8xsSJLLMgAAAA?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.166gjjAPJbDjuFMDB4WBIgHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Sig Sauer",
@@ -127,7 +127,7 @@
         "Barrel Length: 3.1\"",
         "Manufacturer: Sig Sauer"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.3ALHYSh2PqM863hgqFKRegHaFk?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.Jy-QNB966e2AxmNCwE9Q7gAAAA?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Heckler & Koch",
@@ -146,22 +146,6 @@
       "image_url": "https://th.bing.com/th/id/OIP.QwYp6pn450B5XmQm0V9krQHaFQ?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
-      "manufacturer": "FMK Firearms",
-      "model": "9C1 G3 (FDE FRAME)(W/BURNT BRONZE SLIDE)*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "09/09/2025",
-      "description": "The FMK Firearms 9C1 G3 (FDE FRAME)(W/BURNT BRONZE SLIDE)* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: FMK Firearms"
-      ],
-      "image_url": "https://th.bing.com/th/id/OIP.k7imfXV8WSzXQruHFzTDrQHaFq?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
-    },
-    {
       "manufacturer": "Springfield Armory",
       "model": "Echelon 4.5F U-Notch Blk Comp CA*",
       "caliber": "9MM",
@@ -175,7 +159,7 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.L6EbKOVtwAssZt6ZxLb-8wHaDt?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Springfield Armory",
@@ -191,7 +175,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.L6EbKOVtwAssZt6ZxLb-8wHaDt?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Springfield Armory",
@@ -207,7 +191,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.L6EbKOVtwAssZt6ZxLb-8wHaDt?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "FMK Firearms",
@@ -223,7 +207,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: FMK Firearms"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.cMKQ_pKGJBeDwLVMMqaVBAHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.RPur32NZtbAm0ih7btOltQHaDN?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Springfield Armory",
@@ -239,7 +223,7 @@
         "Barrel Length: 3.7\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.vO4CPe_KaMtvAb8f39LNrwHaFk?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "FMK Firearms",
@@ -255,7 +239,23 @@
         "Barrel Length: 4\"",
         "Manufacturer: FMK Firearms"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.RPur32NZtbAm0ih7btOltQHaDN?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.nvK9eb6FNsywWHsFjwtBHwHaEG?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "FMK Firearms",
+      "model": "9C1 G3 (FDE FRAME)(W/BURNT BRONZE SLIDE)*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4\"",
+      "date_added": "09/09/2025",
+      "description": "The FMK Firearms 9C1 G3 (FDE FRAME)(W/BURNT BRONZE SLIDE)* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4\"",
+        "Manufacturer: FMK Firearms"
+      ],
+      "image_url": "https://th.bing.com/th/id/OIP.PGG_syvbq9wnMKVHCBZSJgHaFq?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Heritage Manufacturing",
@@ -271,7 +271,7 @@
         "Barrel Length: 3\"",
         "Manufacturer: Heritage Manufacturing"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.Rq_2piroFhhbOFuqIDx0LAHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.ciUyUkSud3sI_MIXb3a02QHaEK?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -287,7 +287,7 @@
         "Barrel Length: 4.25\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.vllbPCSKiMAFwFYM23ddpwHaE7?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.47wrBarcigRT6WXJBIU2bgHaKu?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -303,7 +303,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.vllbPCSKiMAFwFYM23ddpwHaE7?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.47wrBarcigRT6WXJBIU2bgHaKu?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -319,7 +319,7 @@
         "Barrel Length: 1.88\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.vllbPCSKiMAFwFYM23ddpwHaE7?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.47wrBarcigRT6WXJBIU2bgHaKu?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Sturm, Ruger & Co.",
@@ -335,7 +335,7 @@
         "Barrel Length: 2.8\"",
         "Manufacturer: Sturm, Ruger & Co."
       ],
-      "image_url": "https://th.bing.com/th/id/OIP.oBaFN6FNSp_sVWM_UXZUngHaGI?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://th.bing.com/th/id/OIP.34jhWggcjWW-dyzzg5lnqgHaGE?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     }
   ]
 }
