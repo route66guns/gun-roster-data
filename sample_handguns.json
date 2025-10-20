@@ -1,38 +1,6 @@
 {
-  "updated": "2025-10-19T01:27:01.033129",
+  "updated": "2025-10-20T01:24:00.729888",
   "handguns": [
-    {
-      "manufacturer": "Smith & Wesson",
-      "model": "M&P9 Metal OR-14279*",
-      "caliber": "9MM",
-      "type": "Pistol",
-      "barrel_length": "4\"",
-      "date_added": "10/08/2025",
-      "description": "The Smith & Wesson M&P9 Metal OR-14279* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
-      "features": [
-        "Caliber: 9MM",
-        "Type: Pistol",
-        "Barrel Length: 4\"",
-        "Manufacturer: Smith & Wesson"
-      ],
-      "image_url": "https://tse1.mm.bing.net/th/id/OIP.NuQaAjelJOB6ON03aTtgSwHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
-    },
-    {
-      "manufacturer": "Magnum Research",
-      "model": "DE44CA (Black)",
-      "caliber": ".44 Magnum",
-      "type": "Pistol",
-      "barrel_length": "6\"",
-      "date_added": "10/08/2025",
-      "description": "The Magnum Research DE44CA (Black) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
-      "features": [
-        "Caliber: .44 Magnum",
-        "Type: Pistol",
-        "Barrel Length: 6\"",
-        "Manufacturer: Magnum Research"
-      ],
-      "image_url": "https://tse1.mm.bing.net/th/id/OIP.I7v_xIiKxRLS21asvewxCQHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
-    },
     {
       "manufacturer": "Girsan (Imported by European American Armory Corporation)",
       "model": "MC-14T*",
@@ -47,7 +15,7 @@
         "Barrel Length: 4.25\"",
         "Manufacturer: Girsan (Imported by European American Armory Corporation)"
       ],
-      "image_url": "https://tse2.mm.bing.net/th/id/OIP.l2X3jmOarj74eStL2ATbEAHaFL?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://tse3.mm.bing.net/th/id/OIP.166gjjAPJbDjuFMDB4WBIgHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -63,7 +31,7 @@
         "Barrel Length: 4.0\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://tse1.mm.bing.net/th/id/OIP.ZLAxDAiLUxYv0VVwDtGpHwAAAA?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://tse2.mm.bing.net/th/id/OIP.aqWHJ1_qAfnSdegJKtc_OgHaJ5?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -79,7 +47,7 @@
         "Barrel Length: 4.25\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://tse3.mm.bing.net/th/id/OIP.Lm41ugaBBlEMAFDX6gWwpAHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://tse2.mm.bing.net/th/id/OIP.aqWHJ1_qAfnSdegJKtc_OgHaJ5?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -95,7 +63,39 @@
         "Barrel Length: 4.25\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://tse3.mm.bing.net/th/id/OIP.24uQFaJAMT_BzFSDg85sHgHaE7?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://tse2.mm.bing.net/th/id/OIP.aqWHJ1_qAfnSdegJKtc_OgHaJ5?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Smith & Wesson",
+      "model": "M&P9 Metal OR-14279*",
+      "caliber": "9MM",
+      "type": "Pistol",
+      "barrel_length": "4\"",
+      "date_added": "10/08/2025",
+      "description": "The Smith & Wesson M&P9 Metal OR-14279* is a recently certified handgun featuring a 4\" barrel and chambered in 9MM.",
+      "features": [
+        "Caliber: 9MM",
+        "Type: Pistol",
+        "Barrel Length: 4\"",
+        "Manufacturer: Smith & Wesson"
+      ],
+      "image_url": "https://tse2.mm.bing.net/th/id/OIP.aqWHJ1_qAfnSdegJKtc_OgHaJ5?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+    },
+    {
+      "manufacturer": "Magnum Research",
+      "model": "DE44CA (Black)",
+      "caliber": ".44 Magnum",
+      "type": "Pistol",
+      "barrel_length": "6\"",
+      "date_added": "10/08/2025",
+      "description": "The Magnum Research DE44CA (Black) is a recently certified handgun featuring a 6\" barrel and chambered in .44 Magnum.",
+      "features": [
+        "Caliber: .44 Magnum",
+        "Type: Pistol",
+        "Barrel Length: 6\"",
+        "Manufacturer: Magnum Research"
+      ],
+      "image_url": "https://tse4.mm.bing.net/th/id/OIP.wI7zAIU1V4Fb8GQxbSMOHAHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Heckler & Koch",
@@ -111,7 +111,7 @@
         "Barrel Length: 4.09\"",
         "Manufacturer: Heckler & Koch"
       ],
-      "image_url": "https://tse2.mm.bing.net/th/id/OIP.QwYp6pn450B5XmQm0V9krQHaFQ?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://tse3.mm.bing.net/th/id/OIP.fDd6vPx4nzFIo0pALzNZZQHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Girsan (Imported by European American Armory Corporation)",
@@ -127,7 +127,7 @@
         "Barrel Length: 4.87\"",
         "Manufacturer: Girsan (Imported by European American Armory Corporation)"
       ],
-      "image_url": "https://tse2.mm.bing.net/th/id/OIP.2TEFrfczQwdXm8xsSJLLMgAAAA?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://tse3.mm.bing.net/th/id/OIP.166gjjAPJbDjuFMDB4WBIgHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Sig Sauer",
@@ -143,7 +143,7 @@
         "Barrel Length: 3.1\"",
         "Manufacturer: Sig Sauer"
       ],
-      "image_url": "https://tse2.mm.bing.net/th/id/OIP.T86WVJsH2w-fSzrHkyQ2fwHaCr?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://tse3.mm.bing.net/th/id/OIP.fu-230Tke1kJb1gAp8Oe-wHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Springfield Armory",
@@ -159,7 +159,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://tse4.mm.bing.net/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://tse2.mm.bing.net/th/id/OIP.nbwFoWZvT3AW4bvpqFQBJQHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "FMK Firearms",
@@ -175,7 +175,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: FMK Firearms"
       ],
-      "image_url": "https://tse3.mm.bing.net/th/id/OIP.XKnj7AK4StopvpasZI8sRQHaEK?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://tse2.mm.bing.net/th/id/OIP.RPur32NZtbAm0ih7btOltQHaDN?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Springfield Armory",
@@ -191,7 +191,7 @@
         "Barrel Length: 3.7\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://tse4.mm.bing.net/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://tse4.mm.bing.net/th/id/OIP.l6pw_NXrDMfNYIIu8W-EfAHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "FMK Firearms",
@@ -207,7 +207,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: FMK Firearms"
       ],
-      "image_url": "https://tse3.mm.bing.net/th/id/OIP.XKnj7AK4StopvpasZI8sRQHaEK?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://tse4.mm.bing.net/th/id/OIP.nvK9eb6FNsywWHsFjwtBHwHaEG?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "FMK Firearms",
@@ -223,7 +223,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: FMK Firearms"
       ],
-      "image_url": "https://tse3.mm.bing.net/th/id/OIP.XKnj7AK4StopvpasZI8sRQHaEK?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://tse2.mm.bing.net/th/id/OIP.PGG_syvbq9wnMKVHCBZSJgHaFq?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Springfield Armory",
@@ -239,7 +239,7 @@
         "Barrel Length: 4.5\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://tse4.mm.bing.net/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://tse3.mm.bing.net/th/id/OIP.OQK2I8s3ixnW9KfKmP1LFwHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Springfield Armory",
@@ -255,7 +255,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Springfield Armory"
       ],
-      "image_url": "https://tse4.mm.bing.net/th/id/OIP.GBc7c-0cI_mC8vNoXwVk9AHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://tse3.mm.bing.net/th/id/OIP.OQK2I8s3ixnW9KfKmP1LFwHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Heritage Manufacturing",
@@ -271,7 +271,7 @@
         "Barrel Length: 3\"",
         "Manufacturer: Heritage Manufacturing"
       ],
-      "image_url": "https://tse2.mm.bing.net/th/id/OIP.E0bE9TEcXZFaEhfuoNxG0gHaE8?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://tse3.mm.bing.net/th/id/OIP.ciUyUkSud3sI_MIXb3a02QHaEK?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -287,7 +287,7 @@
         "Barrel Length: 1.88\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://tse2.mm.bing.net/th/id/OIP.ranWq8htUuZC87of3Umq4wHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://tse2.mm.bing.net/th/id/OIP.aqWHJ1_qAfnSdegJKtc_OgHaJ5?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -303,7 +303,7 @@
         "Barrel Length: 4.25\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://tse4.mm.bing.net/th/id/OIP.wTr_wIF98o8OaIXXwIZ5hQHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://tse2.mm.bing.net/th/id/OIP.aqWHJ1_qAfnSdegJKtc_OgHaJ5?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Smith & Wesson",
@@ -319,7 +319,7 @@
         "Barrel Length: 4\"",
         "Manufacturer: Smith & Wesson"
       ],
-      "image_url": "https://tse3.mm.bing.net/th/id/OIP.U9vIx_TMb_zB0bw-ivnc9QHaHa?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
+      "image_url": "https://tse2.mm.bing.net/th/id/OIP.aqWHJ1_qAfnSdegJKtc_OgHaJ5?w=800&h=600&c=7&r=0&o=7&cb=12&pid=1.7&rm=3"
     },
     {
       "manufacturer": "Sturm, Ruger & Co.",
