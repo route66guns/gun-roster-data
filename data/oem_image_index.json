@@ -1,0 +1,58 @@
+{
+  "sig sauer::p320-flux tacops": {
+    "brand": "sig sauer",
+    "name": "P320-FLUX TACOPS",
+    "image": "https://www.sigsauer.com/media/catalog/product/cache/98cff4b26e9262b232060edf742d323e/p/3/p320flux-9-tacops-tb-left.jpg",
+    "page": "https://www.sigsauer.com/products/firearms/pistols/",
+    "domain": "www.sigsauer.com"
+  },
+  "beretta::country": {
+    "brand": "beretta",
+    "name": "Country",
+    "image": "https://dam.beretta.com/content/dam/beretta/logos/Full__Blue.svg",
+    "page": "https://www.beretta.com/",
+    "domain": "www.beretta.com"
+  },
+  "beretta::beretta - firearms, clothing & accessories for hunting and shooting": {
+    "brand": "beretta",
+    "name": "Beretta - Firearms, Clothing & Accessories for Hunting and Shooting",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--2527f6de-2754-4084-be10-bd0698fbb20f/80xcheetahfdebanner.jpg?preferwebp=true&quality=85",
+    "page": "https://www.beretta.com/en-sk",
+    "domain": "www.beretta.com"
+  },
+  "beretta::beretta - gewehre und zubehör für jagd und schießsport": {
+    "brand": "beretta",
+    "name": "Beretta - Gewehre und Zubehör für Jagd und Schießsport",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--2527f6de-2754-4084-be10-bd0698fbb20f/80xcheetahfdebanner.jpg?preferwebp=true&quality=85",
+    "page": "https://www.beretta.com/de-ch",
+    "domain": "www.beretta.com"
+  },
+  "beretta::beretta - rifles y accesorios para caza y tiro": {
+    "brand": "beretta",
+    "name": "Beretta - Rifles y Accesorios para Caza y Tiro",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--2527f6de-2754-4084-be10-bd0698fbb20f/80xcheetahfdebanner.jpg?quality=85&preferwebp=true",
+    "page": "https://www.beretta.com/es-es",
+    "domain": "www.beretta.com"
+  },
+  "beretta::beretta - fusils et accessoires pour la chasse & le tir": {
+    "brand": "beretta",
+    "name": "Beretta - Fusils et Accessoires pour la Chasse & le Tir",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--2527f6de-2754-4084-be10-bd0698fbb20f/80xcheetahfdebanner.jpg?preferwebp=true&quality=85",
+    "page": "https://www.beretta.com/fr-ch",
+    "domain": "www.beretta.com"
+  },
+  "beretta::fabbrica d'armi beretta - fucili e accessori per caccia e tiro a volo": {
+    "brand": "beretta",
+    "name": "Fabbrica d'armi Beretta - Fucili e accessori per Caccia e Tiro a volo",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--2527f6de-2754-4084-be10-bd0698fbb20f/80xcheetahfdebanner.jpg?quality=85&preferwebp=true",
+    "page": "https://www.beretta.com/it-ch",
+    "domain": "www.beretta.com"
+  },
+  "beretta::beretta usa firearms - find a dealer or shop online": {
+    "brand": "beretta",
+    "name": "Beretta USA Firearms - Find a Dealer or Shop Online",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--7f592386-a146-4381-89ba-39754ac7ce23/1920x1027-upland-collection.jpg?quality=85&preferwebp=true",
+    "page": "https://www.beretta.com/en-us",
+    "domain": "www.beretta.com"
+  }
+}
