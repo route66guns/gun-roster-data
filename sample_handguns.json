@@ -121,17 +121,6 @@
     "roster_id": null
   },
   {
-    "brand": "FMK Firearms",
-    "model": "9C1 G3 (FDE FRAME)(W/BURNT BRONZE SLIDE)*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/09/2025",
-    "roster_id": null
-  },
-  {
     "brand": "Springfield Armory",
     "model": "Echelon 4.5F U-Notch Blk Comp CA*",
     "caliber": "9MM",
@@ -189,6 +178,17 @@
   {
     "brand": "FMK Firearms",
     "model": "9C1 G3 (TITANIUM FRAME)*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/09/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "FMK Firearms",
+    "model": "9C1 G3 (FDE FRAME)(W/BURNT BRONZE SLIDE)*",
     "caliber": "9MM",
     "type": "",
     "barrel": "4\"",
