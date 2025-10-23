@@ -1,0 +1,43 @@
+name: Enrich images and publish data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 9 * * *"
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Build OEM image index
+        run: |
+          mkdir -p data
+          python oem_indexer.py --max-per-site 200
+      - name: Enrich images
+        run: |
+          python integrate_images.py --in sample_handguns.json --out handguns_with_images.json
+      - name: Publish site data
+        run: |
+          python - << 'PY'
+import json, pathlib
+src = pathlib.Path("handguns_with_images.json")
+data = json.loads(src.read_text())
+path = pathlib.Path("docs"); path.mkdir(exist_ok=True)
+(path / "handguns.json").write_text(json.dumps(data, indent=2, ensure_ascii=False))
+print("Wrote docs/handguns.json")
+PY
+      - name: Commit artifacts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/oem_image_index.json images/ handguns_with_images.json docs/handguns.json
+          git commit -m "Enrich images and publish handguns.json" || echo "Nothing to commit"
+          git push
