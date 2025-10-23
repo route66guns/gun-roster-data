@@ -1,0 +1,11 @@
+{
+  "max_per_site_default": 250,
+  "delay_seconds": 0.2,
+  "global_keywords": [
+    "pistol",
+    "handgun",
+    "revolver",
+    "semi-auto",
+    "semi auto"
+  ]
+}
