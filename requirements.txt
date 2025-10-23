@@ -1,8 +1,14 @@
+# Core HTTP + parsing stack
 requests>=2.32.0
 beautifulsoup4>=4.12.3
-extruct[html5]>=0.16.0
-w3lib>=2.2.0
 lxml>=5.2.2
+w3lib>=2.2.0
+extruct[html5]>=0.16.0
+
+# Imaging + CV filters
 Pillow>=10.3.0
 opencv-python-headless>=4.10.0.84
 numpy>=2.0.0
+
+# Browser automation
+playwright>=1.44.0
