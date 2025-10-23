@@ -1,0 +1,63 @@
+{
+  "manufacturer_domains": {
+    "glock": [
+      "us.glock.com",
+      "glock.com"
+    ],
+    "smith & wesson": [
+      "www.smith-wesson.com"
+    ],
+    "sig sauer": [
+      "www.sigsauer.com"
+    ],
+    "springfield armory": [
+      "www.springfield-armory.com"
+    ],
+    "ruger": [
+      "www.ruger.com",
+      "ruger.com"
+    ],
+    "cz": [
+      "cz-usa.com",
+      "www.cz-usa.com"
+    ],
+    "beretta": [
+      "www.beretta.com"
+    ],
+    "kimber": [
+      "www.kimberamerica.com"
+    ],
+    "walther": [
+      "www.waltherarms.com"
+    ],
+    "fn": [
+      "www.fnamerica.com"
+    ],
+    "heckler & koch": [
+      "www.hk-usa.com"
+    ],
+    "taurus": [
+      "www.taurususa.com"
+    ],
+    "canik": [
+      "www.canikusa.com"
+    ],
+    "shadow systems": [
+      "shadowsystemscorp.com"
+    ]
+  },
+  "retailer_domains": [
+    "www.budsgunshop.com",
+    "www.galleryofguns.com",
+    "www.sportsmans.com",
+    "www.brownells.com",
+    "palmettostatearmory.com",
+    "www.cabelas.com",
+    "www.academy.com",
+    "www.turners.com",
+    "www.basspro.com",
+    "gun.deals",
+    "www.eurooptic.com",
+    "www.scheels.com"
+  ]
+}
