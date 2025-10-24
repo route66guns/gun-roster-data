@@ -1,5 +1,16 @@
 [
   {
+    "brand": "Staccato 2011 LLC",
+    "model": "HD C3.6*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "3.6\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "10/23/2025",
+    "roster_id": null
+  },
+  {
     "brand": "Springfield Armory",
     "model": "Hellcat 9mm 3\" Pistol UN-WD BLK CA OSP*",
     "caliber": "9MM",
@@ -19,17 +30,6 @@
     "finish": "",
     "notes": "",
     "date_added": "10/21/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "M&P9 2.0 OR-14276*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.25\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "10/08/2025",
     "roster_id": null
   },
   {
@@ -88,14 +88,14 @@
     "roster_id": null
   },
   {
-    "brand": "Girsan (Imported by European American Armory Corporation)",
-    "model": "MC P35 CAL (BLK CHROME/ROSE GOLD)*",
+    "brand": "Smith & Wesson",
+    "model": "M&P9 2.0 OR-14276*",
     "caliber": "9MM",
     "type": "",
-    "barrel": "4.87\"",
+    "barrel": "4.25\"",
     "finish": "",
     "notes": "",
-    "date_added": "09/23/2025",
+    "date_added": "10/08/2025",
     "roster_id": null
   },
   {
@@ -115,6 +115,17 @@
     "caliber": "9MM",
     "type": "",
     "barrel": "4.09\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/23/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Girsan (Imported by European American Armory Corporation)",
+    "model": "MC P35 CAL (BLK CHROME/ROSE GOLD)*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4.87\"",
     "finish": "",
     "notes": "",
     "date_added": "09/23/2025",
@@ -210,17 +221,6 @@
   },
   {
     "brand": "Smith & Wesson",
-    "model": "Model 19-10 No Lock- 14046",
-    "caliber": ".357 Magnum",
-    "type": "",
-    "barrel": "4.25\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "08/19/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
     "model": "Model 10 Classic 4\"- 14074",
     "caliber": ".38 SPL. S&W +P",
     "type": "",
@@ -236,6 +236,17 @@
     "caliber": ".38 SPL. S&W +P",
     "type": "",
     "barrel": "1.88\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "08/19/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "Model 19-10 No Lock- 14046",
+    "caliber": ".357 Magnum",
+    "type": "",
+    "barrel": "4.25\"",
     "finish": "",
     "notes": "",
     "date_added": "08/19/2025",
