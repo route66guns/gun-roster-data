@@ -40,6 +40,19 @@
   },
   {
     "brand": "Smith & Wesson",
+    "model": "M&P9 2.0 OR-14276*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4.25\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "10/08/2025",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Smith & Wesson",
     "model": "M&P9 Metal OR-14278*",
     "caliber": "9MM",
     "type": "",
@@ -104,32 +117,6 @@
     "image_source": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "M&P9 2.0 OR-14276*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.25\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "10/08/2025",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Sig Sauer",
-    "model": "365-9-BXR3P-MS-SL-CA*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "3.1\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/23/2025",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
     "brand": "Heckler & Koch",
     "model": "VP9K*",
     "caliber": "9MM",
@@ -151,6 +138,32 @@
     "finish": "",
     "notes": "",
     "date_added": "09/23/2025",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Sig Sauer",
+    "model": "365-9-BXR3P-MS-SL-CA*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "3.1\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/23/2025",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "FMK Firearms",
+    "model": "9C1 G3 (FDE FRAME)(W/BURNT BRONZE SLIDE)*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/09/2025",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -234,19 +247,6 @@
     "image_source": null
   },
   {
-    "brand": "FMK Firearms",
-    "model": "9C1 G3 (FDE FRAME)(W/BURNT BRONZE SLIDE)*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/09/2025",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
     "brand": "Heritage Manufacturing",
     "model": "Roscoe",
     "caliber": ".38 Spl",
@@ -255,6 +255,19 @@
     "finish": "",
     "notes": "",
     "date_added": "09/02/2025",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "Model 19-10 No Lock- 14046",
+    "caliber": ".357 Magnum",
+    "type": "",
+    "barrel": "4.25\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "08/19/2025",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -278,19 +291,6 @@
     "caliber": ".38 SPL. S&W +P",
     "type": "",
     "barrel": "1.88\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "08/19/2025",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "Model 19-10 No Lock- 14046",
-    "caliber": ".357 Magnum",
-    "type": "",
-    "barrel": "4.25\"",
     "finish": "",
     "notes": "",
     "date_added": "08/19/2025",
