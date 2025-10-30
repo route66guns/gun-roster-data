@@ -12,17 +12,6 @@
   },
   {
     "brand": "Springfield Armory",
-    "model": "Hellcat 9mm 3\" Pistol UN-WD BLK CA OSP*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "3\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "10/21/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
     "model": "Hellcat Pro 3.7\" UN-WD BLK CA OSP*",
     "caliber": "9MM",
     "type": "",
@@ -33,36 +22,14 @@
     "roster_id": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "M&P9 Metal OR-14278*",
+    "brand": "Springfield Armory",
+    "model": "Hellcat 9mm 3\" Pistol UN-WD BLK CA OSP*",
     "caliber": "9MM",
     "type": "",
-    "barrel": "4.25\"",
+    "barrel": "3\"",
     "finish": "",
     "notes": "",
-    "date_added": "10/08/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "M&P9 Metal OR-14279*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "10/08/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Magnum Research",
-    "model": "DE44CA (Black)",
-    "caliber": ".44 Magnum",
-    "type": "",
-    "barrel": "6\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "10/08/2025",
+    "date_added": "10/21/2025",
     "roster_id": null
   },
   {
@@ -99,14 +66,36 @@
     "roster_id": null
   },
   {
-    "brand": "Sig Sauer",
-    "model": "365-9-BXR3P-MS-SL-CA*",
+    "brand": "Smith & Wesson",
+    "model": "M&P9 Metal OR-14278*",
     "caliber": "9MM",
     "type": "",
-    "barrel": "3.1\"",
+    "barrel": "4.25\"",
     "finish": "",
     "notes": "",
-    "date_added": "09/23/2025",
+    "date_added": "10/08/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "M&P9 Metal OR-14279*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "10/08/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Magnum Research",
+    "model": "DE44CA (Black)",
+    "caliber": ".44 Magnum",
+    "type": "",
+    "barrel": "6\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "10/08/2025",
     "roster_id": null
   },
   {
@@ -129,6 +118,50 @@
     "finish": "",
     "notes": "",
     "date_added": "09/23/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Sig Sauer",
+    "model": "365-9-BXR3P-MS-SL-CA*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "3.1\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/23/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Springfield Armory",
+    "model": "HCP9379BOSPCA-COMP*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "3.7\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/09/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "FMK Firearms",
+    "model": "9C1 G3 (TITANIUM FRAME)*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/09/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "FMK Firearms",
+    "model": "9C1 G3 (FDE FRAME)(W/BURNT BRONZE SLIDE)*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/09/2025",
     "roster_id": null
   },
   {
@@ -176,39 +209,6 @@
     "roster_id": null
   },
   {
-    "brand": "Springfield Armory",
-    "model": "HCP9379BOSPCA-COMP*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "3.7\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/09/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "FMK Firearms",
-    "model": "9C1 G3 (TITANIUM FRAME)*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/09/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "FMK Firearms",
-    "model": "9C1 G3 (FDE FRAME)(W/BURNT BRONZE SLIDE)*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/09/2025",
-    "roster_id": null
-  },
-  {
     "brand": "Heritage Manufacturing",
     "model": "Roscoe",
     "caliber": ".38 Spl",
@@ -217,17 +217,6 @@
     "finish": "",
     "notes": "",
     "date_added": "09/02/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "Model 10 Classic 4\"- 14074",
-    "caliber": ".38 SPL. S&W +P",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "08/19/2025",
     "roster_id": null
   },
   {
@@ -247,6 +236,17 @@
     "caliber": ".357 Magnum",
     "type": "",
     "barrel": "4.25\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "08/19/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "Model 10 Classic 4\"- 14074",
+    "caliber": ".38 SPL. S&W +P",
+    "type": "",
+    "barrel": "4\"",
     "finish": "",
     "notes": "",
     "date_added": "08/19/2025",
