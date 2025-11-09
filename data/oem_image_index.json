@@ -51,7 +51,7 @@
   "beretta::beretta usa firearms - find a dealer or shop online": {
     "brand": "beretta",
     "name": "Beretta USA Firearms - Find a Dealer or Shop Online",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--1abf3968-4ce4-4f9c-a8f2-a8ed1de78bf1/1920x1027-outerwear-25off.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--1abf3968-4ce4-4f9c-a8f2-a8ed1de78bf1/1920x1027-outerwear-25off.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/en-us",
     "domain": "www.beretta.com"
   },
