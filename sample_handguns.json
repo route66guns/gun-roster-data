@@ -33,28 +33,6 @@
     "roster_id": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "M&P9 Metal OR-14278*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.25\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "10/08/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "M&P9 Metal OR-14279*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "10/08/2025",
-    "roster_id": null
-  },
-  {
     "brand": "Magnum Research",
     "model": "DE44CA (Black)",
     "caliber": ".44 Magnum",
@@ -99,6 +77,39 @@
     "roster_id": null
   },
   {
+    "brand": "Smith & Wesson",
+    "model": "M&P9 Metal OR-14278*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4.25\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "10/08/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "M&P9 Metal OR-14279*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "10/08/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Heckler & Koch",
+    "model": "VP9K*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4.09\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/23/2025",
+    "roster_id": null
+  },
+  {
     "brand": "Girsan (Imported by European American Armory Corporation)",
     "model": "MC P35 CAL (BLK CHROME/ROSE GOLD)*",
     "caliber": "9MM",
@@ -118,39 +129,6 @@
     "finish": "",
     "notes": "",
     "date_added": "09/23/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Heckler & Koch",
-    "model": "VP9K*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.09\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/23/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
-    "model": "Echelon 4.5F U-Notch Blk Comp CA*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.5\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/09/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
-    "model": "Echelon 4.0C U-Notch Blk Comp CA*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/09/2025",
     "roster_id": null
   },
   {
@@ -209,6 +187,28 @@
     "roster_id": null
   },
   {
+    "brand": "Springfield Armory",
+    "model": "Echelon 4.5F U-Notch Blk Comp CA*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4.5\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/09/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Springfield Armory",
+    "model": "Echelon 4.0C U-Notch Blk Comp CA*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/09/2025",
+    "roster_id": null
+  },
+  {
     "brand": "Heritage Manufacturing",
     "model": "Roscoe",
     "caliber": ".38 Spl",
@@ -217,17 +217,6 @@
     "finish": "",
     "notes": "",
     "date_added": "09/02/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "Model 10 Classic 4\"- 14074",
-    "caliber": ".38 SPL. S&W +P",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "08/19/2025",
     "roster_id": null
   },
   {
@@ -253,14 +242,14 @@
     "roster_id": null
   },
   {
-    "brand": "Sturm, Ruger & Co.",
-    "model": "LCP MAX 13754*",
-    "caliber": ".380 Auto",
+    "brand": "Smith & Wesson",
+    "model": "Model 10 Classic 4\"- 14074",
+    "caliber": ".38 SPL. S&W +P",
     "type": "",
-    "barrel": "2.8\"",
+    "barrel": "4\"",
     "finish": "",
     "notes": "",
-    "date_added": "08/12/2025",
+    "date_added": "08/19/2025",
     "roster_id": null
   }
 ]
