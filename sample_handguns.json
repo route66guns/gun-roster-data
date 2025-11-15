@@ -33,28 +33,6 @@
     "roster_id": null
   },
   {
-    "brand": "Girsan (Imported by European American Armory Corporation)",
-    "model": "MC-14T*",
-    "caliber": ".380 ACP",
-    "type": "",
-    "barrel": "4.25\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "10/08/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "M&P9 2.0 OR-14277*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.0\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "10/08/2025",
-    "roster_id": null
-  },
-  {
     "brand": "Smith & Wesson",
     "model": "M&P9 2.0 OR-14276*",
     "caliber": "9MM",
@@ -99,6 +77,28 @@
     "roster_id": null
   },
   {
+    "brand": "Girsan (Imported by European American Armory Corporation)",
+    "model": "MC-14T*",
+    "caliber": ".380 ACP",
+    "type": "",
+    "barrel": "4.25\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "10/08/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "M&P9 2.0 OR-14277*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4.0\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "10/08/2025",
+    "roster_id": null
+  },
+  {
     "brand": "Heckler & Koch",
     "model": "VP9K*",
     "caliber": "9MM",
@@ -129,39 +129,6 @@
     "finish": "",
     "notes": "",
     "date_added": "09/23/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "FMK Firearms",
-    "model": "9C1 G3 (BURNT BRONZE FRAME)*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/09/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
-    "model": "HCP9379BOSPCA-COMP*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "3.7\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/09/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "FMK Firearms",
-    "model": "9C1 G3 (TITANIUM FRAME)*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/09/2025",
     "roster_id": null
   },
   {
@@ -209,6 +176,39 @@
     "roster_id": null
   },
   {
+    "brand": "FMK Firearms",
+    "model": "9C1 G3 (BURNT BRONZE FRAME)*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/09/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Springfield Armory",
+    "model": "HCP9379BOSPCA-COMP*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "3.7\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/09/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "FMK Firearms",
+    "model": "9C1 G3 (TITANIUM FRAME)*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/09/2025",
+    "roster_id": null
+  },
+  {
     "brand": "Heritage Manufacturing",
     "model": "Roscoe",
     "caliber": ".38 Spl",
@@ -217,17 +217,6 @@
     "finish": "",
     "notes": "",
     "date_added": "09/02/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "Model 36 Classic- 14076",
-    "caliber": ".38 SPL. S&W +P",
-    "type": "",
-    "barrel": "1.88\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "08/19/2025",
     "roster_id": null
   },
   {
@@ -247,6 +236,17 @@
     "caliber": ".38 SPL. S&W +P",
     "type": "",
     "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "08/19/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "Model 36 Classic- 14076",
+    "caliber": ".38 SPL. S&W +P",
+    "type": "",
+    "barrel": "1.88\"",
     "finish": "",
     "notes": "",
     "date_added": "08/19/2025",
