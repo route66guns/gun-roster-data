@@ -258,44 +258,5 @@
     "roster_id": null,
     "image_local": null,
     "image_source": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "Model 19-10 No Lock- 14046",
-    "caliber": ".357 Magnum",
-    "type": "",
-    "barrel": "4.25\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "08/19/2025",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "Model 10 Classic 4\"- 14074",
-    "caliber": ".38 SPL. S&W +P",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "08/19/2025",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "Model 36 Classic- 14076",
-    "caliber": ".38 SPL. S&W +P",
-    "type": "",
-    "barrel": "1.88\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "08/19/2025",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
   }
 ]
