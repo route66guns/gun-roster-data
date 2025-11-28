@@ -1,10 +1,10 @@
 [
   {
     "brand": "Rost Martin",
-    "model": "RM1SBLKOSP10CA (COMP)*",
+    "model": "RM1CBLKOSP10CA (COMP)*",
     "caliber": "9MM",
     "type": "",
-    "barrel": "3.6\"",
+    "barrel": "4\"",
     "finish": "",
     "notes": "",
     "date_added": "11/18/2025",
@@ -12,10 +12,10 @@
   },
   {
     "brand": "Rost Martin",
-    "model": "RM1CBLKOSP10CA (COMP)*",
+    "model": "RM1SBLKOSP10CA (COMP)*",
     "caliber": "9MM",
     "type": "",
-    "barrel": "4\"",
+    "barrel": "3.6\"",
     "finish": "",
     "notes": "",
     "date_added": "11/18/2025",
@@ -52,28 +52,6 @@
     "finish": "",
     "notes": "",
     "date_added": "10/21/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "M&P9 Metal OR-14279*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "10/08/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Magnum Research",
-    "model": "DE44CA (Black)",
-    "caliber": ".44 Magnum",
-    "type": "",
-    "barrel": "6\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "10/08/2025",
     "roster_id": null
   },
   {
@@ -121,6 +99,28 @@
     "roster_id": null
   },
   {
+    "brand": "Smith & Wesson",
+    "model": "M&P9 Metal OR-14279*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "10/08/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Magnum Research",
+    "model": "DE44CA (Black)",
+    "caliber": ".44 Magnum",
+    "type": "",
+    "barrel": "6\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "10/08/2025",
+    "roster_id": null
+  },
+  {
     "brand": "Heckler & Koch",
     "model": "VP9K*",
     "caliber": "9MM",
@@ -151,28 +151,6 @@
     "finish": "",
     "notes": "",
     "date_added": "09/23/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
-    "model": "Echelon 4.0C U-Notch Blk Comp CA*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/09/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
-    "model": "Echelon 4.0C U-Notch Blk CA*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/09/2025",
     "roster_id": null
   },
   {
@@ -225,6 +203,28 @@
     "caliber": "9MM",
     "type": "",
     "barrel": "4.5\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/09/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Springfield Armory",
+    "model": "Echelon 4.0C U-Notch Blk Comp CA*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/09/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Springfield Armory",
+    "model": "Echelon 4.0C U-Notch Blk CA*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4\"",
     "finish": "",
     "notes": "",
     "date_added": "09/09/2025",
