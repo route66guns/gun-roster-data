@@ -65,19 +65,6 @@
     "image_source": null
   },
   {
-    "brand": "Girsan (Imported by European American Armory Corporation)",
-    "model": "MC-14T*",
-    "caliber": ".380 ACP",
-    "type": "",
-    "barrel": "4.25\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "10/08/2025",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
     "brand": "Smith & Wesson",
     "model": "M&P9 2.0 OR-14277*",
     "caliber": "9MM",
@@ -143,6 +130,19 @@
     "image_source": null
   },
   {
+    "brand": "Girsan (Imported by European American Armory Corporation)",
+    "model": "MC-14T*",
+    "caliber": ".380 ACP",
+    "type": "",
+    "barrel": "4.25\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "10/08/2025",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
     "brand": "Heckler & Koch",
     "model": "VP9K*",
     "caliber": "9MM",
@@ -177,45 +177,6 @@
     "finish": "",
     "notes": "",
     "date_added": "09/23/2025",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "FMK Firearms",
-    "model": "9C1 G3 (BURNT BRONZE FRAME)*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/09/2025",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Springfield Armory",
-    "model": "HCP9379BOSPCA-COMP*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "3.7\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/09/2025",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "FMK Firearms",
-    "model": "9C1 G3 (TITANIUM FRAME)*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/09/2025",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -262,6 +223,45 @@
   {
     "brand": "Springfield Armory",
     "model": "Echelon 4.0C U-Notch Blk CA*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/09/2025",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "FMK Firearms",
+    "model": "9C1 G3 (BURNT BRONZE FRAME)*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/09/2025",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Springfield Armory",
+    "model": "HCP9379BOSPCA-COMP*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "3.7\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/09/2025",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "FMK Firearms",
+    "model": "9C1 G3 (TITANIUM FRAME)*",
     "caliber": "9MM",
     "type": "",
     "barrel": "4\"",
