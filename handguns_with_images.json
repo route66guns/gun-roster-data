@@ -1,19 +1,6 @@
 [
   {
     "brand": "Springfield Armory",
-    "model": "HC9319BOSPCA-PAC*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "3\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "12/04/2025",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Springfield Armory",
     "model": "HCP9379BOSPCA-PAC*",
     "caliber": "9MM",
     "type": "",
@@ -91,6 +78,19 @@
     "image_source": null
   },
   {
+    "brand": "Springfield Armory",
+    "model": "HC9319BOSPCA-PAC*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "3\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "12/04/2025",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
     "brand": "Rost Martin",
     "model": "RM1CBLKOSP10CA (COMP)*",
     "caliber": "9MM",
@@ -151,19 +151,6 @@
     "finish": "",
     "notes": "",
     "date_added": "10/21/2025",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "M&P9 2.0 OR-14276*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.25\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "10/08/2025",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -234,14 +221,14 @@
     "image_source": null
   },
   {
-    "brand": "Heckler & Koch",
-    "model": "VP9K*",
+    "brand": "Smith & Wesson",
+    "model": "M&P9 2.0 OR-14276*",
     "caliber": "9MM",
     "type": "",
-    "barrel": "4.09\"",
+    "barrel": "4.25\"",
     "finish": "",
     "notes": "",
-    "date_added": "09/23/2025",
+    "date_added": "10/08/2025",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -273,14 +260,14 @@
     "image_source": null
   },
   {
-    "brand": "FMK Firearms",
-    "model": "9C1 G3 (FDE FRAME)(W/BURNT BRONZE SLIDE)*",
+    "brand": "Heckler & Koch",
+    "model": "VP9K*",
     "caliber": "9MM",
     "type": "",
-    "barrel": "4\"",
+    "barrel": "4.09\"",
     "finish": "",
     "notes": "",
-    "date_added": "09/09/2025",
+    "date_added": "09/23/2025",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -353,6 +340,19 @@
   {
     "brand": "FMK Firearms",
     "model": "9C1 G3 (TITANIUM FRAME)*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/09/2025",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "FMK Firearms",
+    "model": "9C1 G3 (FDE FRAME)(W/BURNT BRONZE SLIDE)*",
     "caliber": "9MM",
     "type": "",
     "barrel": "4\"",
