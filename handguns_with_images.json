@@ -1,18 +1,5 @@
 [
   {
-    "brand": "Sturm, Ruger & Co.",
-    "model": "LCP MAX 13763*",
-    "caliber": ".380 ACP",
-    "type": "",
-    "barrel": "2.8\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "12/04/2025",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
     "brand": "Springfield Armory",
     "model": "EC9409BCA-PAC*",
     "caliber": "9mm",
@@ -91,6 +78,19 @@
     "image_source": null
   },
   {
+    "brand": "Sturm, Ruger & Co.",
+    "model": "LCP MAX 13763*",
+    "caliber": ".380 ACP",
+    "type": "",
+    "barrel": "2.8\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "12/04/2025",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
     "brand": "Rost Martin",
     "model": "RM1CBLKOSP10CA (COMP)*",
     "caliber": "9MM",
@@ -156,19 +156,6 @@
     "image_source": null
   },
   {
-    "brand": "Girsan (Imported by European American Armory Corporation)",
-    "model": "MC-14T*",
-    "caliber": ".380 ACP",
-    "type": "",
-    "barrel": "4.25\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "10/08/2025",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
     "brand": "Smith & Wesson",
     "model": "M&P9 2.0 OR-14277*",
     "caliber": "9MM",
@@ -226,6 +213,19 @@
     "caliber": ".44 Magnum",
     "type": "",
     "barrel": "6\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "10/08/2025",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Girsan (Imported by European American Armory Corporation)",
+    "model": "MC-14T*",
+    "caliber": ".380 ACP",
+    "type": "",
+    "barrel": "4.25\"",
     "finish": "",
     "notes": "",
     "date_added": "10/08/2025",
