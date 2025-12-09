@@ -1,28 +1,6 @@
 [
   {
     "brand": "Springfield Armory",
-    "model": "EC9409BCA-PAC*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "12/04/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
-    "model": "HC9319BOSPCA-PAC*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "3\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "12/04/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
     "model": "HCP9379BOSPCA-PAC*",
     "caliber": "9MM",
     "type": "",
@@ -77,6 +55,28 @@
     "roster_id": null
   },
   {
+    "brand": "Springfield Armory",
+    "model": "EC9409BCA-PAC*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "12/04/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Springfield Armory",
+    "model": "HC9319BOSPCA-PAC*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "3\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "12/04/2025",
+    "roster_id": null
+  },
+  {
     "brand": "Rost Martin",
     "model": "RM1CBLKOSP10CA (COMP)*",
     "caliber": "9MM",
@@ -111,17 +111,6 @@
   },
   {
     "brand": "Springfield Armory",
-    "model": "Hellcat Pro 3.7\" UN-WD BLK CA OSP*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "3.7\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "10/21/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
     "model": "Hellcat 9mm 3\" Pistol UN-WD BLK CA OSP*",
     "caliber": "9MM",
     "type": "",
@@ -132,25 +121,14 @@
     "roster_id": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "M&P9 2.0 OR-14277*",
+    "brand": "Springfield Armory",
+    "model": "Hellcat Pro 3.7\" UN-WD BLK CA OSP*",
     "caliber": "9MM",
     "type": "",
-    "barrel": "4.0\"",
+    "barrel": "3.7\"",
     "finish": "",
     "notes": "",
-    "date_added": "10/08/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "M&P9 2.0 OR-14276*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.25\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "10/08/2025",
+    "date_added": "10/21/2025",
     "roster_id": null
   },
   {
@@ -198,14 +176,25 @@
     "roster_id": null
   },
   {
-    "brand": "Heckler & Koch",
-    "model": "VP9K*",
+    "brand": "Smith & Wesson",
+    "model": "M&P9 2.0 OR-14277*",
     "caliber": "9MM",
     "type": "",
-    "barrel": "4.09\"",
+    "barrel": "4.0\"",
     "finish": "",
     "notes": "",
-    "date_added": "09/23/2025",
+    "date_added": "10/08/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "M&P9 2.0 OR-14276*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4.25\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "10/08/2025",
     "roster_id": null
   },
   {
@@ -231,80 +220,14 @@
     "roster_id": null
   },
   {
-    "brand": "Springfield Armory",
-    "model": "HCP9379BOSPCA-COMP*",
+    "brand": "Heckler & Koch",
+    "model": "VP9K*",
     "caliber": "9MM",
     "type": "",
-    "barrel": "3.7\"",
+    "barrel": "4.09\"",
     "finish": "",
     "notes": "",
-    "date_added": "09/09/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "FMK Firearms",
-    "model": "9C1 G3 (TITANIUM FRAME)*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/09/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "FMK Firearms",
-    "model": "9C1 G3 (FDE FRAME)(W/BURNT BRONZE SLIDE)*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/09/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
-    "model": "Echelon 4.5F U-Notch Blk Comp CA*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.5\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/09/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
-    "model": "Echelon 4.0C U-Notch Blk Comp CA*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/09/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
-    "model": "Echelon 4.0C U-Notch Blk CA*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/09/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "FMK Firearms",
-    "model": "9C1 G3 (BURNT BRONZE FRAME)*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/09/2025",
+    "date_added": "09/23/2025",
     "roster_id": null
   }
 ]
