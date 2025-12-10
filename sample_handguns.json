@@ -133,6 +133,17 @@
   },
   {
     "brand": "Smith & Wesson",
+    "model": "M&P9 2.0 OR-14276*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4.25\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "10/08/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
     "model": "M&P9 Metal OR-14278*",
     "caliber": "9MM",
     "type": "",
@@ -181,17 +192,6 @@
     "caliber": "9MM",
     "type": "",
     "barrel": "4.0\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "10/08/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "M&P9 2.0 OR-14276*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.25\"",
     "finish": "",
     "notes": "",
     "date_added": "10/08/2025",
