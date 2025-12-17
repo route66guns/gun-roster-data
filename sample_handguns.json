@@ -1,5 +1,38 @@
 [
   {
+    "brand": "Sturm, Ruger & Co.",
+    "model": "LCP MAX 13763*",
+    "caliber": ".380 ACP",
+    "type": "",
+    "barrel": "2.8\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "12/04/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Springfield Armory",
+    "model": "EC9409BCA-PAC*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "12/04/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Springfield Armory",
+    "model": "HC9319BOSPCA-PAC*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "3\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "12/04/2025",
+    "roster_id": null
+  },
+  {
     "brand": "Springfield Armory",
     "model": "HCP9379BOSPCA-PAC*",
     "caliber": "9MM",
@@ -44,39 +77,6 @@
     "roster_id": null
   },
   {
-    "brand": "Sturm, Ruger & Co.",
-    "model": "LCP MAX 13763*",
-    "caliber": ".380 ACP",
-    "type": "",
-    "barrel": "2.8\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "12/04/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
-    "model": "EC9409BCA-PAC*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "12/04/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
-    "model": "HC9319BOSPCA-PAC*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "3\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "12/04/2025",
-    "roster_id": null
-  },
-  {
     "brand": "Rost Martin",
     "model": "RM1CBLKOSP10CA (COMP)*",
     "caliber": "9MM",
@@ -111,17 +111,6 @@
   },
   {
     "brand": "Springfield Armory",
-    "model": "Hellcat 9mm 3\" Pistol UN-WD BLK CA OSP*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "3\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "10/21/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
     "model": "Hellcat Pro 3.7\" UN-WD BLK CA OSP*",
     "caliber": "9MM",
     "type": "",
@@ -132,36 +121,14 @@
     "roster_id": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "M&P9 Metal OR-14278*",
+    "brand": "Springfield Armory",
+    "model": "Hellcat 9mm 3\" Pistol UN-WD BLK CA OSP*",
     "caliber": "9MM",
     "type": "",
-    "barrel": "4.25\"",
+    "barrel": "3\"",
     "finish": "",
     "notes": "",
-    "date_added": "10/08/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "M&P9 Metal OR-14279*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "10/08/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Magnum Research",
-    "model": "DE44CA (Black)",
-    "caliber": ".44 Magnum",
-    "type": "",
-    "barrel": "6\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "10/08/2025",
+    "date_added": "10/21/2025",
     "roster_id": null
   },
   {
@@ -198,6 +165,50 @@
     "roster_id": null
   },
   {
+    "brand": "Smith & Wesson",
+    "model": "M&P9 Metal OR-14278*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4.25\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "10/08/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "M&P9 Metal OR-14279*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "10/08/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Magnum Research",
+    "model": "DE44CA (Black)",
+    "caliber": ".44 Magnum",
+    "type": "",
+    "barrel": "6\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "10/08/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Heckler & Koch",
+    "model": "VP9K*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4.09\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/23/2025",
+    "roster_id": null
+  },
+  {
     "brand": "Girsan (Imported by European American Armory Corporation)",
     "model": "MC P35 CAL (BLK CHROME/ROSE GOLD)*",
     "caliber": "9MM",
@@ -214,17 +225,6 @@
     "caliber": "9MM",
     "type": "",
     "barrel": "3.1\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/23/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Heckler & Koch",
-    "model": "VP9K*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.09\"",
     "finish": "",
     "notes": "",
     "date_added": "09/23/2025",
