@@ -1,5 +1,16 @@
 [
   {
+    "brand": "FN Herstal, S.A.",
+    "model": "502 MRD",
+    "caliber": ".22 LR",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "12/17/2025",
+    "roster_id": null
+  },
+  {
     "brand": "Sturm, Ruger & Co.",
     "model": "LCP MAX 13763*",
     "caliber": ".380 ACP",
