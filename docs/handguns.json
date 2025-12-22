@@ -13,19 +13,6 @@
     "image_source": null
   },
   {
-    "brand": "Sturm, Ruger & Co.",
-    "model": "Max-9 03522*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "3.2\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "12/04/2025",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
     "brand": "Tisas",
     "model": "PX-9 Duty CA*",
     "caliber": "9MM",
@@ -104,6 +91,19 @@
     "image_source": null
   },
   {
+    "brand": "Sturm, Ruger & Co.",
+    "model": "Max-9 03522*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "3.2\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "12/04/2025",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
     "brand": "Rost Martin",
     "model": "RM1CBLKOSP10CA (COMP)*",
     "caliber": "9MM",
@@ -169,32 +169,6 @@
     "image_source": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "M&P9 Metal OR-14279*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "10/08/2025",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Magnum Research",
-    "model": "DE44CA (Black)",
-    "caliber": ".44 Magnum",
-    "type": "",
-    "barrel": "6\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "10/08/2025",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
     "brand": "Girsan (Imported by European American Armory Corporation)",
     "model": "MC-14T*",
     "caliber": ".380 ACP",
@@ -239,6 +213,32 @@
     "caliber": "9MM",
     "type": "",
     "barrel": "4.25\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "10/08/2025",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "M&P9 Metal OR-14279*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "10/08/2025",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Magnum Research",
+    "model": "DE44CA (Black)",
+    "caliber": ".44 Magnum",
+    "type": "",
+    "barrel": "6\"",
     "finish": "",
     "notes": "",
     "date_added": "10/08/2025",

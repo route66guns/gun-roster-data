@@ -30,7 +30,7 @@
   "beretta::beretta - rifles y accesorios para caza y tiro": {
     "brand": "beretta",
     "name": "Beretta - Rifles y Accesorios para Caza y Tiro",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--e7becd07-52e2-4abd-b5cd-a6e5e37fa894/ax800bannerhp.jpg?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--e7becd07-52e2-4abd-b5cd-a6e5e37fa894/ax800bannerhp.jpg?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/es-es",
     "domain": "www.beretta.com"
   },
@@ -44,7 +44,7 @@
   "beretta::fabbrica d'armi beretta - fucili e accessori per caccia e tiro a volo": {
     "brand": "beretta",
     "name": "Fabbrica d'armi Beretta - Fucili e accessori per Caccia e Tiro a volo",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--e7becd07-52e2-4abd-b5cd-a6e5e37fa894/ax800bannerhp.jpg?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--e7becd07-52e2-4abd-b5cd-a6e5e37fa894/ax800bannerhp.jpg?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/it-ch",
     "domain": "www.beretta.com"
   },
