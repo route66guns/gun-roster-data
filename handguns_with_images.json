@@ -13,6 +13,32 @@
     "image_source": null
   },
   {
+    "brand": "Sturm, Ruger & Co.",
+    "model": "LCP MAX 13763*",
+    "caliber": ".380 ACP",
+    "type": "",
+    "barrel": "2.8\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "12/04/2025",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Springfield Armory",
+    "model": "EC9409BCA-PAC*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "12/04/2025",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
     "brand": "Springfield Armory",
     "model": "HC9319BOSPCA-PAC*",
     "caliber": "9mm",
@@ -78,32 +104,6 @@
     "image_source": null
   },
   {
-    "brand": "Sturm, Ruger & Co.",
-    "model": "LCP MAX 13763*",
-    "caliber": ".380 ACP",
-    "type": "",
-    "barrel": "2.8\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "12/04/2025",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Springfield Armory",
-    "model": "EC9409BCA-PAC*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "12/04/2025",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
     "brand": "Rost Martin",
     "model": "RM1CBLKOSP10CA (COMP)*",
     "caliber": "9MM",
@@ -144,6 +144,19 @@
   },
   {
     "brand": "Springfield Armory",
+    "model": "Hellcat 9mm 3\" Pistol UN-WD BLK CA OSP*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "3\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "10/21/2025",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Springfield Armory",
     "model": "Hellcat Pro 3.7\" UN-WD BLK CA OSP*",
     "caliber": "9MM",
     "type": "",
@@ -156,14 +169,14 @@
     "image_source": null
   },
   {
-    "brand": "Springfield Armory",
-    "model": "Hellcat 9mm 3\" Pistol UN-WD BLK CA OSP*",
-    "caliber": "9MM",
+    "brand": "Girsan (Imported by European American Armory Corporation)",
+    "model": "MC-14T*",
+    "caliber": ".380 ACP",
     "type": "",
-    "barrel": "3\"",
+    "barrel": "4.25\"",
     "finish": "",
     "notes": "",
-    "date_added": "10/21/2025",
+    "date_added": "10/08/2025",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -226,19 +239,6 @@
     "caliber": ".44 Magnum",
     "type": "",
     "barrel": "6\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "10/08/2025",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Girsan (Imported by European American Armory Corporation)",
-    "model": "MC-14T*",
-    "caliber": ".380 ACP",
-    "type": "",
-    "barrel": "4.25\"",
     "finish": "",
     "notes": "",
     "date_added": "10/08/2025",
