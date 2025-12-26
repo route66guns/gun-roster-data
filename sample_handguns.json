@@ -12,6 +12,17 @@
   },
   {
     "brand": "Springfield Armory",
+    "model": "HCP9379BOSPCA-PAC*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "3.7\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "12/04/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Springfield Armory",
     "model": "EC9459BCA-PAC*",
     "caliber": "9mm",
     "type": "",
@@ -77,14 +88,14 @@
     "roster_id": null
   },
   {
-    "brand": "Springfield Armory",
-    "model": "HCP9379BOSPCA-PAC*",
+    "brand": "Rost Martin",
+    "model": "RM1CBLKOSP10CA (COMP)*",
     "caliber": "9MM",
     "type": "",
-    "barrel": "3.7\"",
+    "barrel": "4\"",
     "finish": "",
     "notes": "",
-    "date_added": "12/04/2025",
+    "date_added": "11/18/2025",
     "roster_id": null
   },
   {
@@ -93,17 +104,6 @@
     "caliber": "9MM",
     "type": "",
     "barrel": "3.6\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "11/18/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Rost Martin",
-    "model": "RM1CBLKOSP10CA (COMP)*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4\"",
     "finish": "",
     "notes": "",
     "date_added": "11/18/2025",
@@ -140,6 +140,17 @@
     "finish": "",
     "notes": "",
     "date_added": "10/21/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "M&P9 2.0 OR-14276*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4.25\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "10/08/2025",
     "roster_id": null
   },
   {
@@ -192,17 +203,6 @@
     "caliber": "9MM",
     "type": "",
     "barrel": "4.0\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "10/08/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "M&P9 2.0 OR-14276*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.25\"",
     "finish": "",
     "notes": "",
     "date_added": "10/08/2025",
