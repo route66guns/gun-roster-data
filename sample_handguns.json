@@ -34,28 +34,6 @@
   },
   {
     "brand": "Sturm, Ruger & Co.",
-    "model": "Max-9 03522*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "3.2\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "12/04/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Tisas",
-    "model": "PX-9 Duty CA*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.1\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "12/04/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Sturm, Ruger & Co.",
     "model": "LCP MAX 13763*",
     "caliber": ".380 ACP",
     "type": "",
@@ -110,6 +88,28 @@
     "roster_id": null
   },
   {
+    "brand": "Sturm, Ruger & Co.",
+    "model": "Max-9 03522*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "3.2\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "12/04/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Tisas",
+    "model": "PX-9 Duty CA*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4.1\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "12/04/2025",
+    "roster_id": null
+  },
+  {
     "brand": "Staccato 2011 LLC",
     "model": "HD C3.6*",
     "caliber": "9MM",
@@ -140,28 +140,6 @@
     "finish": "",
     "notes": "",
     "date_added": "10/21/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "M&P9 2.0 OR-14276*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.25\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "10/08/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "M&P9 Metal OR-14278*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.25\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "10/08/2025",
     "roster_id": null
   },
   {
@@ -203,6 +181,28 @@
     "caliber": "9MM",
     "type": "",
     "barrel": "4.0\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "10/08/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "M&P9 2.0 OR-14276*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4.25\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "10/08/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "M&P9 Metal OR-14278*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4.25\"",
     "finish": "",
     "notes": "",
     "date_added": "10/08/2025",
