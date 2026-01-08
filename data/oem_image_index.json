@@ -16,35 +16,35 @@
   "beretta::beretta - firearms, clothing & accessories for hunting and shooting": {
     "brand": "beretta",
     "name": "Beretta - Firearms, Clothing & Accessories for Hunting and Shooting",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--e7becd07-52e2-4abd-b5cd-a6e5e37fa894/ax800bannerhp.jpg?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b42c9f4d-7500-4897-a10d-51dd3863af7a/saldi-invernali-2025-26-banner-hp-desktop-test3.png?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/en-sk",
     "domain": "www.beretta.com"
   },
   "beretta::beretta - gewehre und zubehör für jagd und schießsport": {
     "brand": "beretta",
     "name": "Beretta - Gewehre und Zubehör für Jagd und Schießsport",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--e7becd07-52e2-4abd-b5cd-a6e5e37fa894/ax800bannerhp.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b42c9f4d-7500-4897-a10d-51dd3863af7a/saldi-invernali-2025-26-banner-hp-desktop-test3.png?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/de-ch",
     "domain": "www.beretta.com"
   },
   "beretta::beretta - rifles y accesorios para caza y tiro": {
     "brand": "beretta",
     "name": "Beretta - Rifles y Accesorios para Caza y Tiro",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--e7becd07-52e2-4abd-b5cd-a6e5e37fa894/ax800bannerhp.jpg?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b42c9f4d-7500-4897-a10d-51dd3863af7a/saldi-invernali-2025-26-banner-hp-desktop-test3.png?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/es-es",
     "domain": "www.beretta.com"
   },
   "beretta::beretta - fusils et accessoires pour la chasse & le tir": {
     "brand": "beretta",
     "name": "Beretta - Fusils et Accessoires pour la Chasse & le Tir",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--e7becd07-52e2-4abd-b5cd-a6e5e37fa894/ax800bannerhp.jpg?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b42c9f4d-7500-4897-a10d-51dd3863af7a/saldi-invernali-2025-26-banner-hp-desktop-test3.png?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/fr-ch",
     "domain": "www.beretta.com"
   },
   "beretta::fabbrica d'armi beretta - fucili e accessori per caccia e tiro a volo": {
     "brand": "beretta",
     "name": "Fabbrica d'armi Beretta - Fucili e accessori per Caccia e Tiro a volo",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--e7becd07-52e2-4abd-b5cd-a6e5e37fa894/ax800bannerhp.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b42c9f4d-7500-4897-a10d-51dd3863af7a/saldi-invernali-2025-26-banner-hp-desktop-test3.png?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/it-ch",
     "domain": "www.beretta.com"
   },
@@ -68,5 +68,12 @@
     "image": "https://www.sigsauer.com/media/catalog/product/cache/98cff4b26e9262b232060edf742d323e/p/2/p211-9-gto-eq-left-logo.jpg",
     "page": "https://www.sigsauer.com/products/firearms/pistols/",
     "domain": "www.sigsauer.com"
+  },
+  "beretta::404": {
+    "brand": "beretta",
+    "name": "404",
+    "image": "https://dam.beretta.com/content/dam/beretta/logos/Full__Blue.svg",
+    "page": "https://www.beretta.com/en-no",
+    "domain": "www.beretta.com"
   }
 }
