@@ -12,10 +12,10 @@
   },
   {
     "brand": "Smith & Wesson",
-    "model": "PC M19-10 Kcomp 2.5\" NL E210 Moss - 14451",
-    "caliber": ".357 Magnum",
+    "model": "Shield X 9mm TS MS TLC1 10 RD -14459*",
+    "caliber": "9mm",
     "type": "",
-    "barrel": "2.5\"",
+    "barrel": "3.5\"",
     "finish": "",
     "notes": "",
     "date_added": "01/06/2026",
@@ -23,10 +23,10 @@
   },
   {
     "brand": "Smith & Wesson",
-    "model": "Shield X 9mm TS MS TLC1 10 RD -14459*",
-    "caliber": "9mm",
+    "model": "PC M19-10 Kcomp 2.5\" NL E210 Moss - 14451",
+    "caliber": ".357 Magnum",
     "type": "",
-    "barrel": "3.5\"",
+    "barrel": "2.5\"",
     "finish": "",
     "notes": "",
     "date_added": "01/06/2026",
@@ -63,28 +63,6 @@
     "finish": "",
     "notes": "",
     "date_added": "12/17/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Sturm, Ruger & Co.",
-    "model": "Max-9 03522*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "3.2\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "12/04/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Tisas",
-    "model": "PX-9 Duty CA*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.1\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "12/04/2025",
     "roster_id": null
   },
   {
@@ -143,6 +121,28 @@
     "roster_id": null
   },
   {
+    "brand": "Sturm, Ruger & Co.",
+    "model": "Max-9 03522*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "3.2\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "12/04/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Tisas",
+    "model": "PX-9 Duty CA*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4.1\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "12/04/2025",
+    "roster_id": null
+  },
+  {
     "brand": "Rost Martin",
     "model": "RM1CBLKOSP10CA (COMP)*",
     "caliber": "9MM",
@@ -177,10 +177,10 @@
   },
   {
     "brand": "Springfield Armory",
-    "model": "Hellcat 9mm 3\" Pistol UN-WD BLK CA OSP*",
+    "model": "Hellcat Pro 3.7\" UN-WD BLK CA OSP*",
     "caliber": "9MM",
     "type": "",
-    "barrel": "3\"",
+    "barrel": "3.7\"",
     "finish": "",
     "notes": "",
     "date_added": "10/21/2025",
@@ -188,10 +188,10 @@
   },
   {
     "brand": "Springfield Armory",
-    "model": "Hellcat Pro 3.7\" UN-WD BLK CA OSP*",
+    "model": "Hellcat 9mm 3\" Pistol UN-WD BLK CA OSP*",
     "caliber": "9MM",
     "type": "",
-    "barrel": "3.7\"",
+    "barrel": "3\"",
     "finish": "",
     "notes": "",
     "date_added": "10/21/2025",
