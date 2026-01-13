@@ -78,6 +78,19 @@
     "image_source": null
   },
   {
+    "brand": "Sturm, Ruger & Co.",
+    "model": "LCP MAX 13763*",
+    "caliber": ".380 ACP",
+    "type": "",
+    "barrel": "2.8\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "12/04/2025",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
     "brand": "Springfield Armory",
     "model": "EC9409BCA-PAC*",
     "caliber": "9mm",
@@ -148,19 +161,6 @@
     "caliber": "9MM",
     "type": "",
     "barrel": "4.1\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "12/04/2025",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Sturm, Ruger & Co.",
-    "model": "LCP MAX 13763*",
-    "caliber": ".380 ACP",
-    "type": "",
-    "barrel": "2.8\"",
     "finish": "",
     "notes": "",
     "date_added": "12/04/2025",
