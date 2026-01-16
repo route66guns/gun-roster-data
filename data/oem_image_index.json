@@ -30,7 +30,7 @@
   "beretta::beretta - rifles y accesorios para caza y tiro": {
     "brand": "beretta",
     "name": "Beretta - Rifles y Accesorios para Caza y Tiro",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--31375887-591c-4188-9dd5-5b85755043e5/bannerbornfromaspark.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--31375887-591c-4188-9dd5-5b85755043e5/bannerbornfromaspark.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/es-es",
     "domain": "www.beretta.com"
   },
@@ -44,14 +44,14 @@
   "beretta::fabbrica d'armi beretta - fucili e accessori per caccia e tiro a volo": {
     "brand": "beretta",
     "name": "Fabbrica d'armi Beretta - Fucili e accessori per Caccia e Tiro a volo",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--31375887-591c-4188-9dd5-5b85755043e5/bannerbornfromaspark.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--31375887-591c-4188-9dd5-5b85755043e5/bannerbornfromaspark.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/it-ch",
     "domain": "www.beretta.com"
   },
   "beretta::beretta usa firearms - find a dealer or shop online": {
     "brand": "beretta",
     "name": "Beretta USA Firearms - Find a Dealer or Shop Online",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--f5a54c5e-8f16-412a-a366-722693cf5c69/1920x1027-waterfowl-2.jpg?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--f5a54c5e-8f16-412a-a366-722693cf5c69/1920x1027-waterfowl-2.jpg?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/en-us",
     "domain": "www.beretta.com"
   },
@@ -75,5 +75,33 @@
     "image": "https://dam.beretta.com/content/dam/beretta/logos/Full__Blue.svg",
     "page": "https://www.beretta.com/en-no",
     "domain": "www.beretta.com"
+  },
+  "glock::g17 gen4": {
+    "brand": "glock",
+    "name": "G17 Gen4",
+    "image": "https://eu-images.contentstack.com/v3/assets/bltf7171cc1cfc1a31f/blt964f10712271faf0/6903b4bac216782e584075eb/G17_Gen4.jpg?width=256&height=256&fit=crop&format=png&quality=100",
+    "page": "https://us.glock.com/en/products/law-enforcement/pistols/g17-gen4",
+    "domain": "us.glock.com"
+  },
+  "glock::discover glock plus": {
+    "brand": "glock",
+    "name": "Discover GLOCK PLUS",
+    "image": "https://eu-images.contentstack.com/v3/assets/bltf7171cc1cfc1a31f/blt9755d977300ff56f/68e7f976e7e3597585b594fe/GTL2.png?width=256&height=256&fit=crop&format=png&quality=100",
+    "page": "https://us.glock.com/en/products/plus",
+    "domain": "us.glock.com"
+  },
+  "glock::sign up for dealer programs": {
+    "brand": "glock",
+    "name": "Sign Up For Dealer Programs",
+    "image": "https://eu-images.contentstack.com/v3/assets/bltf7171cc1cfc1a31f/blt541477340e85c16c/68e6af9ec9e270f5d5e72e88/herosmallL1L2L3img2x.jpg?width=256&height=256&fit=crop&format=png&quality=100",
+    "page": "https://us.glock.com/en/owners-resources/dealers-professionals/programs",
+    "domain": "us.glock.com"
+  },
+  "glock::learn gun range etiquette": {
+    "brand": "glock",
+    "name": "Learn Gun Range Etiquette",
+    "image": "https://eu-images.contentstack.com/v3/assets/bltf7171cc1cfc1a31f/blt6f019342e54a9301/68e7e7d96c47a329f3b1b792/ShootGun_range_etiquette_mobile.jpg?width=256&height=256&fit=crop&format=png&quality=100",
+    "page": "https://us.glock.com/en/owners-resources/education/gun-range-etiquette",
+    "domain": "us.glock.com"
   }
 }
