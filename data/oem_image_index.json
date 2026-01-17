@@ -30,7 +30,7 @@
   "beretta::beretta - rifles y accesorios para caza y tiro": {
     "brand": "beretta",
     "name": "Beretta - Rifles y Accesorios para Caza y Tiro",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--31375887-591c-4188-9dd5-5b85755043e5/bannerbornfromaspark.jpg?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--31375887-591c-4188-9dd5-5b85755043e5/bannerbornfromaspark.jpg?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/es-es",
     "domain": "www.beretta.com"
   },
@@ -44,14 +44,14 @@
   "beretta::fabbrica d'armi beretta - fucili e accessori per caccia e tiro a volo": {
     "brand": "beretta",
     "name": "Fabbrica d'armi Beretta - Fucili e accessori per Caccia e Tiro a volo",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--31375887-591c-4188-9dd5-5b85755043e5/bannerbornfromaspark.jpg?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--31375887-591c-4188-9dd5-5b85755043e5/bannerbornfromaspark.jpg?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/it-ch",
     "domain": "www.beretta.com"
   },
   "beretta::beretta usa firearms - find a dealer or shop online": {
     "brand": "beretta",
     "name": "Beretta USA Firearms - Find a Dealer or Shop Online",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--f5a54c5e-8f16-412a-a366-722693cf5c69/1920x1027-waterfowl-2.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--ff8b8f1e-94ab-448d-aeb6-3dd25adf3b90/1920x1027-gun-accessories-promo-3.jpg?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/en-us",
     "domain": "www.beretta.com"
   },
@@ -103,5 +103,12 @@
     "image": "https://eu-images.contentstack.com/v3/assets/bltf7171cc1cfc1a31f/blt6f019342e54a9301/68e7e7d96c47a329f3b1b792/ShootGun_range_etiquette_mobile.jpg?width=256&height=256&fit=crop&format=png&quality=100",
     "page": "https://us.glock.com/en/owners-resources/education/gun-range-etiquette",
     "domain": "us.glock.com"
+  },
+  "sig sauer::p211-gt4 coyote": {
+    "brand": "sig sauer",
+    "name": "P211-GT4 COYOTE",
+    "image": "https://www.sigsauer.com/media/catalog/product/cache/98cff4b26e9262b232060edf742d323e/2/1/211ca-gt4-9-coy-left-logo.jpg",
+    "page": "https://www.sigsauer.com/products/firearms/pistols/",
+    "domain": "www.sigsauer.com"
   }
 }
