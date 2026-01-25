@@ -37,7 +37,7 @@
   "beretta::beretta - fusils et accessoires pour la chasse & le tir": {
     "brand": "beretta",
     "name": "Beretta - Fusils et Accessoires pour la Chasse & le Tir",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--35d4d540-4121-4892-8f79-115a2dd5db54/valueadd-fra.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--35d4d540-4121-4892-8f79-115a2dd5db54/valueadd-fra.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/fr-ch",
     "domain": "www.beretta.com"
   },
@@ -51,7 +51,7 @@
   "beretta::beretta usa firearms - find a dealer or shop online": {
     "brand": "beretta",
     "name": "Beretta USA Firearms - Find a Dealer or Shop Online",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--14608a18-647d-4ec7-886b-9c338ffb2457/summer-sale.jpg?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--14608a18-647d-4ec7-886b-9c338ffb2457/summer-sale.jpg?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/en-us",
     "domain": "www.beretta.com"
   },
