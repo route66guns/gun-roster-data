@@ -88,6 +88,39 @@
     "roster_id": null
   },
   {
+    "brand": "Springfield Armory",
+    "model": "EC9459BCA-PAC*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "4.5\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "12/04/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Sturm, Ruger & Co.",
+    "model": "Max-9 03522*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "3.2\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "12/04/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Tisas",
+    "model": "PX-9 Duty CA*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4.1\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "12/04/2025",
+    "roster_id": null
+  },
+  {
     "brand": "Sturm, Ruger & Co.",
     "model": "LCP MAX 13763*",
     "caliber": ".380 ACP",
@@ -132,36 +165,14 @@
     "roster_id": null
   },
   {
-    "brand": "Springfield Armory",
-    "model": "EC9459BCA-PAC*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "4.5\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "12/04/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Sturm, Ruger & Co.",
-    "model": "Max-9 03522*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "3.2\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "12/04/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Tisas",
-    "model": "PX-9 Duty CA*",
+    "brand": "Rost Martin",
+    "model": "RM1SBLKOSP10CA (COMP)*",
     "caliber": "9MM",
     "type": "",
-    "barrel": "4.1\"",
+    "barrel": "3.6\"",
     "finish": "",
     "notes": "",
-    "date_added": "12/04/2025",
+    "date_added": "11/18/2025",
     "roster_id": null
   },
   {
@@ -170,17 +181,6 @@
     "caliber": "9MM",
     "type": "",
     "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "11/18/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Rost Martin",
-    "model": "RM1SBLKOSP10CA (COMP)*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "3.6\"",
     "finish": "",
     "notes": "",
     "date_added": "11/18/2025",
