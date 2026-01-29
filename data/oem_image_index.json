@@ -16,7 +16,7 @@
   "beretta::beretta - firearms, clothing & accessories for hunting and shooting": {
     "brand": "beretta",
     "name": "Beretta - Firearms, Clothing & Accessories for Hunting and Shooting",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--31375887-591c-4188-9dd5-5b85755043e5/bannerbornfromaspark.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--31375887-591c-4188-9dd5-5b85755043e5/bannerbornfromaspark.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/en-sk",
     "domain": "www.beretta.com"
   },
@@ -30,7 +30,7 @@
   "beretta::beretta - rifles y accesorios para caza y tiro": {
     "brand": "beretta",
     "name": "Beretta - Rifles y Accesorios para Caza y Tiro",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--ad88305e-b482-4dcf-bf44-17ee7f60c85f/valueadd-spa.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--ad88305e-b482-4dcf-bf44-17ee7f60c85f/valueadd-spa.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/es-es",
     "domain": "www.beretta.com"
   },
@@ -44,14 +44,14 @@
   "beretta::fabbrica d'armi beretta - fucili e accessori per caccia e tiro a volo": {
     "brand": "beretta",
     "name": "Fabbrica d'armi Beretta - Fucili e accessori per Caccia e Tiro a volo",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--e1fa62d0-2a07-4ce8-89ad-961885786e93/valueadd-ita.jpg?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--e1fa62d0-2a07-4ce8-89ad-961885786e93/valueadd-ita.jpg?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/it-ch",
     "domain": "www.beretta.com"
   },
   "beretta::beretta usa firearms - find a dealer or shop online": {
     "brand": "beretta",
     "name": "Beretta USA Firearms - Find a Dealer or Shop Online",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--14608a18-647d-4ec7-886b-9c338ffb2457/summer-sale.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--14608a18-647d-4ec7-886b-9c338ffb2457/summer-sale.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/en-us",
     "domain": "www.beretta.com"
   },
@@ -123,6 +123,83 @@
     "name": "Law Enforcement Firearms",
     "image": "https://eu-images.contentstack.com/v3/assets/bltf7171cc1cfc1a31f/blt987af8c00a60d740/69037264d27f9931cd0424b7/caring-1600x1200.jpg?width=256&height=256&fit=crop&format=png&quality=100",
     "page": "https://us.glock.com/en/products/law-enforcement",
+    "domain": "us.glock.com"
+  },
+  "glock::glock 17t gen4 9mm fx® / 9mm fof": {
+    "brand": "glock",
+    "name": "GLOCK 17T Gen4 9mm FX® / 9mm FOF",
+    "image": "https://eu-images.contentstack.com/v3/assets/bltf7171cc1cfc1a31f/bltb5a6d528bf1b346f/695faf9a3b441964b728beb3/G17_T_Gen4_FX-FOF.jpg?width=256&height=256&fit=crop&format=png&quality=100",
+    "page": "https://us.glock.com/en/products/law-enforcement/pistols/g17t-gen4-fx-fof",
+    "domain": "us.glock.com"
+  },
+  "glock::glock 17 gen6": {
+    "brand": "glock",
+    "name": "GLOCK 17 Gen6",
+    "image": "https://eu-images.contentstack.com/v3/assets/bltf7171cc1cfc1a31f/blt8c3b5c71d3e9f928/69604abb80c35e21984b0206/7.png?width=256&height=256&fit=crop&format=png&quality=100",
+    "page": "https://us.glock.com/en/products/commercial-firearms/pistols/g17-gen6",
+    "domain": "us.glock.com"
+  },
+  "glock::glock firearms | g19 gen6": {
+    "brand": "glock",
+    "name": "GLOCK FIrearms | G19 Gen6",
+    "image": "https://eu-images.contentstack.com/v3/assets/bltf7171cc1cfc1a31f/bltc3d6a58872ef143f/695e5cd7aa27808462d9e0b9/G19_Gen6.png?width=256&height=256&fit=crop&format=png&quality=100",
+    "page": "https://us.glock.com/en/products/commercial-firearms/pistols/g19-gen6",
+    "domain": "us.glock.com"
+  },
+  "glock::glock 45 gen6": {
+    "brand": "glock",
+    "name": "GLOCK 45 Gen6",
+    "image": "https://eu-images.contentstack.com/v3/assets/bltf7171cc1cfc1a31f/blt266c52815b48ca62/695e5cdc4e6b9443e046c820/G45_Gen6.png?width=256&height=256&fit=crop&format=png&quality=100",
+    "page": "https://us.glock.com/en/products/commercial-firearms/pistols/g45-gen6",
+    "domain": "us.glock.com"
+  },
+  "glock::glock 17 v mos": {
+    "brand": "glock",
+    "name": "GLOCK 17 V MOS",
+    "image": "https://eu-images.contentstack.com/v3/assets/bltf7171cc1cfc1a31f/blt930c92bc600cd599/6909f505f600d3581697639e/G17V-MOS_Technical_Left-Facing_20250909_092-edit-small.jpg?width=256&height=256&fit=crop&format=png&quality=100",
+    "page": "https://us.glock.com/en/products/law-enforcement/pistols/g17-v-mos",
+    "domain": "us.glock.com"
+  },
+  "glock::glock 26 v mos": {
+    "brand": "glock",
+    "name": "GLOCK 26 V MOS",
+    "image": "https://eu-images.contentstack.com/v3/assets/bltf7171cc1cfc1a31f/blt6bb62c56934ac2a9/690b4819f600d36f2697682f/G26V-MOS_Technical_Left-Facing_20250909_050-edit-small.jpg?width=256&height=256&fit=crop&format=png&quality=100",
+    "page": "https://us.glock.com/en/products/commercial-firearms/pistols/g26-v-mos",
+    "domain": "us.glock.com"
+  },
+  "glock::glock 19 v": {
+    "brand": "glock",
+    "name": "GLOCK 19 V",
+    "image": "https://eu-images.contentstack.com/v3/assets/bltf7171cc1cfc1a31f/blt17558d5fa73aa526/6909f57313307b409c988888/G19V-MOS_Technical_Left-Facing_20250909_036-edit-small.jpg?width=256&height=256&fit=crop&format=png&quality=100",
+    "page": "https://us.glock.com/en/products/commercial-firearms/pistols/g19-v",
+    "domain": "us.glock.com"
+  },
+  "glock::g31 gen4": {
+    "brand": "glock",
+    "name": "G31 Gen4",
+    "image": "https://eu-images.contentstack.com/v3/assets/bltf7171cc1cfc1a31f/bltaa50aa94cb54b166/6914c66a468f86422d81b548/G31_Gen4.jpg?width=256&height=256&fit=crop&format=png&quality=100",
+    "page": "https://us.glock.com/en/products/law-enforcement/pistols/g31-gen4",
+    "domain": "us.glock.com"
+  },
+  "glock::glock 31": {
+    "brand": "glock",
+    "name": "GLOCK 31",
+    "image": "https://eu-images.contentstack.com/v3/assets/bltf7171cc1cfc1a31f/blt79864a1d19335c3f/68aebcaf4aea011335af3db4/G31.jpg?width=256&height=256&fit=crop&format=png&quality=100",
+    "page": "https://us.glock.com/en/products/law-enforcement/pistols/g31",
+    "domain": "us.glock.com"
+  },
+  "glock::glock 32 gen4": {
+    "brand": "glock",
+    "name": "GLOCK 32 Gen4",
+    "image": "https://eu-images.contentstack.com/v3/assets/bltf7171cc1cfc1a31f/blt6b23c0007a0cdc1f/6914c9998eada933517cfcce/G32_Gen4.jpg?width=256&height=256&fit=crop&format=png&quality=100",
+    "page": "https://us.glock.com/en/products/law-enforcement/pistols/g32-gen4",
+    "domain": "us.glock.com"
+  },
+  "glock::glock 32": {
+    "brand": "glock",
+    "name": "GLOCK 32",
+    "image": "https://eu-images.contentstack.com/v3/assets/bltf7171cc1cfc1a31f/blt988a041cf29b5e43/6914c84d7c7ca237ac65171b/G32.jpg?width=256&height=256&fit=crop&format=png&quality=100",
+    "page": "https://us.glock.com/en/products/law-enforcement/pistols/g32",
     "domain": "us.glock.com"
   }
 }
