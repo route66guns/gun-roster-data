@@ -1,28 +1,6 @@
 [
   {
     "brand": "Smith & Wesson",
-    "model": "610 Mountain Gun NIL - 14042",
-    "caliber": "10 mm",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/20/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "632 - UC TI 32 H&R -14107",
-    "caliber": "32 H&R",
-    "type": "",
-    "barrel": "1.875\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/20/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
     "model": "940 Davidson's Exclusive 9MM - 14328",
     "caliber": "9mm",
     "type": "",
@@ -71,6 +49,28 @@
     "caliber": "9mm",
     "type": "",
     "barrel": "3.125\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "02/20/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "610 Mountain Gun NIL - 14042",
+    "caliber": "10 mm",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "02/20/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "632 - UC TI 32 H&R -14107",
+    "caliber": "32 H&R",
+    "type": "",
+    "barrel": "1.875\"",
     "finish": "",
     "notes": "",
     "date_added": "02/20/2026",
@@ -177,28 +177,6 @@
   },
   {
     "brand": "Springfield Armory",
-    "model": "HC9319BOSPCA-PAC*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "3\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "12/04/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
-    "model": "HCP9379BOSPCA-PAC*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "3.7\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "12/04/2025",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
     "model": "EC9459BCA-PAC*",
     "caliber": "9mm",
     "type": "",
@@ -247,6 +225,28 @@
     "caliber": "9mm",
     "type": "",
     "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "12/04/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Springfield Armory",
+    "model": "HC9319BOSPCA-PAC*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "3\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "12/04/2025",
+    "roster_id": null
+  },
+  {
+    "brand": "Springfield Armory",
+    "model": "HCP9379BOSPCA-PAC*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "3.7\"",
     "finish": "",
     "notes": "",
     "date_added": "12/04/2025",
