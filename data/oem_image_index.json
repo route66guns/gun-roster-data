@@ -23,14 +23,14 @@
   "beretta::beretta - gewehre und zubehör für jagd und schießsport": {
     "brand": "beretta",
     "name": "Beretta - Gewehre und Zubehör für Jagd und Schießsport",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--d3af4178-7a21-44b7-b4b7-0e13b6db3e21/dt11supersport001.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--d3af4178-7a21-44b7-b4b7-0e13b6db3e21/dt11supersport001.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/de-ch",
     "domain": "www.beretta.com"
   },
   "beretta::beretta - rifles y accesorios para caza y tiro": {
     "brand": "beretta",
     "name": "Beretta - Rifles y Accesorios para Caza y Tiro",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--d3af4178-7a21-44b7-b4b7-0e13b6db3e21/dt11supersport001.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--d3af4178-7a21-44b7-b4b7-0e13b6db3e21/dt11supersport001.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/es-es",
     "domain": "www.beretta.com"
   },
@@ -44,14 +44,14 @@
   "beretta::fabbrica d'armi beretta - fucili e accessori per caccia e tiro a volo": {
     "brand": "beretta",
     "name": "Fabbrica d'armi Beretta - Fucili e accessori per Caccia e Tiro a volo",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--d3af4178-7a21-44b7-b4b7-0e13b6db3e21/dt11supersport001.jpg?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--d3af4178-7a21-44b7-b4b7-0e13b6db3e21/dt11supersport001.jpg?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/it-ch",
     "domain": "www.beretta.com"
   },
   "beretta::beretta usa firearms - find a dealer or shop online": {
     "brand": "beretta",
     "name": "Beretta USA Firearms - Find a Dealer or Shop Online",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--1926199b-93d8-4491-86d9-a2864a6904df/1920x1027-medal.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--1926199b-93d8-4491-86d9-a2864a6904df/1920x1027-medal.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/en-us",
     "domain": "www.beretta.com"
   },
@@ -201,5 +201,12 @@
     "image": "https://eu-images.contentstack.com/v3/assets/bltf7171cc1cfc1a31f/blt988a041cf29b5e43/6914c84d7c7ca237ac65171b/G32.jpg?width=256&height=256&fit=crop&format=png&quality=100",
     "page": "https://us.glock.com/en/products/law-enforcement/pistols/g32",
     "domain": "us.glock.com"
+  },
+  "sig sauer::p365-fuse comp": {
+    "brand": "sig sauer",
+    "name": "P365-FUSE COMP",
+    "image": "https://www.sigsauer.com/media/catalog/product/cache/98cff4b26e9262b232060edf742d323e/3/6/365xf-9-rxsl-left.jpg",
+    "page": "https://www.sigsauer.com/products/firearms/pistols/",
+    "domain": "www.sigsauer.com"
   }
 }
