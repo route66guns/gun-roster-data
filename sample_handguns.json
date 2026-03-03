@@ -1,6 +1,17 @@
 [
   {
     "brand": "Magnum Research",
+    "model": "DE44CABC (BRUSHED CHROME) (Made in USA)",
+    "caliber": ".44 Magnum",
+    "type": "",
+    "barrel": "6\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "02/25/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Magnum Research",
     "model": "DE44CAPC (POLISHED CHROME) (Made in USA)",
     "caliber": ".44 Magnum",
     "type": "",
@@ -35,17 +46,6 @@
   {
     "brand": "Magnum Research",
     "model": "DE44CATU (TUNGSTEN) (Made in USA)",
-    "caliber": ".44 Magnum",
-    "type": "",
-    "barrel": "6\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/25/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Magnum Research",
-    "model": "DE44CABC (BRUSHED CHROME) (Made in USA)",
     "caliber": ".44 Magnum",
     "type": "",
     "barrel": "6\"",
@@ -144,10 +144,10 @@
   },
   {
     "brand": "Heckler & Koch",
-    "model": "VP9K SCS*",
-    "caliber": "9MM",
+    "model": "VP9F SCS*",
+    "caliber": "9mm",
     "type": "",
-    "barrel": "4.09\"",
+    "barrel": "4.5\"",
     "finish": "",
     "notes": "",
     "date_added": "01/14/2026",
@@ -155,10 +155,10 @@
   },
   {
     "brand": "Heckler & Koch",
-    "model": "VP9F SCS*",
-    "caliber": "9mm",
+    "model": "VP9K SCS*",
+    "caliber": "9MM",
     "type": "",
-    "barrel": "4.5\"",
+    "barrel": "4.09\"",
     "finish": "",
     "notes": "",
     "date_added": "01/14/2026",
