@@ -40,19 +40,6 @@
   },
   {
     "brand": "Magnum Research",
-    "model": "DE44CAG (ZIRCONIUM NITRIDE GOLD) (Made in USA)",
-    "caliber": ".44 Magnum",
-    "type": "",
-    "barrel": "6\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/25/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Magnum Research",
     "model": "DE44CABB (BURNT BRONZE) (Made in USA)",
     "caliber": ".44 Magnum",
     "type": "",
@@ -104,14 +91,14 @@
     "image_source": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "940 Davidson's Exclusive 9MM - 14328",
-    "caliber": "9mm",
+    "brand": "Magnum Research",
+    "model": "DE44CAG (ZIRCONIUM NITRIDE GOLD) (Made in USA)",
+    "caliber": ".44 Magnum",
     "type": "",
-    "barrel": "2.125\"",
+    "barrel": "6\"",
     "finish": "",
     "notes": "",
-    "date_added": "02/20/2026",
+    "date_added": "02/25/2026",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -195,6 +182,19 @@
     "image_source": null
   },
   {
+    "brand": "Smith & Wesson",
+    "model": "940 Davidson's Exclusive 9MM - 14328",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "2.125\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "02/20/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
     "brand": "Staccato 2011 LLC",
     "model": "HD C4X*",
     "caliber": "9MM",
@@ -248,10 +248,10 @@
   },
   {
     "brand": "Smith & Wesson",
-    "model": "Shield X 9mm TS MS TLC1 10 RD -14459*",
-    "caliber": "9mm",
+    "model": "PC M19-10 Kcomp 2.5\" NL E210 Moss - 14451",
+    "caliber": ".357 Magnum",
     "type": "",
-    "barrel": "3.5\"",
+    "barrel": "2.5\"",
     "finish": "",
     "notes": "",
     "date_added": "01/06/2026",
@@ -261,10 +261,10 @@
   },
   {
     "brand": "Smith & Wesson",
-    "model": "PC M19-10 Kcomp 2.5\" NL E210 Moss - 14451",
-    "caliber": ".357 Magnum",
+    "model": "Shield X 9mm TS MS TLC1 10 RD -14459*",
+    "caliber": "9mm",
     "type": "",
-    "barrel": "2.5\"",
+    "barrel": "3.5\"",
     "finish": "",
     "notes": "",
     "date_added": "01/06/2026",
