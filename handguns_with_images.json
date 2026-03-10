@@ -1,6 +1,19 @@
 [
   {
     "brand": "Diamondback Firearms",
+    "model": "DB0700S711",
+    "caliber": ".357 Magnum",
+    "type": "",
+    "barrel": "2\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "03/06/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Diamondback Firearms",
     "model": "DB0700S001",
     "caliber": ".357 Magnum",
     "type": "",
@@ -15,19 +28,6 @@
   {
     "brand": "Diamondback Firearms",
     "model": "DB075AS701",
-    "caliber": ".357 Magnum",
-    "type": "",
-    "barrel": "2\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/06/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Diamondback Firearms",
-    "model": "DB0700S711",
     "caliber": ".357 Magnum",
     "type": "",
     "barrel": "2\"",
