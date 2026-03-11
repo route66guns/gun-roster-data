@@ -1,19 +1,6 @@
 [
   {
     "brand": "Diamondback Firearms",
-    "model": "DB0700S711",
-    "caliber": ".357 Magnum",
-    "type": "",
-    "barrel": "2\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/06/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Diamondback Firearms",
     "model": "DB0700S001",
     "caliber": ".357 Magnum",
     "type": "",
@@ -39,14 +26,14 @@
     "image_source": null
   },
   {
-    "brand": "Magnum Research",
-    "model": "DE44CATU (TUNGSTEN) (Made in USA)",
-    "caliber": ".44 Magnum",
+    "brand": "Diamondback Firearms",
+    "model": "DB0700S711",
+    "caliber": ".357 Magnum",
     "type": "",
-    "barrel": "6\"",
+    "barrel": "2\"",
     "finish": "",
     "notes": "",
-    "date_added": "02/25/2026",
+    "date_added": "03/06/2026",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -93,6 +80,19 @@
   {
     "brand": "Magnum Research",
     "model": "DE44CABB (BURNT BRONZE) (Made in USA)",
+    "caliber": ".44 Magnum",
+    "type": "",
+    "barrel": "6\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "02/25/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Magnum Research",
+    "model": "DE44CATU (TUNGSTEN) (Made in USA)",
     "caliber": ".44 Magnum",
     "type": "",
     "barrel": "6\"",
