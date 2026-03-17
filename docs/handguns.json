@@ -14,6 +14,19 @@
   },
   {
     "brand": "Diamondback Firearms",
+    "model": "DB075AS701",
+    "caliber": ".357 Magnum",
+    "type": "",
+    "barrel": "2\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "03/06/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Diamondback Firearms",
     "model": "DB0700S711",
     "caliber": ".357 Magnum",
     "type": "",
@@ -39,14 +52,14 @@
     "image_source": null
   },
   {
-    "brand": "Diamondback Firearms",
-    "model": "DB075AS701",
-    "caliber": ".357 Magnum",
+    "brand": "Magnum Research",
+    "model": "DE44CAPC (POLISHED CHROME) (Made in USA)",
+    "caliber": ".44 Magnum",
     "type": "",
-    "barrel": "2\"",
+    "barrel": "6\"",
     "finish": "",
     "notes": "",
-    "date_added": "03/06/2026",
+    "date_added": "02/25/2026",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -104,14 +117,14 @@
     "image_source": null
   },
   {
-    "brand": "Magnum Research",
-    "model": "DE44CAPC (POLISHED CHROME) (Made in USA)",
-    "caliber": ".44 Magnum",
+    "brand": "Smith & Wesson",
+    "model": "940 Davidson's Exclusive 9MM - 14328",
+    "caliber": "9mm",
     "type": "",
-    "barrel": "6\"",
+    "barrel": "2.125\"",
     "finish": "",
     "notes": "",
-    "date_added": "02/25/2026",
+    "date_added": "02/20/2026",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -195,19 +208,6 @@
     "image_source": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "940 Davidson's Exclusive 9MM - 14328",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "2.125\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/20/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
     "brand": "Staccato 2011 LLC",
     "model": "HD C4X*",
     "caliber": "9MM",
@@ -222,10 +222,10 @@
   },
   {
     "brand": "Heckler & Koch",
-    "model": "VP9F SCS*",
-    "caliber": "9mm",
+    "model": "VP9K SCS*",
+    "caliber": "9MM",
     "type": "",
-    "barrel": "4.5\"",
+    "barrel": "4.09\"",
     "finish": "",
     "notes": "",
     "date_added": "01/14/2026",
@@ -235,10 +235,10 @@
   },
   {
     "brand": "Heckler & Koch",
-    "model": "VP9K SCS*",
-    "caliber": "9MM",
+    "model": "VP9F SCS*",
+    "caliber": "9mm",
     "type": "",
-    "barrel": "4.09\"",
+    "barrel": "4.5\"",
     "finish": "",
     "notes": "",
     "date_added": "01/14/2026",
