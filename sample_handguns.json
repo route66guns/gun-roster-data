@@ -111,17 +111,6 @@
   },
   {
     "brand": "Magnum Research",
-    "model": "DE44CAPC (POLISHED CHROME) (Made in USA)",
-    "caliber": ".44 Magnum",
-    "type": "",
-    "barrel": "6\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/25/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Magnum Research",
     "model": "DE44CAG (ZIRCONIUM NITRIDE GOLD) (Made in USA)",
     "caliber": ".44 Magnum",
     "type": "",
@@ -156,6 +145,17 @@
   {
     "brand": "Magnum Research",
     "model": "DE44CABC (BRUSHED CHROME) (Made in USA)",
+    "caliber": ".44 Magnum",
+    "type": "",
+    "barrel": "6\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "02/25/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Magnum Research",
+    "model": "DE44CAPC (POLISHED CHROME) (Made in USA)",
     "caliber": ".44 Magnum",
     "type": "",
     "barrel": "6\"",
