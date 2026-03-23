@@ -1,6 +1,19 @@
 [
   {
     "brand": "Smith & Wesson",
+    "model": "632 UC RUBBER GRIP SKU 14287",
+    "caliber": ".32 H&R MAG",
+    "type": "",
+    "barrel": "1.875\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "03/18/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Smith & Wesson",
     "model": "442 UC RUBBER GRIP SKU 14286",
     "caliber": ".38 S&W SPL. + P",
     "type": "",
@@ -65,19 +78,6 @@
     "image_source": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "632 UC RUBBER GRIP SKU 14287",
-    "caliber": ".32 H&R MAG",
-    "type": "",
-    "barrel": "1.875\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/18/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
     "brand": "Shark Coast Customs / SIG",
     "model": "SCC Cal1*",
     "caliber": "9mm",
@@ -125,6 +125,19 @@
     "finish": "",
     "notes": "",
     "date_added": "03/06/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Magnum Research",
+    "model": "DE44CABC (BRUSHED CHROME) (Made in USA)",
+    "caliber": ".44 Magnum",
+    "type": "",
+    "barrel": "6\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "02/25/2026",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -182,14 +195,14 @@
     "image_source": null
   },
   {
-    "brand": "Magnum Research",
-    "model": "DE44CABC (BRUSHED CHROME) (Made in USA)",
-    "caliber": ".44 Magnum",
+    "brand": "Smith & Wesson",
+    "model": "632 - UC TI 32H&R -14350",
+    "caliber": "32 H&R",
     "type": "",
-    "barrel": "6\"",
+    "barrel": "1.875\"",
     "finish": "",
     "notes": "",
-    "date_added": "02/25/2026",
+    "date_added": "02/20/2026",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -265,19 +278,6 @@
     "caliber": "10 mm",
     "type": "",
     "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/20/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "632 - UC TI 32H&R -14350",
-    "caliber": "32 H&R",
-    "type": "",
-    "barrel": "1.875\"",
     "finish": "",
     "notes": "",
     "date_added": "02/20/2026",
