@@ -1,6 +1,28 @@
 [
   {
     "brand": "Smith & Wesson",
+    "model": "PC Bodyguard 2.0 CC TS CA - 14419*",
+    "caliber": "380 auto",
+    "type": "",
+    "barrel": "2.875\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "03/18/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "642 UC RUBBER GRIP SKU 14285",
+    "caliber": ".38 S&W SPL. + P",
+    "type": "",
+    "barrel": "1.875\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "03/18/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
     "model": "632 UC RUBBER GRIP SKU 14287",
     "caliber": ".32 H&R MAG",
     "type": "",
@@ -44,28 +66,6 @@
     "roster_id": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "PC Bodyguard 2.0 CC TS CA - 14419*",
-    "caliber": "380 auto",
-    "type": "",
-    "barrel": "2.875\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/18/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "642 UC RUBBER GRIP SKU 14285",
-    "caliber": ".38 S&W SPL. + P",
-    "type": "",
-    "barrel": "1.875\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/18/2026",
-    "roster_id": null
-  },
-  {
     "brand": "Shark Coast Customs / SIG",
     "model": "SCC Cal1*",
     "caliber": "9mm",
@@ -74,17 +74,6 @@
     "finish": "",
     "notes": "",
     "date_added": "03/13/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Diamondback Firearms",
-    "model": "DB075AS701",
-    "caliber": ".357 Magnum",
-    "type": "",
-    "barrel": "2\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/06/2026",
     "roster_id": null
   },
   {
@@ -107,6 +96,28 @@
     "finish": "",
     "notes": "",
     "date_added": "03/06/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Diamondback Firearms",
+    "model": "DB075AS701",
+    "caliber": ".357 Magnum",
+    "type": "",
+    "barrel": "2\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "03/06/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Magnum Research",
+    "model": "DE44CATU (TUNGSTEN) (Made in USA)",
+    "caliber": ".44 Magnum",
+    "type": "",
+    "barrel": "6\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "02/25/2026",
     "roster_id": null
   },
   {
@@ -154,14 +165,36 @@
     "roster_id": null
   },
   {
-    "brand": "Magnum Research",
-    "model": "DE44CATU (TUNGSTEN) (Made in USA)",
-    "caliber": ".44 Magnum",
+    "brand": "Smith & Wesson",
+    "model": "617 Mountain Gun NIL -14107",
+    "caliber": ".22 LR",
     "type": "",
-    "barrel": "6\"",
+    "barrel": "4.125\"",
     "finish": "",
     "notes": "",
-    "date_added": "02/25/2026",
+    "date_added": "02/20/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "M&P9 Shield Plus OR CA 10RD - 14280*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "3.125\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "02/20/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "610 Mountain Gun NIL - 14042",
+    "caliber": "10 mm",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "02/20/2026",
     "roster_id": null
   },
   {
@@ -209,39 +242,6 @@
     "roster_id": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "617 Mountain Gun NIL -14107",
-    "caliber": ".22 LR",
-    "type": "",
-    "barrel": "4.125\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/20/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "M&P9 Shield Plus OR CA 10RD - 14280*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "3.125\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/20/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "610 Mountain Gun NIL - 14042",
-    "caliber": "10 mm",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/20/2026",
-    "roster_id": null
-  },
-  {
     "brand": "Staccato 2011 LLC",
     "model": "HD C4X*",
     "caliber": "9MM",
@@ -254,10 +254,10 @@
   },
   {
     "brand": "Heckler & Koch",
-    "model": "VP9K SCS*",
-    "caliber": "9MM",
+    "model": "VP9F SCS*",
+    "caliber": "9mm",
     "type": "",
-    "barrel": "4.09\"",
+    "barrel": "4.5\"",
     "finish": "",
     "notes": "",
     "date_added": "01/14/2026",
@@ -265,10 +265,10 @@
   },
   {
     "brand": "Heckler & Koch",
-    "model": "VP9F SCS*",
-    "caliber": "9mm",
+    "model": "VP9K SCS*",
+    "caliber": "9MM",
     "type": "",
-    "barrel": "4.5\"",
+    "barrel": "4.09\"",
     "finish": "",
     "notes": "",
     "date_added": "01/14/2026",
