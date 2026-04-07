@@ -45,17 +45,6 @@
   },
   {
     "brand": "Smith & Wesson",
-    "model": "Bodyguard 2.0 TS CA - 14420*",
-    "caliber": "380 Auto",
-    "type": "",
-    "barrel": "2.75\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/18/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
     "model": "PC Bodyguard 2.0 CC TS CA - 14419*",
     "caliber": "380 auto",
     "type": "",
@@ -104,6 +93,17 @@
     "caliber": ".32 H&R MAG",
     "type": "",
     "barrel": "1.875\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "03/18/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "Bodyguard 2.0 TS CA - 14420*",
+    "caliber": "380 Auto",
+    "type": "",
+    "barrel": "2.75\"",
     "finish": "",
     "notes": "",
     "date_added": "03/18/2026",
@@ -210,17 +210,6 @@
   },
   {
     "brand": "Smith & Wesson",
-    "model": "686 Mountain Gun NIL - 14040",
-    "caliber": ".357 Magnum",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/20/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
     "model": "617 Mountain Gun NIL -14107",
     "caliber": ".22 LR",
     "type": "",
@@ -286,6 +275,17 @@
     "roster_id": null
   },
   {
+    "brand": "Smith & Wesson",
+    "model": "686 Mountain Gun NIL - 14040",
+    "caliber": ".357 Magnum",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "02/20/2026",
+    "roster_id": null
+  },
+  {
     "brand": "Staccato 2011 LLC",
     "model": "HD C4X*",
     "caliber": "9MM",
@@ -327,28 +327,6 @@
     "finish": "",
     "notes": "",
     "date_added": "01/07/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "PC M19-10 Kcomp 2.5\" NL E210 Moss - 14451",
-    "caliber": ".357 Magnum",
-    "type": "",
-    "barrel": "2.5\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "01/06/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "Shield X 9mm TS MS TLC1 10 RD -14459*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "3.5\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "01/06/2026",
     "roster_id": null
   }
 ]
