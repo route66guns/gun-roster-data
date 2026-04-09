@@ -1,17 +1,6 @@
 [
   {
     "brand": "Beretta",
-    "model": "J92F700CA 92FS Brigadier (Cerakote)",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.92\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/27/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Beretta",
     "model": "JS92M9A1CA 92FS TYPE M9A1 (CERAKOTE)",
     "caliber": "9MM",
     "type": "",
@@ -44,14 +33,14 @@
     "roster_id": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "PC Bodyguard 2.0 CC TS CA - 14419*",
-    "caliber": "380 auto",
+    "brand": "Beretta",
+    "model": "J92F700CA 92FS Brigadier (Cerakote)",
+    "caliber": "9MM",
     "type": "",
-    "barrel": "2.875\"",
+    "barrel": "4.92\"",
     "finish": "",
     "notes": "",
-    "date_added": "03/18/2026",
+    "date_added": "03/27/2026",
     "roster_id": null
   },
   {
@@ -110,6 +99,17 @@
     "roster_id": null
   },
   {
+    "brand": "Smith & Wesson",
+    "model": "PC Bodyguard 2.0 CC TS CA - 14419*",
+    "caliber": "380 auto",
+    "type": "",
+    "barrel": "2.875\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "03/18/2026",
+    "roster_id": null
+  },
+  {
     "brand": "Shark Coast Customs / SIG",
     "model": "SCC Cal1*",
     "caliber": "9mm",
@@ -118,17 +118,6 @@
     "finish": "",
     "notes": "",
     "date_added": "03/13/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Diamondback Firearms",
-    "model": "DB0700S711",
-    "caliber": ".357 Magnum",
-    "type": "",
-    "barrel": "2\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/06/2026",
     "roster_id": null
   },
   {
@@ -154,14 +143,14 @@
     "roster_id": null
   },
   {
-    "brand": "Magnum Research",
-    "model": "DE44CABB (BURNT BRONZE) (Made in USA)",
-    "caliber": ".44 Magnum",
+    "brand": "Diamondback Firearms",
+    "model": "DB0700S711",
+    "caliber": ".357 Magnum",
     "type": "",
-    "barrel": "6\"",
+    "barrel": "2\"",
     "finish": "",
     "notes": "",
-    "date_added": "02/25/2026",
+    "date_added": "03/06/2026",
     "roster_id": null
   },
   {
@@ -209,25 +198,14 @@
     "roster_id": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "617 Mountain Gun NIL -14107",
-    "caliber": ".22 LR",
+    "brand": "Magnum Research",
+    "model": "DE44CABB (BURNT BRONZE) (Made in USA)",
+    "caliber": ".44 Magnum",
     "type": "",
-    "barrel": "4.125\"",
+    "barrel": "6\"",
     "finish": "",
     "notes": "",
-    "date_added": "02/20/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "M&P9 Shield Plus OR CA 10RD - 14280*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "3.125\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/20/2026",
+    "date_added": "02/25/2026",
     "roster_id": null
   },
   {
@@ -280,6 +258,28 @@
     "caliber": ".357 Magnum",
     "type": "",
     "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "02/20/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "617 Mountain Gun NIL -14107",
+    "caliber": ".22 LR",
+    "type": "",
+    "barrel": "4.125\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "02/20/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "M&P9 Shield Plus OR CA 10RD - 14280*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "3.125\"",
     "finish": "",
     "notes": "",
     "date_added": "02/20/2026",
