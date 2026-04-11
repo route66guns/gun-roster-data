@@ -1,17 +1,6 @@
 [
   {
     "brand": "Beretta",
-    "model": "J92F700CA 92FS Brigadier (Cerakote)",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.92\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/27/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Beretta",
     "model": "JS92M9A1CA 92FS TYPE M9A1 (CERAKOTE)",
     "caliber": "9MM",
     "type": "",
@@ -44,25 +33,14 @@
     "roster_id": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "432 UC RUBBER GRIP SKU 14288",
-    "caliber": ".32 H&R MAG",
+    "brand": "Beretta",
+    "model": "J92F700CA 92FS Brigadier (Cerakote)",
+    "caliber": "9MM",
     "type": "",
-    "barrel": "1.875\"",
+    "barrel": "4.92\"",
     "finish": "",
     "notes": "",
-    "date_added": "03/18/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "Bodyguard 2.0 TS CA - 14420*",
-    "caliber": "380 Auto",
-    "type": "",
-    "barrel": "2.75\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/18/2026",
+    "date_added": "03/27/2026",
     "roster_id": null
   },
   {
@@ -104,6 +82,28 @@
     "caliber": ".38 S&W SPL. + P",
     "type": "",
     "barrel": "1.875\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "03/18/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "432 UC RUBBER GRIP SKU 14288",
+    "caliber": ".32 H&R MAG",
+    "type": "",
+    "barrel": "1.875\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "03/18/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "Bodyguard 2.0 TS CA - 14420*",
+    "caliber": "380 Auto",
+    "type": "",
+    "barrel": "2.75\"",
     "finish": "",
     "notes": "",
     "date_added": "03/18/2026",
@@ -155,28 +155,6 @@
   },
   {
     "brand": "Magnum Research",
-    "model": "DE44CAG (ZIRCONIUM NITRIDE GOLD) (Made in USA)",
-    "caliber": ".44 Magnum",
-    "type": "",
-    "barrel": "6\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/25/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Magnum Research",
-    "model": "DE44CABB (BURNT BRONZE) (Made in USA)",
-    "caliber": ".44 Magnum",
-    "type": "",
-    "barrel": "6\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/25/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Magnum Research",
     "model": "DE44CATU (TUNGSTEN) (Made in USA)",
     "caliber": ".44 Magnum",
     "type": "",
@@ -209,36 +187,25 @@
     "roster_id": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "M&P 10MM M2.0 4.6IN OR 10 RD - 14505*",
-    "caliber": "10mm",
+    "brand": "Magnum Research",
+    "model": "DE44CAG (ZIRCONIUM NITRIDE GOLD) (Made in USA)",
+    "caliber": ".44 Magnum",
     "type": "",
-    "barrel": "4.6\"",
+    "barrel": "6\"",
     "finish": "",
     "notes": "",
-    "date_added": "02/20/2026",
+    "date_added": "02/25/2026",
     "roster_id": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "686 Mountain Gun NIL - 14040",
-    "caliber": ".357 Magnum",
+    "brand": "Magnum Research",
+    "model": "DE44CABB (BURNT BRONZE) (Made in USA)",
+    "caliber": ".44 Magnum",
     "type": "",
-    "barrel": "4\"",
+    "barrel": "6\"",
     "finish": "",
     "notes": "",
-    "date_added": "02/20/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "617 Mountain Gun NIL -14107",
-    "caliber": ".22 LR",
-    "type": "",
-    "barrel": "4.125\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/20/2026",
+    "date_added": "02/25/2026",
     "roster_id": null
   },
   {
@@ -280,6 +247,39 @@
     "caliber": "9mm",
     "type": "",
     "barrel": "2.125\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "02/20/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "M&P 10MM M2.0 4.6IN OR 10 RD - 14505*",
+    "caliber": "10mm",
+    "type": "",
+    "barrel": "4.6\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "02/20/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "686 Mountain Gun NIL - 14040",
+    "caliber": ".357 Magnum",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "02/20/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "617 Mountain Gun NIL -14107",
+    "caliber": ".22 LR",
+    "type": "",
+    "barrel": "4.125\"",
     "finish": "",
     "notes": "",
     "date_added": "02/20/2026",
