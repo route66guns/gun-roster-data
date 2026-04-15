@@ -1,5 +1,31 @@
 [
   {
+    "brand": "Heckler & Koch",
+    "model": "VP9X Bear*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "4.09in",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/14/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Heckler & Koch",
+    "model": "VP9F Bear*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "4.5in",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/14/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
     "brand": "Beretta",
     "model": "JS92M9A1CA 92FS TYPE M9A1 (CERAKOTE)",
     "caliber": "9MM",
@@ -346,32 +372,6 @@
     "finish": "",
     "notes": "",
     "date_added": "01/20/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Heckler & Koch",
-    "model": "VP9F SCS*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "4.5\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "01/14/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Heckler & Koch",
-    "model": "VP9K SCS*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.09\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "01/14/2026",
     "roster_id": null,
     "image_local": null,
     "image_source": null
