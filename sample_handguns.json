@@ -67,6 +67,17 @@
   },
   {
     "brand": "Smith & Wesson",
+    "model": "442 UC RUBBER GRIP SKU 14286",
+    "caliber": ".38 S&W SPL. + P",
+    "type": "",
+    "barrel": "1.875\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "03/18/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
     "model": "432 UC RUBBER GRIP SKU 14288",
     "caliber": ".32 H&R MAG",
     "type": "",
@@ -113,17 +124,6 @@
     "brand": "Smith & Wesson",
     "model": "632 UC RUBBER GRIP SKU 14287",
     "caliber": ".32 H&R MAG",
-    "type": "",
-    "barrel": "1.875\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/18/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "442 UC RUBBER GRIP SKU 14286",
-    "caliber": ".38 S&W SPL. + P",
     "type": "",
     "barrel": "1.875\"",
     "finish": "",
@@ -232,6 +232,17 @@
   },
   {
     "brand": "Smith & Wesson",
+    "model": "940 Davidson's Exclusive 9MM - 14328",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "2.125\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "02/20/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
     "model": "M&P 10MM M2.0 4.6IN OR 10 RD - 14505*",
     "caliber": "10mm",
     "type": "",
@@ -291,17 +302,6 @@
     "caliber": "32 H&R",
     "type": "",
     "barrel": "1.875\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/20/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "940 Davidson's Exclusive 9MM - 14328",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "2.125\"",
     "finish": "",
     "notes": "",
     "date_added": "02/20/2026",
