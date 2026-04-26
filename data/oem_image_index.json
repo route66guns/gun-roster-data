@@ -44,14 +44,14 @@
   "beretta::fabbrica d'armi beretta - fucili e accessori per caccia e tiro a volo": {
     "brand": "beretta",
     "name": "Fabbrica d'armi Beretta - Fucili e accessori per Caccia e Tiro a volo",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--d3af4178-7a21-44b7-b4b7-0e13b6db3e21/dt11supersport001.jpg?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--d3af4178-7a21-44b7-b4b7-0e13b6db3e21/dt11supersport001.jpg?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/it-ch",
     "domain": "www.beretta.com"
   },
   "beretta::beretta usa firearms - find a dealer or shop online": {
     "brand": "beretta",
     "name": "Beretta USA Firearms - Find a Dealer or Shop Online",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--5ed1790a-20f9-4059-a5e2-16e14095ec1c/1920x1027-training-gear.jpg?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--5ed1790a-20f9-4059-a5e2-16e14095ec1c/1920x1027-training-gear.jpg?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/en-us",
     "domain": "www.beretta.com"
   },
@@ -226,7 +226,7 @@
   "canik::canik | firearms collection": {
     "brand": "canik",
     "name": "CANiK | Firearms Collection",
-    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/collections/Screenshot_2023-11-09_135803.png?v=1761636677",
+    "image": "https://www.canik.com/canik-og.jpg",
     "page": "https://www.canikusa.com/prime-radian",
     "domain": "www.canikusa.com"
   },
@@ -317,14 +317,14 @@
   "canik::canik | parts & accessories collection": {
     "brand": "canik",
     "name": "CANiK | Parts & Accessories Collection",
-    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/collections/group_143.jpg?v=1762241226",
+    "image": "https://www.canik.com/canik-og.jpg",
     "page": "https://www.canikusa.com/parts-accessories",
     "domain": "www.canikusa.com"
   },
   "canik::canik | magazines collection": {
     "brand": "canik",
     "name": "CANiK | Magazines Collection",
-    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/collections/MMAC-794_MICRO_COMPACT_17_ROUND_MAGAZINE_WITH_BLACK_BASEPLATE.png?v=1776116208",
+    "image": "https://www.canik.com/canik-og.jpg",
     "page": "https://www.canikusa.com/magazines",
     "domain": "www.canikusa.com"
   },
