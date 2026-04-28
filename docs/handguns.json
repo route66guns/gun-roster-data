@@ -1,10 +1,10 @@
 [
   {
     "brand": "Heckler & Koch",
-    "model": "VP9F Bear*",
+    "model": "VP9X Bear*",
     "caliber": "9mm",
     "type": "",
-    "barrel": "4.5in",
+    "barrel": "4.09in",
     "finish": "",
     "notes": "",
     "date_added": "04/14/2026",
@@ -14,10 +14,10 @@
   },
   {
     "brand": "Heckler & Koch",
-    "model": "VP9X Bear*",
+    "model": "VP9F Bear*",
     "caliber": "9mm",
     "type": "",
-    "barrel": "4.09in",
+    "barrel": "4.5in",
     "finish": "",
     "notes": "",
     "date_added": "04/14/2026",
@@ -73,6 +73,19 @@
     "finish": "",
     "notes": "",
     "date_added": "03/27/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "432 UC RUBBER GRIP SKU 14288",
+    "caliber": ".32 H&R MAG",
+    "type": "",
+    "barrel": "1.875\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "03/18/2026",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -143,19 +156,6 @@
     "image_source": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "432 UC RUBBER GRIP SKU 14288",
-    "caliber": ".32 H&R MAG",
-    "type": "",
-    "barrel": "1.875\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/18/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
     "brand": "Shark Coast Customs / SIG",
     "model": "SCC Cal1*",
     "caliber": "9mm",
@@ -203,6 +203,19 @@
     "finish": "",
     "notes": "",
     "date_added": "03/06/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Magnum Research",
+    "model": "DE44CAG (ZIRCONIUM NITRIDE GOLD) (Made in USA)",
+    "caliber": ".44 Magnum",
+    "type": "",
+    "barrel": "6\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "02/25/2026",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -260,14 +273,14 @@
     "image_source": null
   },
   {
-    "brand": "Magnum Research",
-    "model": "DE44CAG (ZIRCONIUM NITRIDE GOLD) (Made in USA)",
-    "caliber": ".44 Magnum",
+    "brand": "Smith & Wesson",
+    "model": "M&P 10MM M2.0 4.6IN OR 10 RD - 14505*",
+    "caliber": "10mm",
     "type": "",
-    "barrel": "6\"",
+    "barrel": "4.6\"",
     "finish": "",
     "notes": "",
-    "date_added": "02/25/2026",
+    "date_added": "02/20/2026",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -343,19 +356,6 @@
     "caliber": "9mm",
     "type": "",
     "barrel": "2.125\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/20/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "M&P 10MM M2.0 4.6IN OR 10 RD - 14505*",
-    "caliber": "10mm",
-    "type": "",
-    "barrel": "4.6\"",
     "finish": "",
     "notes": "",
     "date_added": "02/20/2026",
