@@ -27,6 +27,19 @@
   },
   {
     "brand": "Beretta",
+    "model": "J92M9A0CA M9 Commerical (Cerakote)",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4.9\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "03/27/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Beretta",
     "model": "J92F700CA 92FS Brigadier (Cerakote)",
     "caliber": "9MM",
     "type": "",
@@ -65,14 +78,14 @@
     "image_source": null
   },
   {
-    "brand": "Beretta",
-    "model": "J92M9A0CA M9 Commerical (Cerakote)",
-    "caliber": "9MM",
+    "brand": "Smith & Wesson",
+    "model": "442 UC RUBBER GRIP SKU 14286",
+    "caliber": ".38 S&W SPL. + P",
     "type": "",
-    "barrel": "4.9\"",
+    "barrel": "1.875\"",
     "finish": "",
     "notes": "",
-    "date_added": "03/27/2026",
+    "date_added": "03/18/2026",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -143,19 +156,6 @@
     "image_source": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "442 UC RUBBER GRIP SKU 14286",
-    "caliber": ".38 S&W SPL. + P",
-    "type": "",
-    "barrel": "1.875\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/18/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
     "brand": "Shark Coast Customs / SIG",
     "model": "SCC Cal1*",
     "caliber": "9mm",
@@ -203,6 +203,19 @@
     "finish": "",
     "notes": "",
     "date_added": "03/06/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Magnum Research",
+    "model": "DE44CAPC (POLISHED CHROME) (Made in USA)",
+    "caliber": ".44 Magnum",
+    "type": "",
+    "barrel": "6\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "02/25/2026",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -260,14 +273,14 @@
     "image_source": null
   },
   {
-    "brand": "Magnum Research",
-    "model": "DE44CAPC (POLISHED CHROME) (Made in USA)",
-    "caliber": ".44 Magnum",
+    "brand": "Smith & Wesson",
+    "model": "940 Davidson's Exclusive 9MM - 14328",
+    "caliber": "9mm",
     "type": "",
-    "barrel": "6\"",
+    "barrel": "2.125\"",
     "finish": "",
     "notes": "",
-    "date_added": "02/25/2026",
+    "date_added": "02/20/2026",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -343,19 +356,6 @@
     "caliber": "32 H&R",
     "type": "",
     "barrel": "1.875\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/20/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "940 Davidson's Exclusive 9MM - 14328",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "2.125\"",
     "finish": "",
     "notes": "",
     "date_added": "02/20/2026",

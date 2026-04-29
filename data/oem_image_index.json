@@ -16,7 +16,7 @@
   "beretta::beretta - firearms, clothing & accessories for hunting and shooting": {
     "brand": "beretta",
     "name": "Beretta - Firearms, Clothing & Accessories for Hunting and Shooting",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--d3af4178-7a21-44b7-b4b7-0e13b6db3e21/dt11supersport001.jpg?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--d3af4178-7a21-44b7-b4b7-0e13b6db3e21/dt11supersport001.jpg?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/en-sk",
     "domain": "www.beretta.com"
   },
@@ -390,5 +390,334 @@
     "image": "https://www.canik.com/canik-og.jpg",
     "page": "https://www.canikusa.com/dealers",
     "domain": "www.canikusa.com"
+  },
+  "kimber::rimfire target conversion kit": {
+    "brand": "kimber",
+    "name": "Rimfire Target Conversion Kit",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/r/i/rimfire-target-conversion-kit.png",
+    "page": "https://www.kimberamerica.com/rimfire-target-conversion-kit-3",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::rimfire compact conversion kit": {
+    "brand": "kimber",
+    "name": "Rimfire Compact Conversion Kit",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/4/0/4000119_rimfire_target_conversion_kit_669278401195_angle_1.png",
+    "page": "https://www.kimberamerica.com/rimfire-compact-conversion-kit",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::classic select grade": {
+    "brand": "kimber",
+    "name": "Classic Select Grade",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/c/l/classic-select-grade.png",
+    "page": "https://www.kimberamerica.com/classic-select-grade",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::superamerica": {
+    "brand": "kimber",
+    "name": "SuperAmerica",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/s/u/super-america_2.png",
+    "page": "https://www.kimberamerica.com/superamerica",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::varmint": {
+    "brand": "kimber",
+    "name": "Varmint",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/v/a/varmint.png",
+    "page": "https://www.kimberamerica.com/varmint",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::caprivi": {
+    "brand": "kimber",
+    "name": "Caprivi",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/c/a/caprivi.png",
+    "page": "https://www.kimberamerica.com/caprivi",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::pro varmint": {
+    "brand": "kimber",
+    "name": "Pro Varmint",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/p/r/provarmint.png",
+    "page": "https://www.kimberamerica.com/provarmint",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::tactical custom ii": {
+    "brand": "kimber",
+    "name": "Tactical Custom II",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/t/a/tactical-custom-ii-thumb_1.png",
+    "page": "https://www.kimberamerica.com/tactical-custom-ii",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::tactical custom hd ii": {
+    "brand": "kimber",
+    "name": "Tactical Custom HD II",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/t/a/tactical-custom-hd-ii_1.png",
+    "page": "https://www.kimberamerica.com/tactical-custom-hd-ii",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::tactical entry ii": {
+    "brand": "kimber",
+    "name": "Tactical Entry II",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/t/a/tactical-entry-ii_1.png",
+    "page": "https://www.kimberamerica.com/tactical-entry-ii",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::tactical pro ii": {
+    "brand": "kimber",
+    "name": "Tactical Pro II",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/t/a/tactical-pro-ii_2.png",
+    "page": "https://www.kimberamerica.com/tactical-pro-ii",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::eclipse custom": {
+    "brand": "kimber",
+    "name": "Eclipse Custom",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/e/c/eclipsecustom_catprofile.png",
+    "page": "https://www.kimberamerica.com/eclipse-custom-ii-lg",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::eclipse target": {
+    "brand": "kimber",
+    "name": "Eclipse Target",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/e/c/eclipse_target_532x495.png",
+    "page": "https://www.kimberamerica.com/eclipse-target-ii",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::custom ii walnut": {
+    "brand": "kimber",
+    "name": "Custom II Walnut",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/c/u/custom_ii_walnut_532x495_1.png",
+    "page": "https://www.kimberamerica.com/custom-ii-walnut",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::stainless ii (texas edition)": {
+    "brand": "kimber",
+    "name": "Stainless II (Texas Edition)",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/s/t/stainless_ii_texas_532x495_1.png",
+    "page": "https://www.kimberamerica.com/stainless-ii-texas-edition",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::desert warrior (tfs)": {
+    "brand": "kimber",
+    "name": "Desert Warrior (TFS)",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/d/e/desertwarriortfs_catprofile_1.png",
+    "page": "https://www.kimberamerica.com/desert-warrior-tfs-45acp",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::desert warrior": {
+    "brand": "kimber",
+    "name": "Desert Warrior",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/d/e/desertwarrior_catprofile_1.png",
+    "page": "https://www.kimberamerica.com/desert-warrior",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::custom tle/rl ii": {
+    "brand": "kimber",
+    "name": "Custom TLE/RL II",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/3/2/3200336_customtlerlii_catprofile_503x505.png",
+    "page": "https://www.kimberamerica.com/custom-tle-rl-ii",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::stainless tle ii": {
+    "brand": "kimber",
+    "name": "Stainless TLE II",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/s/t/stainlesstleii_catprofile_503x505.png",
+    "page": "https://www.kimberamerica.com/stainless-tle-ii",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::stainless tle/rl ii": {
+    "brand": "kimber",
+    "name": "Stainless TLE/RL II",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/s/t/stainless_tle_rl_ii_2016__532x495.png",
+    "page": "https://www.kimberamerica.com/stainless-tle-rl-ii",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::gold combat ii (limited edition)": {
+    "brand": "kimber",
+    "name": "Gold Combat II (Limited Edition)",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/g/o/gold-combat-orig_1.png",
+    "page": "https://www.kimberamerica.com/gold-combat-ii-limited",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::sapphire ultra ii": {
+    "brand": "kimber",
+    "name": "Sapphire Ultra II",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/s/a/sapphire-ultra-ii_2_1.png",
+    "page": "https://www.kimberamerica.com/sapphire-ultra-ii",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::stainless ultra carry ii": {
+    "brand": "kimber",
+    "name": "Stainless Ultra Carry II",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/s/t/stainlessultracarryii_catprofile.png",
+    "page": "https://www.kimberamerica.com/stainless-ultra-carry-ii",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::micro bel air (ns)": {
+    "brand": "kimber",
+    "name": "Micro Bel Air (NS)",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/3/3/3300210_micro_belair_catprofile.png",
+    "page": "https://www.kimberamerica.com/micro-belair",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::micro carry": {
+    "brand": "kimber",
+    "name": "Micro Carry",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/m/i/micro-carry_1.png",
+    "page": "https://www.kimberamerica.com/micro-carry",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::micro crimson carry (ns)": {
+    "brand": "kimber",
+    "name": "Micro Crimson Carry (NS)",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/m/i/micro_cc_ex_532x495.png",
+    "page": "https://www.kimberamerica.com/micro-crimson-carry",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::micro raptor stainless": {
+    "brand": "kimber",
+    "name": "Micro Raptor Stainless",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/m/i/micro_raptorsts_catprofile.png",
+    "page": "https://www.kimberamerica.com/micro-raptor-stainless",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::micro raptor": {
+    "brand": "kimber",
+    "name": "Micro Raptor",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/m/i/micro_raptor_catprofile.png",
+    "page": "https://www.kimberamerica.com/micro-raptor",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::micro sapphire": {
+    "brand": "kimber",
+    "name": "Micro Sapphire",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/m/i/micro_sapphire_catprofile.png",
+    "page": "https://www.kimberamerica.com/micro-sapphire",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::raptor ii": {
+    "brand": "kimber",
+    "name": "Raptor II",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/r/a/raptor-ii_1.png",
+    "page": "https://www.kimberamerica.com/raptor-ii-45acp",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::pro raptor ii": {
+    "brand": "kimber",
+    "name": "Pro Raptor II",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/p/r/pro-raptor-ii_1.png",
+    "page": "https://www.kimberamerica.com/pro-raptor-ii-45acp",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::ultra raptor ii": {
+    "brand": "kimber",
+    "name": "Ultra Raptor II",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/u/l/ultra_raptorii_catprofile.png",
+    "page": "https://www.kimberamerica.com/ultra-raptor-ii-45acp",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::stainless raptor ii": {
+    "brand": "kimber",
+    "name": "Stainless Raptor II",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/s/t/stainless-raptor-ii_1.png",
+    "page": "https://www.kimberamerica.com/stainless-raptor-ii-45acp",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::stainless pro raptor ii": {
+    "brand": "kimber",
+    "name": "Stainless Pro Raptor II",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/s/t/stainless_pro_raptor_ii_503x505.png",
+    "page": "https://www.kimberamerica.com/stainless-pro-raptor-ii-45acp",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::stainless ultra raptor ii": {
+    "brand": "kimber",
+    "name": "Stainless Ultra Raptor II",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/s/t/stsultraraptor_catprofile.png",
+    "page": "https://www.kimberamerica.com/stainless-ultra-raptor-ii-45acp",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::custom covert": {
+    "brand": "kimber",
+    "name": "Custom Covert",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/c/u/customcovert_catprofile_1.png",
+    "page": "https://www.kimberamerica.com/custom-covert-ii",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::pro covert": {
+    "brand": "kimber",
+    "name": "Pro Covert",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/p/r/procovert_catprofile.png",
+    "page": "https://www.kimberamerica.com/pro-covert-ii",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::ultra covert": {
+    "brand": "kimber",
+    "name": "Ultra Covert",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/u/l/ultra_covert_catprofile.png",
+    "page": "https://www.kimberamerica.com/ultra-covert-ii",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::super match ii": {
+    "brand": "kimber",
+    "name": "Super Match II",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/s/u/super_match_ii_2016__532x495.png",
+    "page": "https://www.kimberamerica.com/super-match-ii",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::master carry custom": {
+    "brand": "kimber",
+    "name": "Master Carry Custom",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/m/a/master-carry-custom_1.png",
+    "page": "https://www.kimberamerica.com/master-carry-custom",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::master carry ultra": {
+    "brand": "kimber",
+    "name": "Master Carry Ultra",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/m/a/master-carry-ultra_1.png",
+    "page": "https://www.kimberamerica.com/master-carry-ultra",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::stainless pro carry ii": {
+    "brand": "kimber",
+    "name": "Stainless Pro Carry II",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/s/t/stainless_pro_carry_ii_-_503x505_1_1.png",
+    "page": "https://www.kimberamerica.com/stainless-pro-carry-ii",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::custom crimson carry ii": {
+    "brand": "kimber",
+    "name": "Custom Crimson Carry II",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/c/u/custom-crimson-carry-ii_1.png",
+    "page": "https://www.kimberamerica.com/custom-crimson-carry-ii",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::pro crimson carry ii": {
+    "brand": "kimber",
+    "name": "Pro Crimson Carry II",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/p/r/pro-crimson-carry-ii_1.png",
+    "page": "https://www.kimberamerica.com/pro-crimson-carry-ii",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::ultra crimson carry ii": {
+    "brand": "kimber",
+    "name": "Ultra Crimson Carry II",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/u/l/ultra-crimson-carry-ii_1.png",
+    "page": "https://www.kimberamerica.com/ultra-crimson-carry-ii",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::custom cdp": {
+    "brand": "kimber",
+    "name": "Custom CDP",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/c/u/customcdp_catprofile.png",
+    "page": "https://www.kimberamerica.com/custom-cdp-ii",
+    "domain": "www.kimberamerica.com"
+  },
+  "kimber::pro cdp": {
+    "brand": "kimber",
+    "name": "Pro CDP",
+    "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/p/r/procdp_catprofile.png",
+    "page": "https://www.kimberamerica.com/pro-cdp",
+    "domain": "www.kimberamerica.com"
   }
 }
