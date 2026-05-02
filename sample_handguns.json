@@ -1,6 +1,61 @@
 [
   {
     "brand": "Springfield Armory",
+    "model": "EC9409BCA-PAC Echelon 9mm 4.0C Comp CA PAC*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Wilson Combat",
+    "model": "2EDCX-CPR-9-CA*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4 IN",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "940 Carry 9mm - 14295",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "2.125\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Springfield Armory",
+    "model": "HCP9379BOSPCACOMPPAC*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "3.7\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "FN America",
+    "model": "502 CA MRD (FDE)",
+    "caliber": ".22 LR",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Springfield Armory",
     "model": "EC9409BFCCA-PAC: Echelon 9mm 4.0FC Blk CA PAC*",
     "caliber": "9mm",
     "type": "",
@@ -99,58 +154,14 @@
     "roster_id": null
   },
   {
-    "brand": "Springfield Armory",
-    "model": "EC9409BCA-PAC Echelon 9mm 4.0C Comp CA PAC*",
+    "brand": "Heckler & Koch",
+    "model": "VP9X Bear*",
     "caliber": "9mm",
     "type": "",
-    "barrel": "4\"",
+    "barrel": "4.09in",
     "finish": "",
     "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Wilson Combat",
-    "model": "2EDCX-CPR-9-CA*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4 IN",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "940 Carry 9mm - 14295",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "2.125\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
-    "model": "HCP9379BOSPCACOMPPAC*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "3.7\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "FN America",
-    "model": "502 CA MRD (FDE)",
-    "caliber": ".22 LR",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
+    "date_added": "04/14/2026",
     "roster_id": null
   },
   {
@@ -165,14 +176,14 @@
     "roster_id": null
   },
   {
-    "brand": "Heckler & Koch",
-    "model": "VP9X Bear*",
-    "caliber": "9mm",
+    "brand": "Beretta",
+    "model": "J92M9A0CA M9 Commerical (Cerakote)",
+    "caliber": "9MM",
     "type": "",
-    "barrel": "4.09in",
+    "barrel": "4.9\"",
     "finish": "",
     "notes": "",
-    "date_added": "04/14/2026",
+    "date_added": "03/27/2026",
     "roster_id": null
   },
   {
@@ -209,14 +220,25 @@
     "roster_id": null
   },
   {
-    "brand": "Beretta",
-    "model": "J92M9A0CA M9 Commerical (Cerakote)",
-    "caliber": "9MM",
+    "brand": "Smith & Wesson",
+    "model": "632 UC RUBBER GRIP SKU 14287",
+    "caliber": ".32 H&R MAG",
     "type": "",
-    "barrel": "4.9\"",
+    "barrel": "1.875\"",
     "finish": "",
     "notes": "",
-    "date_added": "03/27/2026",
+    "date_added": "03/18/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "442 UC RUBBER GRIP SKU 14286",
+    "caliber": ".38 S&W SPL. + P",
+    "type": "",
+    "barrel": "1.875\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "03/18/2026",
     "roster_id": null
   },
   {
@@ -264,28 +286,6 @@
     "roster_id": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "632 UC RUBBER GRIP SKU 14287",
-    "caliber": ".32 H&R MAG",
-    "type": "",
-    "barrel": "1.875\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/18/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "442 UC RUBBER GRIP SKU 14286",
-    "caliber": ".38 S&W SPL. + P",
-    "type": "",
-    "barrel": "1.875\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/18/2026",
-    "roster_id": null
-  },
-  {
     "brand": "Shark Coast Customs / SIG",
     "model": "SCC Cal1*",
     "caliber": "9mm",
@@ -294,6 +294,17 @@
     "finish": "",
     "notes": "",
     "date_added": "03/13/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Diamondback Firearms",
+    "model": "DB075AS701",
+    "caliber": ".357 Magnum",
+    "type": "",
+    "barrel": "2\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "03/06/2026",
     "roster_id": null
   },
   {
@@ -319,14 +330,25 @@
     "roster_id": null
   },
   {
-    "brand": "Diamondback Firearms",
-    "model": "DB075AS701",
-    "caliber": ".357 Magnum",
+    "brand": "Magnum Research",
+    "model": "DE44CAPC (POLISHED CHROME) (Made in USA)",
+    "caliber": ".44 Magnum",
     "type": "",
-    "barrel": "2\"",
+    "barrel": "6\"",
     "finish": "",
     "notes": "",
-    "date_added": "03/06/2026",
+    "date_added": "02/25/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Magnum Research",
+    "model": "DE44CAG (ZIRCONIUM NITRIDE GOLD) (Made in USA)",
+    "caliber": ".44 Magnum",
+    "type": "",
+    "barrel": "6\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "02/25/2026",
     "roster_id": null
   },
   {
@@ -363,25 +385,25 @@
     "roster_id": null
   },
   {
-    "brand": "Magnum Research",
-    "model": "DE44CAPC (POLISHED CHROME) (Made in USA)",
-    "caliber": ".44 Magnum",
+    "brand": "Smith & Wesson",
+    "model": "632 - UC TI 32H&R -14350",
+    "caliber": "32 H&R",
     "type": "",
-    "barrel": "6\"",
+    "barrel": "1.875\"",
     "finish": "",
     "notes": "",
-    "date_added": "02/25/2026",
+    "date_added": "02/20/2026",
     "roster_id": null
   },
   {
-    "brand": "Magnum Research",
-    "model": "DE44CAG (ZIRCONIUM NITRIDE GOLD) (Made in USA)",
-    "caliber": ".44 Magnum",
+    "brand": "Smith & Wesson",
+    "model": "940 Davidson's Exclusive 9MM - 14328",
+    "caliber": "9mm",
     "type": "",
-    "barrel": "6\"",
+    "barrel": "2.125\"",
     "finish": "",
     "notes": "",
-    "date_added": "02/25/2026",
+    "date_added": "02/20/2026",
     "roster_id": null
   },
   {
@@ -434,28 +456,6 @@
     "caliber": "10 mm",
     "type": "",
     "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/20/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "632 - UC TI 32H&R -14350",
-    "caliber": "32 H&R",
-    "type": "",
-    "barrel": "1.875\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/20/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "940 Davidson's Exclusive 9MM - 14328",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "2.125\"",
     "finish": "",
     "notes": "",
     "date_added": "02/20/2026",
