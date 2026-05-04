@@ -1,82 +1,5 @@
 [
   {
-    "brand": "FN America",
-    "model": "502 CA MRD (FDE)",
-    "caliber": ".22 LR",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
-    "model": "EC9409BFCCA-PAC: Echelon 9mm 4.0FC Blk CA PAC*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Rost Martin",
-    "model": "RM1FBLKOSP10CA*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "4.5\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
-    "model": "ECA9409BCA*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4 INCH",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Biofire",
-    "model": "Smart Gun* (Black)",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "119mm",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Sig Sauer",
-    "model": "365AXG-380-COMP-LUXE-MS-CA*",
-    "caliber": ".380",
-    "type": "",
-    "barrel": "3.1\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "M&P 10mm 2.0 5.6IN OR 10RD - 14504*",
-    "caliber": "10mm",
-    "type": "",
-    "barrel": "5.625\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
     "brand": "Springfield Armory",
     "model": "EC9459BCA-COMP-PAC Echelon 9mm 4.5f Comp Blk CA PAC*",
     "caliber": "9mm",
@@ -154,6 +77,83 @@
     "roster_id": null
   },
   {
+    "brand": "FN America",
+    "model": "502 CA MRD (FDE)",
+    "caliber": ".22 LR",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Springfield Armory",
+    "model": "EC9409BFCCA-PAC: Echelon 9mm 4.0FC Blk CA PAC*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Rost Martin",
+    "model": "RM1FBLKOSP10CA*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "4.5\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Springfield Armory",
+    "model": "ECA9409BCA*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4 INCH",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Biofire",
+    "model": "Smart Gun* (Black)",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "119mm",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Sig Sauer",
+    "model": "365AXG-380-COMP-LUXE-MS-CA*",
+    "caliber": ".380",
+    "type": "",
+    "barrel": "3.1\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "M&P 10mm 2.0 5.6IN OR 10RD - 14504*",
+    "caliber": "10mm",
+    "type": "",
+    "barrel": "5.625\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
     "brand": "Heckler & Koch",
     "model": "VP9X Bear*",
     "caliber": "9mm",
@@ -173,28 +173,6 @@
     "finish": "",
     "notes": "",
     "date_added": "04/14/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Beretta",
-    "model": "J92F700CA 92FS Brigadier (Cerakote)",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.92\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/27/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Beretta",
-    "model": "JS92M9A1CA 92FS TYPE M9A1 (CERAKOTE)",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "5\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/27/2026",
     "roster_id": null
   },
   {
@@ -220,36 +198,25 @@
     "roster_id": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "432 UC RUBBER GRIP SKU 14288",
-    "caliber": ".32 H&R MAG",
+    "brand": "Beretta",
+    "model": "J92F700CA 92FS Brigadier (Cerakote)",
+    "caliber": "9MM",
     "type": "",
-    "barrel": "1.875\"",
+    "barrel": "4.92\"",
     "finish": "",
     "notes": "",
-    "date_added": "03/18/2026",
+    "date_added": "03/27/2026",
     "roster_id": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "Bodyguard 2.0 TS CA - 14420*",
-    "caliber": "380 Auto",
+    "brand": "Beretta",
+    "model": "JS92M9A1CA 92FS TYPE M9A1 (CERAKOTE)",
+    "caliber": "9MM",
     "type": "",
-    "barrel": "2.75\"",
+    "barrel": "5\"",
     "finish": "",
     "notes": "",
-    "date_added": "03/18/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "PC Bodyguard 2.0 CC TS CA - 14419*",
-    "caliber": "380 auto",
-    "type": "",
-    "barrel": "2.875\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/18/2026",
+    "date_added": "03/27/2026",
     "roster_id": null
   },
   {
@@ -286,6 +253,39 @@
     "roster_id": null
   },
   {
+    "brand": "Smith & Wesson",
+    "model": "432 UC RUBBER GRIP SKU 14288",
+    "caliber": ".32 H&R MAG",
+    "type": "",
+    "barrel": "1.875\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "03/18/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "Bodyguard 2.0 TS CA - 14420*",
+    "caliber": "380 Auto",
+    "type": "",
+    "barrel": "2.75\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "03/18/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "PC Bodyguard 2.0 CC TS CA - 14419*",
+    "caliber": "380 auto",
+    "type": "",
+    "barrel": "2.875\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "03/18/2026",
+    "roster_id": null
+  },
+  {
     "brand": "Shark Coast Customs / SIG",
     "model": "SCC Cal1*",
     "caliber": "9mm",
@@ -294,17 +294,6 @@
     "finish": "",
     "notes": "",
     "date_added": "03/13/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Diamondback Firearms",
-    "model": "DB0700S711",
-    "caliber": ".357 Magnum",
-    "type": "",
-    "barrel": "2\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/06/2026",
     "roster_id": null
   },
   {
@@ -327,6 +316,39 @@
     "finish": "",
     "notes": "",
     "date_added": "03/06/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Diamondback Firearms",
+    "model": "DB0700S711",
+    "caliber": ".357 Magnum",
+    "type": "",
+    "barrel": "2\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "03/06/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Magnum Research",
+    "model": "DE44CABC (BRUSHED CHROME) (Made in USA)",
+    "caliber": ".44 Magnum",
+    "type": "",
+    "barrel": "6\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "02/25/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Magnum Research",
+    "model": "DE44CAPC (POLISHED CHROME) (Made in USA)",
+    "caliber": ".44 Magnum",
+    "type": "",
+    "barrel": "6\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "02/25/2026",
     "roster_id": null
   },
   {
@@ -363,25 +385,36 @@
     "roster_id": null
   },
   {
-    "brand": "Magnum Research",
-    "model": "DE44CABC (BRUSHED CHROME) (Made in USA)",
-    "caliber": ".44 Magnum",
+    "brand": "Smith & Wesson",
+    "model": "610 Mountain Gun NIL - 14042",
+    "caliber": "10 mm",
     "type": "",
-    "barrel": "6\"",
+    "barrel": "4\"",
     "finish": "",
     "notes": "",
-    "date_added": "02/25/2026",
+    "date_added": "02/20/2026",
     "roster_id": null
   },
   {
-    "brand": "Magnum Research",
-    "model": "DE44CAPC (POLISHED CHROME) (Made in USA)",
-    "caliber": ".44 Magnum",
+    "brand": "Smith & Wesson",
+    "model": "632 - UC TI 32H&R -14350",
+    "caliber": "32 H&R",
     "type": "",
-    "barrel": "6\"",
+    "barrel": "1.875\"",
     "finish": "",
     "notes": "",
-    "date_added": "02/25/2026",
+    "date_added": "02/20/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "940 Davidson's Exclusive 9MM - 14328",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "2.125\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "02/20/2026",
     "roster_id": null
   },
   {
@@ -423,39 +456,6 @@
     "caliber": "9mm",
     "type": "",
     "barrel": "3.125\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/20/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "610 Mountain Gun NIL - 14042",
-    "caliber": "10 mm",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/20/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "632 - UC TI 32H&R -14350",
-    "caliber": "32 H&R",
-    "type": "",
-    "barrel": "1.875\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/20/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "940 Davidson's Exclusive 9MM - 14328",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "2.125\"",
     "finish": "",
     "notes": "",
     "date_added": "02/20/2026",
