@@ -30,7 +30,7 @@
   "beretta::beretta - rifles y accesorios para caza y tiro": {
     "brand": "beretta",
     "name": "Beretta - Rifles y Accesorios para Caza y Tiro",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--d3af4178-7a21-44b7-b4b7-0e13b6db3e21/dt11supersport001.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--d3af4178-7a21-44b7-b4b7-0e13b6db3e21/dt11supersport001.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/es-es",
     "domain": "www.beretta.com"
   },
@@ -51,7 +51,7 @@
   "beretta::beretta usa firearms - find a dealer or shop online": {
     "brand": "beretta",
     "name": "Beretta USA Firearms - Find a Dealer or Shop Online",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--12939a31-ad28-456a-9e22-edd5327cd0f1/mothers-day-2026.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--12939a31-ad28-456a-9e22-edd5327cd0f1/mothers-day-2026.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/en-us",
     "domain": "www.beretta.com"
   },
@@ -247,7 +247,7 @@
   "canik::mete mc9": {
     "brand": "canik",
     "name": "METE MC9",
-    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/hg7620-n_mc9_black-1_copy.jpg?v=1774016653",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/METE-MC9-Black-0.png?v=1777921048",
     "page": "https://www.canikusa.com/mete-mc9",
     "domain": "www.canikusa.com"
   },
@@ -719,5 +719,12 @@
     "image": "https://www.kimberamerica.com/pub/media/catalog/product/cache/83a460ad4a5239298ea3e5e87587ba46/p/r/procdp_catprofile.png",
     "page": "https://www.kimberamerica.com/pro-cdp",
     "domain": "www.kimberamerica.com"
+  },
+  "sig sauer::p226 mk25 jack carr": {
+    "brand": "sig sauer",
+    "name": "P226 MK25 JACK CARR",
+    "image": "https://www.sigsauer.com/media/catalog/product/cache/98cff4b26e9262b232060edf742d323e/m/k/mk-25-cw-jc-left_1.jpg",
+    "page": "https://www.sigsauer.com/products/firearms/pistols/",
+    "domain": "www.sigsauer.com"
   }
 }
