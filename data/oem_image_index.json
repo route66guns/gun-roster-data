@@ -30,7 +30,7 @@
   "beretta::beretta - rifles y accesorios para caza y tiro": {
     "brand": "beretta",
     "name": "Beretta - Rifles y Accesorios para Caza y Tiro",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--d3af4178-7a21-44b7-b4b7-0e13b6db3e21/dt11supersport001.jpg?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--d3af4178-7a21-44b7-b4b7-0e13b6db3e21/dt11supersport001.jpg?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/es-es",
     "domain": "www.beretta.com"
   },
@@ -51,7 +51,7 @@
   "beretta::beretta usa firearms - find a dealer or shop online": {
     "brand": "beretta",
     "name": "Beretta USA Firearms - Find a Dealer or Shop Online",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--12939a31-ad28-456a-9e22-edd5327cd0f1/mothers-day-2026.jpg?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--5ed1790a-20f9-4059-a5e2-16e14095ec1c/1920x1027-training-gear.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/en-us",
     "domain": "www.beretta.com"
   },
