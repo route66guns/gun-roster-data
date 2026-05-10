@@ -1,5 +1,18 @@
 [
   {
+    "brand": "Biofire",
+    "model": "Smart Gun* (Black)",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "119mm",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
     "brand": "Sig Sauer",
     "model": "365AXG-380-COMP-LUXE-MS-CA*",
     "caliber": ".380",
@@ -169,19 +182,6 @@
     "image_source": null
   },
   {
-    "brand": "Biofire",
-    "model": "Smart Gun* (Black)",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "119mm",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
     "brand": "Heckler & Koch",
     "model": "VP9X Bear*",
     "caliber": "9mm",
@@ -261,6 +261,19 @@
   },
   {
     "brand": "Smith & Wesson",
+    "model": "PC Bodyguard 2.0 CC TS CA - 14419*",
+    "caliber": "380 auto",
+    "type": "",
+    "barrel": "2.875\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "03/18/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Smith & Wesson",
     "model": "642 UC RUBBER GRIP SKU 14285",
     "caliber": ".38 S&W SPL. + P",
     "type": "",
@@ -317,19 +330,6 @@
     "caliber": "380 Auto",
     "type": "",
     "barrel": "2.75\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/18/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "PC Bodyguard 2.0 CC TS CA - 14419*",
-    "caliber": "380 auto",
-    "type": "",
-    "barrel": "2.875\"",
     "finish": "",
     "notes": "",
     "date_added": "03/18/2026",
@@ -456,6 +456,19 @@
   },
   {
     "brand": "Smith & Wesson",
+    "model": "M&P9 Shield Plus OR CA 10RD - 14280*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "3.125\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "02/20/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Smith & Wesson",
     "model": "610 Mountain Gun NIL - 14042",
     "caliber": "10 mm",
     "type": "",
@@ -525,19 +538,6 @@
     "caliber": ".22 LR",
     "type": "",
     "barrel": "4.125\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/20/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "M&P9 Shield Plus OR CA 10RD - 14280*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "3.125\"",
     "finish": "",
     "notes": "",
     "date_added": "02/20/2026",
