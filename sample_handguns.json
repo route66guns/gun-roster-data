@@ -1,5 +1,16 @@
 [
   {
+    "brand": "Springfield Armory",
+    "model": "ECA9409BCA*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4 INCH",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
     "brand": "Biofire",
     "model": "Smart Gun* (Black)",
     "caliber": "9mm",
@@ -143,14 +154,14 @@
     "roster_id": null
   },
   {
-    "brand": "Springfield Armory",
-    "model": "ECA9409BCA*",
-    "caliber": "9MM",
+    "brand": "Heckler & Koch",
+    "model": "VP9F Bear*",
+    "caliber": "9mm",
     "type": "",
-    "barrel": "4 INCH",
+    "barrel": "4.5in",
     "finish": "",
     "notes": "",
-    "date_added": "04/29/2026",
+    "date_added": "04/14/2026",
     "roster_id": null
   },
   {
@@ -165,14 +176,14 @@
     "roster_id": null
   },
   {
-    "brand": "Heckler & Koch",
-    "model": "VP9F Bear*",
-    "caliber": "9mm",
+    "brand": "Beretta",
+    "model": "J92F700CA 92FS Brigadier (Cerakote)",
+    "caliber": "9MM",
     "type": "",
-    "barrel": "4.5in",
+    "barrel": "4.92\"",
     "finish": "",
     "notes": "",
-    "date_added": "04/14/2026",
+    "date_added": "03/27/2026",
     "roster_id": null
   },
   {
@@ -203,17 +214,6 @@
     "caliber": "9MM",
     "type": "",
     "barrel": "4.9\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/27/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Beretta",
-    "model": "J92F700CA 92FS Brigadier (Cerakote)",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.92\"",
     "finish": "",
     "notes": "",
     "date_added": "03/27/2026",
@@ -331,6 +331,17 @@
   },
   {
     "brand": "Magnum Research",
+    "model": "DE44CABB (BURNT BRONZE) (Made in USA)",
+    "caliber": ".44 Magnum",
+    "type": "",
+    "barrel": "6\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "02/25/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Magnum Research",
     "model": "DE44CATU (TUNGSTEN) (Made in USA)",
     "caliber": ".44 Magnum",
     "type": "",
@@ -374,14 +385,14 @@
     "roster_id": null
   },
   {
-    "brand": "Magnum Research",
-    "model": "DE44CABB (BURNT BRONZE) (Made in USA)",
-    "caliber": ".44 Magnum",
+    "brand": "Smith & Wesson",
+    "model": "617 Mountain Gun NIL -14107",
+    "caliber": ".22 LR",
     "type": "",
-    "barrel": "6\"",
+    "barrel": "4.125\"",
     "finish": "",
     "notes": "",
-    "date_added": "02/25/2026",
+    "date_added": "02/20/2026",
     "roster_id": null
   },
   {
@@ -445,17 +456,6 @@
     "caliber": ".357 Magnum",
     "type": "",
     "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/20/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "617 Mountain Gun NIL -14107",
-    "caliber": ".22 LR",
-    "type": "",
-    "barrel": "4.125\"",
     "finish": "",
     "notes": "",
     "date_added": "02/20/2026",
