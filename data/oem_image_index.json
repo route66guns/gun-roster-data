@@ -23,14 +23,14 @@
   "beretta::beretta - gewehre und zubehör für jagd und schießsport": {
     "brand": "beretta",
     "name": "Beretta - Gewehre und Zubehör für Jagd und Schießsport",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--a831ec76-1253-4e63-bb6c-d876a374cdef/ultraleggerosilver-al-banner-desktop.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--a831ec76-1253-4e63-bb6c-d876a374cdef/ultraleggerosilver-al-banner-desktop.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/de-ch",
     "domain": "www.beretta.com"
   },
   "beretta::beretta - rifles y accesorios para caza y tiro": {
     "brand": "beretta",
     "name": "Beretta - Rifles y Accesorios para Caza y Tiro",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--a831ec76-1253-4e63-bb6c-d876a374cdef/ultraleggerosilver-al-banner-desktop.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--a831ec76-1253-4e63-bb6c-d876a374cdef/ultraleggerosilver-al-banner-desktop.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/es-es",
     "domain": "www.beretta.com"
   },
@@ -51,7 +51,7 @@
   "beretta::beretta usa firearms - find a dealer or shop online": {
     "brand": "beretta",
     "name": "Beretta USA Firearms - Find a Dealer or Shop Online",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--35a7240b-73d0-460e-a312-47d50216951f/250th-v2.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--35a7240b-73d0-460e-a312-47d50216951f/250th-v2.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/en-us",
     "domain": "www.beretta.com"
   },
@@ -268,7 +268,7 @@
   "canik::sfx rival": {
     "brand": "canik",
     "name": "SFx RIVAL",
-    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/rival-dark-side-profile-right.png?v=1774035404",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/HG6815-N-SFx-RIVAL-Dark-Side-0.png?v=1778878456",
     "page": "https://www.canikusa.com/sfx-rival",
     "domain": "www.canikusa.com"
   },
