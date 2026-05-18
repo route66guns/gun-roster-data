@@ -1,16 +1,5 @@
 [
   {
-    "brand": "Sig Sauer",
-    "model": "365AXGCA-9-LEGION-MS-CA*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "3.1\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
     "brand": "Smith & Wesson",
     "model": "940 Carry 9mm - 14295",
     "caliber": "9mm",
@@ -148,6 +137,17 @@
     "caliber": "9mm",
     "type": "",
     "barrel": "4.5",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Sig Sauer",
+    "model": "365AXGCA-9-LEGION-MS-CA*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "3.1\"",
     "finish": "",
     "notes": "",
     "date_added": "04/29/2026",
@@ -298,17 +298,6 @@
   },
   {
     "brand": "Diamondback Firearms",
-    "model": "DB0700S001",
-    "caliber": ".357 Magnum",
-    "type": "",
-    "barrel": "2\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/06/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Diamondback Firearms",
     "model": "DB075AS701",
     "caliber": ".357 Magnum",
     "type": "",
@@ -321,6 +310,17 @@
   {
     "brand": "Diamondback Firearms",
     "model": "DB0700S711",
+    "caliber": ".357 Magnum",
+    "type": "",
+    "barrel": "2\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "03/06/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Diamondback Firearms",
+    "model": "DB0700S001",
     "caliber": ".357 Magnum",
     "type": "",
     "barrel": "2\"",
