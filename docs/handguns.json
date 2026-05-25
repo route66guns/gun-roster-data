@@ -1,5 +1,31 @@
 [
   {
+    "brand": "Rost Martin",
+    "model": "RM1FBLKOSP10CA*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "4.5\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Springfield Armory",
+    "model": "ECA9409BCA*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4 INCH",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
     "brand": "Biofire",
     "model": "Smart Gun* (Black)",
     "caliber": "9mm",
@@ -156,27 +182,14 @@
     "image_source": null
   },
   {
-    "brand": "Rost Martin",
-    "model": "RM1FBLKOSP10CA*",
+    "brand": "Heckler & Koch",
+    "model": "VP9F Bear*",
     "caliber": "9mm",
     "type": "",
-    "barrel": "4.5\"",
+    "barrel": "4.5in",
     "finish": "",
     "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Springfield Armory",
-    "model": "ECA9409BCA*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4 INCH",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
+    "date_added": "04/14/2026",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -195,14 +208,14 @@
     "image_source": null
   },
   {
-    "brand": "Heckler & Koch",
-    "model": "VP9F Bear*",
-    "caliber": "9mm",
+    "brand": "Beretta",
+    "model": "J92F700CA 92FS Brigadier (Cerakote)",
+    "caliber": "9MM",
     "type": "",
-    "barrel": "4.5in",
+    "barrel": "4.92\"",
     "finish": "",
     "notes": "",
-    "date_added": "04/14/2026",
+    "date_added": "03/27/2026",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -247,14 +260,14 @@
     "image_source": null
   },
   {
-    "brand": "Beretta",
-    "model": "J92F700CA 92FS Brigadier (Cerakote)",
-    "caliber": "9MM",
+    "brand": "Smith & Wesson",
+    "model": "Bodyguard 2.0 TS CA - 14420*",
+    "caliber": "380 Auto",
     "type": "",
-    "barrel": "4.92\"",
+    "barrel": "2.75\"",
     "finish": "",
     "notes": "",
-    "date_added": "03/27/2026",
+    "date_added": "03/18/2026",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -325,19 +338,6 @@
     "image_source": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "Bodyguard 2.0 TS CA - 14420*",
-    "caliber": "380 Auto",
-    "type": "",
-    "barrel": "2.75\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/18/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
     "brand": "Shark Coast Customs / SIG",
     "model": "SCC Cal1*",
     "caliber": "9mm",
@@ -391,6 +391,19 @@
   },
   {
     "brand": "Magnum Research",
+    "model": "DE44CABB (BURNT BRONZE) (Made in USA)",
+    "caliber": ".44 Magnum",
+    "type": "",
+    "barrel": "6\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "02/25/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Magnum Research",
     "model": "DE44CATU (TUNGSTEN) (Made in USA)",
     "caliber": ".44 Magnum",
     "type": "",
@@ -431,19 +444,6 @@
   {
     "brand": "Magnum Research",
     "model": "DE44CAG (ZIRCONIUM NITRIDE GOLD) (Made in USA)",
-    "caliber": ".44 Magnum",
-    "type": "",
-    "barrel": "6\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/25/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Magnum Research",
-    "model": "DE44CABB (BURNT BRONZE) (Made in USA)",
     "caliber": ".44 Magnum",
     "type": "",
     "barrel": "6\"",
