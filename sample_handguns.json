@@ -1,5 +1,16 @@
 [
   {
+    "brand": "Springfield Armory",
+    "model": "EC9409BFCCA-PAC: Echelon 9mm 4.0FC Blk CA PAC*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
     "brand": "Rost Martin",
     "model": "RM1FBLKOSP10CA*",
     "caliber": "9mm",
@@ -143,17 +154,6 @@
     "roster_id": null
   },
   {
-    "brand": "Springfield Armory",
-    "model": "EC9409BFCCA-PAC: Echelon 9mm 4.0FC Blk CA PAC*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
     "brand": "Heckler & Koch",
     "model": "VP9F Bear*",
     "caliber": "9mm",
@@ -221,6 +221,17 @@
   },
   {
     "brand": "Smith & Wesson",
+    "model": "432 UC RUBBER GRIP SKU 14288",
+    "caliber": ".32 H&R MAG",
+    "type": "",
+    "barrel": "1.875\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "03/18/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
     "model": "Bodyguard 2.0 TS CA - 14420*",
     "caliber": "380 Auto",
     "type": "",
@@ -275,17 +286,6 @@
     "roster_id": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "432 UC RUBBER GRIP SKU 14288",
-    "caliber": ".32 H&R MAG",
-    "type": "",
-    "barrel": "1.875\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/18/2026",
-    "roster_id": null
-  },
-  {
     "brand": "Shark Coast Customs / SIG",
     "model": "SCC Cal1*",
     "caliber": "9mm",
@@ -327,61 +327,6 @@
     "finish": "",
     "notes": "",
     "date_added": "03/06/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Magnum Research",
-    "model": "DE44CABB (BURNT BRONZE) (Made in USA)",
-    "caliber": ".44 Magnum",
-    "type": "",
-    "barrel": "6\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/25/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Magnum Research",
-    "model": "DE44CATU (TUNGSTEN) (Made in USA)",
-    "caliber": ".44 Magnum",
-    "type": "",
-    "barrel": "6\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/25/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Magnum Research",
-    "model": "DE44CABC (BRUSHED CHROME) (Made in USA)",
-    "caliber": ".44 Magnum",
-    "type": "",
-    "barrel": "6\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/25/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Magnum Research",
-    "model": "DE44CAPC (POLISHED CHROME) (Made in USA)",
-    "caliber": ".44 Magnum",
-    "type": "",
-    "barrel": "6\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/25/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Magnum Research",
-    "model": "DE44CAG (ZIRCONIUM NITRIDE GOLD) (Made in USA)",
-    "caliber": ".44 Magnum",
-    "type": "",
-    "barrel": "6\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "02/25/2026",
     "roster_id": null
   }
 ]
