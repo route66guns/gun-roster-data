@@ -1,5 +1,31 @@
 [
   {
+    "brand": "Springfield Armory",
+    "model": "ECA9409BCA*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4 INCH",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Biofire",
+    "model": "Smart Gun* (Black)",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "119mm",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
     "brand": "Sig Sauer",
     "model": "365AXG-380-COMP-LUXE-MS-CA*",
     "caliber": ".380",
@@ -156,27 +182,14 @@
     "image_source": null
   },
   {
-    "brand": "Springfield Armory",
-    "model": "ECA9409BCA*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4 INCH",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Biofire",
-    "model": "Smart Gun* (Black)",
+    "brand": "Heckler & Koch",
+    "model": "VP9F Bear*",
     "caliber": "9mm",
     "type": "",
-    "barrel": "119mm",
+    "barrel": "4.5in",
     "finish": "",
     "notes": "",
-    "date_added": "04/29/2026",
+    "date_added": "04/14/2026",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -195,14 +208,14 @@
     "image_source": null
   },
   {
-    "brand": "Heckler & Koch",
-    "model": "VP9F Bear*",
-    "caliber": "9mm",
+    "brand": "Beretta",
+    "model": "J92F700CA 92FS Brigadier (Cerakote)",
+    "caliber": "9MM",
     "type": "",
-    "barrel": "4.5in",
+    "barrel": "4.92\"",
     "finish": "",
     "notes": "",
-    "date_added": "04/14/2026",
+    "date_added": "03/27/2026",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -247,14 +260,14 @@
     "image_source": null
   },
   {
-    "brand": "Beretta",
-    "model": "J92F700CA 92FS Brigadier (Cerakote)",
-    "caliber": "9MM",
+    "brand": "Smith & Wesson",
+    "model": "PC Bodyguard 2.0 CC TS CA - 14419*",
+    "caliber": "380 auto",
     "type": "",
-    "barrel": "4.92\"",
+    "barrel": "2.875\"",
     "finish": "",
     "notes": "",
-    "date_added": "03/27/2026",
+    "date_added": "03/18/2026",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -325,19 +338,6 @@
     "image_source": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "PC Bodyguard 2.0 CC TS CA - 14419*",
-    "caliber": "380 auto",
-    "type": "",
-    "barrel": "2.875\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/18/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
     "brand": "Shark Coast Customs / SIG",
     "model": "SCC Cal1*",
     "caliber": "9mm",
@@ -346,45 +346,6 @@
     "finish": "",
     "notes": "",
     "date_added": "03/13/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Diamondback Firearms",
-    "model": "DB0700S711",
-    "caliber": ".357 Magnum",
-    "type": "",
-    "barrel": "2\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/06/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Diamondback Firearms",
-    "model": "DB0700S001",
-    "caliber": ".357 Magnum",
-    "type": "",
-    "barrel": "2\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/06/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Diamondback Firearms",
-    "model": "DB075AS701",
-    "caliber": ".357 Magnum",
-    "type": "",
-    "barrel": "2\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/06/2026",
     "roster_id": null,
     "image_local": null,
     "image_source": null
