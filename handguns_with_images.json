@@ -1,5 +1,18 @@
 [
   {
+    "brand": "Rost Martin",
+    "model": "RM1FBLKOSP10CA*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "4.5\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
     "brand": "Springfield Armory",
     "model": "ECA9409BCA*",
     "caliber": "9MM",
@@ -169,19 +182,6 @@
     "image_source": null
   },
   {
-    "brand": "Rost Martin",
-    "model": "RM1FBLKOSP10CA*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "4.5\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
     "brand": "Heckler & Koch",
     "model": "VP9F Bear*",
     "caliber": "9mm",
@@ -261,6 +261,19 @@
   },
   {
     "brand": "Smith & Wesson",
+    "model": "Bodyguard 2.0 TS CA - 14420*",
+    "caliber": "380 Auto",
+    "type": "",
+    "barrel": "2.75\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "03/18/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Smith & Wesson",
     "model": "PC Bodyguard 2.0 CC TS CA - 14419*",
     "caliber": "380 auto",
     "type": "",
@@ -317,19 +330,6 @@
     "caliber": ".32 H&R MAG",
     "type": "",
     "barrel": "1.875\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/18/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "Bodyguard 2.0 TS CA - 14420*",
-    "caliber": "380 Auto",
-    "type": "",
-    "barrel": "2.75\"",
     "finish": "",
     "notes": "",
     "date_added": "03/18/2026",
