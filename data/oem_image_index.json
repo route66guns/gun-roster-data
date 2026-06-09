@@ -16,14 +16,14 @@
   "beretta::beretta - firearms, clothing & accessories for hunting and shooting": {
     "brand": "beretta",
     "name": "Beretta - Firearms, Clothing & Accessories for Hunting and Shooting",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--5a73d432-6758-48b3-b07e-02c65c8aee1c/687500anni-001.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--5a73d432-6758-48b3-b07e-02c65c8aee1c/687500anni-001.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/en-sk",
     "domain": "www.beretta.com"
   },
   "beretta::beretta - gewehre und zubehör für jagd und schießsport": {
     "brand": "beretta",
     "name": "Beretta - Gewehre und Zubehör für Jagd und Schießsport",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--5a73d432-6758-48b3-b07e-02c65c8aee1c/687500anni-001.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--5a73d432-6758-48b3-b07e-02c65c8aee1c/687500anni-001.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/de-ch",
     "domain": "www.beretta.com"
   },
@@ -44,7 +44,7 @@
   "beretta::fabbrica d'armi beretta - fucili e accessori per caccia e tiro a volo": {
     "brand": "beretta",
     "name": "Fabbrica d'armi Beretta - Fucili e accessori per Caccia e Tiro a volo",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--5a73d432-6758-48b3-b07e-02c65c8aee1c/687500anni-001.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--5a73d432-6758-48b3-b07e-02c65c8aee1c/687500anni-001.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/it-ch",
     "domain": "www.beretta.com"
   },
@@ -227,7 +227,7 @@
     "brand": "canik",
     "name": "CANiK | Firearms Collection",
     "image": "https://www.canik.com/canik-og.jpg",
-    "page": "https://www.canikusa.com/venom-lr",
+    "page": "https://www.canikusa.com/mete-mc9-tac",
     "domain": "www.canikusa.com"
   },
   "canik::tti combat": {
@@ -726,5 +726,26 @@
     "image": "https://www.sigsauer.com/media/catalog/product/cache/98cff4b26e9262b232060edf742d323e/m/k/mk-25-cw-jc-left_1.jpg",
     "page": "https://www.sigsauer.com/products/firearms/pistols/",
     "domain": "www.sigsauer.com"
+  },
+  "canik::prime radian": {
+    "brand": "canik",
+    "name": "PRIME RADIAN",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/HG8611-N-PRIME-RADIAN-Black-0.png?v=1778268623",
+    "page": "https://www.canikusa.com/prime-radian",
+    "domain": "www.canikusa.com"
+  },
+  "canik::mete mc9l": {
+    "brand": "canik",
+    "name": "METE MC9L",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/METE-MC9L-Black-0.png?v=1778002813",
+    "page": "https://www.canikusa.com/mete-mc9-l",
+    "domain": "www.canikusa.com"
+  },
+  "canik::venom lr": {
+    "brand": "canik",
+    "name": "VENOM LR",
+    "image": "https://cdn.shopify.com/s/files/1/0711/7760/1185/files/venom-lr-1.jpg?v=1775218799",
+    "page": "https://www.canikusa.com/venom-lr",
+    "domain": "www.canikusa.com"
   }
 }
