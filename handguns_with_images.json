@@ -1,5 +1,31 @@
 [
   {
+    "brand": "Sig Sauer",
+    "model": "365AXGCA-9-LEGION-MS-CA*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "3.1\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "940 Carry 9mm - 14295",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "2.125\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
     "brand": "Springfield Armory",
     "model": "EC9409BCA-PAC Echelon 9mm 4.0C Comp CA PAC*",
     "caliber": "9mm",
@@ -156,32 +182,6 @@
     "image_source": null
   },
   {
-    "brand": "Sig Sauer",
-    "model": "365AXGCA-9-LEGION-MS-CA*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "3.1\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "940 Carry 9mm - 14295",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "2.125\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
     "brand": "Heckler & Koch",
     "model": "VP9X Bear*",
     "caliber": "9mm",
@@ -203,6 +203,19 @@
     "finish": "",
     "notes": "",
     "date_added": "04/14/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Beretta",
+    "model": "J92F300CA 92FS (Cerakote)",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4.9\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "03/27/2026",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -239,19 +252,6 @@
     "caliber": "9MM",
     "type": "",
     "barrel": "5\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/27/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Beretta",
-    "model": "J92F300CA 92FS (Cerakote)",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.9\"",
     "finish": "",
     "notes": "",
     "date_added": "03/27/2026",
