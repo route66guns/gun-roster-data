@@ -1,6 +1,17 @@
 [
   {
     "brand": "Walther",
+    "model": "PDP 4.5\" Full Size* Alloy FDE",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4.5\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "06/10/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Walther",
     "model": "PDP 4.5\" Full size* Alloy OD Green",
     "caliber": "9MM",
     "type": "",
@@ -33,14 +44,47 @@
     "roster_id": null
   },
   {
-    "brand": "Walther",
-    "model": "PDP 4.5\" Full Size* Alloy FDE",
-    "caliber": "9MM",
+    "brand": "Biofire",
+    "model": "Smart Gun* (Black)",
+    "caliber": "9mm",
     "type": "",
-    "barrel": "4.5\"",
+    "barrel": "119mm",
     "finish": "",
     "notes": "",
-    "date_added": "06/10/2026",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Sig Sauer",
+    "model": "365AXG-380-COMP-LUXE-MS-CA*",
+    "caliber": ".380",
+    "type": "",
+    "barrel": "3.1\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "M&P 10mm 2.0 5.6IN OR 10RD - 14504*",
+    "caliber": "10mm",
+    "type": "",
+    "barrel": "5.625\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Springfield Armory",
+    "model": "EC9459BCA-COMP-PAC Echelon 9mm 4.5f Comp Blk CA PAC*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "4.5",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
     "roster_id": null
   },
   {
@@ -154,50 +198,6 @@
     "roster_id": null
   },
   {
-    "brand": "Biofire",
-    "model": "Smart Gun* (Black)",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "119mm",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Sig Sauer",
-    "model": "365AXG-380-COMP-LUXE-MS-CA*",
-    "caliber": ".380",
-    "type": "",
-    "barrel": "3.1\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "M&P 10mm 2.0 5.6IN OR 10RD - 14504*",
-    "caliber": "10mm",
-    "type": "",
-    "barrel": "5.625\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
-    "model": "EC9459BCA-COMP-PAC Echelon 9mm 4.5f Comp Blk CA PAC*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "4.5",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
     "brand": "Heckler & Koch",
     "model": "VP9X Bear*",
     "caliber": "9mm",
@@ -217,6 +217,17 @@
     "finish": "",
     "notes": "",
     "date_added": "04/14/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Beretta",
+    "model": "JS92M9A1CA 92FS TYPE M9A1 (CERAKOTE)",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "5\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "03/27/2026",
     "roster_id": null
   },
   {
@@ -253,14 +264,25 @@
     "roster_id": null
   },
   {
-    "brand": "Beretta",
-    "model": "JS92M9A1CA 92FS TYPE M9A1 (CERAKOTE)",
-    "caliber": "9MM",
+    "brand": "Smith & Wesson",
+    "model": "PC Bodyguard 2.0 CC TS CA - 14419*",
+    "caliber": "380 auto",
     "type": "",
-    "barrel": "5\"",
+    "barrel": "2.875\"",
     "finish": "",
     "notes": "",
-    "date_added": "03/27/2026",
+    "date_added": "03/18/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "642 UC RUBBER GRIP SKU 14285",
+    "caliber": ".38 S&W SPL. + P",
+    "type": "",
+    "barrel": "1.875\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "03/18/2026",
     "roster_id": null
   },
   {
@@ -302,28 +324,6 @@
     "caliber": "380 Auto",
     "type": "",
     "barrel": "2.75\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/18/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "PC Bodyguard 2.0 CC TS CA - 14419*",
-    "caliber": "380 auto",
-    "type": "",
-    "barrel": "2.875\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/18/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "642 UC RUBBER GRIP SKU 14285",
-    "caliber": ".38 S&W SPL. + P",
-    "type": "",
-    "barrel": "1.875\"",
     "finish": "",
     "notes": "",
     "date_added": "03/18/2026",
