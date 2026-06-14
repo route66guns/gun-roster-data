@@ -1,6 +1,17 @@
 [
   {
     "brand": "Walther",
+    "model": "PDP 4.5\" Full Size* Alloy Gray",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4.5\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "06/10/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Walther",
     "model": "PDP 4.5\" Full Size* Alloy FDE",
     "caliber": "9MM",
     "type": "",
@@ -33,14 +44,14 @@
     "roster_id": null
   },
   {
-    "brand": "Walther",
-    "model": "PDP 4.5\" Full Size* Alloy Gray",
+    "brand": "Springfield Armory",
+    "model": "ECA9409BCA*",
     "caliber": "9MM",
     "type": "",
-    "barrel": "4.5\"",
+    "barrel": "4 INCH",
     "finish": "",
     "notes": "",
-    "date_added": "06/10/2026",
+    "date_added": "04/29/2026",
     "roster_id": null
   },
   {
@@ -187,14 +198,14 @@
     "roster_id": null
   },
   {
-    "brand": "Springfield Armory",
-    "model": "ECA9409BCA*",
-    "caliber": "9MM",
+    "brand": "Heckler & Koch",
+    "model": "VP9F Bear*",
+    "caliber": "9mm",
     "type": "",
-    "barrel": "4 INCH",
+    "barrel": "4.5in",
     "finish": "",
     "notes": "",
-    "date_added": "04/29/2026",
+    "date_added": "04/14/2026",
     "roster_id": null
   },
   {
@@ -209,14 +220,14 @@
     "roster_id": null
   },
   {
-    "brand": "Heckler & Koch",
-    "model": "VP9F Bear*",
-    "caliber": "9mm",
+    "brand": "Beretta",
+    "model": "J92F700CA 92FS Brigadier (Cerakote)",
+    "caliber": "9MM",
     "type": "",
-    "barrel": "4.5in",
+    "barrel": "4.92\"",
     "finish": "",
     "notes": "",
-    "date_added": "04/14/2026",
+    "date_added": "03/27/2026",
     "roster_id": null
   },
   {
@@ -247,17 +258,6 @@
     "caliber": "9MM",
     "type": "",
     "barrel": "4.9\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "03/27/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Beretta",
-    "model": "J92F700CA 92FS Brigadier (Cerakote)",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.92\"",
     "finish": "",
     "notes": "",
     "date_added": "03/27/2026",
