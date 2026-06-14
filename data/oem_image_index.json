@@ -37,7 +37,7 @@
   "beretta::beretta - fusils et accessoires pour la chasse & le tir": {
     "brand": "beretta",
     "name": "Beretta - Fusils et Accessoires pour la Chasse & le Tir",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b9253f7b-93bf-4474-b149-63d8ba8eacd4/oakleybanner-desktop.jpg?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b9253f7b-93bf-4474-b149-63d8ba8eacd4/oakleybanner-desktop.jpg?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/fr-ch",
     "domain": "www.beretta.com"
   },
@@ -746,6 +746,13 @@
     "name": "VENOM LR",
     "image": "https://cdn.shopify.com/s/files/1/0711/7760/1185/files/venom-lr-1.jpg?v=1775218799",
     "page": "https://www.canikusa.com/venom-lr",
+    "domain": "www.canikusa.com"
+  },
+  "canik::canik â superior firearms": {
+    "brand": "canik",
+    "name": "CANiK â Superior Firearms",
+    "image": "https://www.canik.com/canik-og.jpg",
+    "page": "https://www.canikusa.com/mete-sc",
     "domain": "www.canikusa.com"
   }
 }
