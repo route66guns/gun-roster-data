@@ -23,7 +23,7 @@
   "beretta::beretta - gewehre und zubehör für jagd und schießsport": {
     "brand": "beretta",
     "name": "Beretta - Gewehre und Zubehör für Jagd und Schießsport",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b9253f7b-93bf-4474-b149-63d8ba8eacd4/oakleybanner-desktop.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b9253f7b-93bf-4474-b149-63d8ba8eacd4/oakleybanner-desktop.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/de-ch",
     "domain": "www.beretta.com"
   },
@@ -37,7 +37,7 @@
   "beretta::beretta - fusils et accessoires pour la chasse & le tir": {
     "brand": "beretta",
     "name": "Beretta - Fusils et Accessoires pour la Chasse & le Tir",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b9253f7b-93bf-4474-b149-63d8ba8eacd4/oakleybanner-desktop.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b9253f7b-93bf-4474-b149-63d8ba8eacd4/oakleybanner-desktop.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/fr-ch",
     "domain": "www.beretta.com"
   },
@@ -51,7 +51,7 @@
   "beretta::beretta usa firearms - find a dealer or shop online": {
     "brand": "beretta",
     "name": "Beretta USA Firearms - Find a Dealer or Shop Online",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--fb04071e-b0da-4eb6-986e-8b1cff471b75/oakley.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--fb04071e-b0da-4eb6-986e-8b1cff471b75/oakley.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/en-us",
     "domain": "www.beretta.com"
   },
@@ -730,7 +730,7 @@
   "canik::prime radian": {
     "brand": "canik",
     "name": "PRIME RADIAN",
-    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/HG8611-N-PRIME-RADIAN-Black-0.png?v=1778268623",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/HG8611-N-PRIME-RADIAN-Black-0_accc4c5f-ecf8-435f-81f4-c2082e07aed4.png?v=1781558130",
     "page": "https://www.canikusa.com/prime-radian",
     "domain": "www.canikusa.com"
   },
