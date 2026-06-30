@@ -23,28 +23,28 @@
   "beretta::beretta - gewehre und zubehör für jagd und schießsport": {
     "brand": "beretta",
     "name": "Beretta - Gewehre und Zubehör für Jagd und Schießsport",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--55576588-264d-450e-9ed5-0224941a8e99/sl3banner.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--55576588-264d-450e-9ed5-0224941a8e99/sl3banner.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/de-ch",
     "domain": "www.beretta.com"
   },
   "beretta::beretta - rifles y accesorios para caza y tiro": {
     "brand": "beretta",
     "name": "Beretta - Rifles y Accesorios para Caza y Tiro",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--55576588-264d-450e-9ed5-0224941a8e99/sl3banner.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--55576588-264d-450e-9ed5-0224941a8e99/sl3banner.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/es-es",
     "domain": "www.beretta.com"
   },
   "beretta::beretta - fusils et accessoires pour la chasse & le tir": {
     "brand": "beretta",
     "name": "Beretta - Fusils et Accessoires pour la Chasse & le Tir",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--55576588-264d-450e-9ed5-0224941a8e99/sl3banner.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--55576588-264d-450e-9ed5-0224941a8e99/sl3banner.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/fr-ch",
     "domain": "www.beretta.com"
   },
   "beretta::fabbrica d'armi beretta - fucili e accessori per caccia e tiro a volo": {
     "brand": "beretta",
     "name": "Fabbrica d'armi Beretta - Fucili e accessori per Caccia e Tiro a volo",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--55576588-264d-450e-9ed5-0224941a8e99/sl3banner.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--55576588-264d-450e-9ed5-0224941a8e99/sl3banner.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/it-ch",
     "domain": "www.beretta.com"
   },
@@ -253,7 +253,7 @@
   },
   "canik::tp9 sfx": {
     "brand": "canik",
-    "name": "TP9 SFX",
+    "name": "TP9 SFx",
     "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/hg3774g-n_r_1.png?v=1772836824",
     "page": "https://www.canikusa.com/tp9sfx",
     "domain": "www.canikusa.com"
