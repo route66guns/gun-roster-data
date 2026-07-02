@@ -1,7 +1,7 @@
 [
   {
     "brand": "KelTec",
-    "model": "P15 TAN (P15TAN)*",
+    "model": "P15 Green (P15GRN)*",
     "caliber": "9mm",
     "type": "",
     "barrel": "4\"",
@@ -12,13 +12,24 @@
   },
   {
     "brand": "KelTec",
-    "model": "P15 Green (P15GRN)*",
+    "model": "P15 TAN (P15TAN)*",
     "caliber": "9mm",
     "type": "",
     "barrel": "4\"",
     "finish": "",
     "notes": "",
     "date_added": "06/26/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Walther",
+    "model": "PDP 4.0\" Compact* Alloy Gray",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "06/10/2026",
     "roster_id": null
   },
   {
@@ -55,14 +66,25 @@
     "roster_id": null
   },
   {
-    "brand": "Walther",
-    "model": "PDP 4.0\" Compact* Alloy Gray",
-    "caliber": "9MM",
+    "brand": "FN America",
+    "model": "502 CA MRD (FDE)",
+    "caliber": ".22 LR",
     "type": "",
     "barrel": "4\"",
     "finish": "",
     "notes": "",
-    "date_added": "06/10/2026",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Springfield Armory",
+    "model": "EC9409BFCCA-PAC: Echelon 9mm 4.0FC Blk CA PAC*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
     "roster_id": null
   },
   {
@@ -198,25 +220,14 @@
     "roster_id": null
   },
   {
-    "brand": "FN America",
-    "model": "502 CA MRD (FDE)",
-    "caliber": ".22 LR",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
-    "model": "EC9409BFCCA-PAC: Echelon 9mm 4.0FC Blk CA PAC*",
+    "brand": "Heckler & Koch",
+    "model": "VP9X Bear*",
     "caliber": "9mm",
     "type": "",
-    "barrel": "4\"",
+    "barrel": "4.09in",
     "finish": "",
     "notes": "",
-    "date_added": "04/29/2026",
+    "date_added": "04/14/2026",
     "roster_id": null
   },
   {
@@ -225,17 +236,6 @@
     "caliber": "9mm",
     "type": "",
     "barrel": "4.5in",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/14/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Heckler & Koch",
-    "model": "VP9X Bear*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "4.09in",
     "finish": "",
     "notes": "",
     "date_added": "04/14/2026",
