@@ -1,13 +1,46 @@
 [
   {
-    "brand": "KelTec",
-    "model": "P15 Green (P15GRN)*",
-    "caliber": "9mm",
+    "brand": "North American Arms",
+    "model": "NAA-22LR-ORCHID",
+    "caliber": "22 LR",
     "type": "",
-    "barrel": "4\"",
+    "barrel": "1.125\"",
     "finish": "",
     "notes": "",
-    "date_added": "06/26/2026",
+    "date_added": "07/02/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "North American Arms",
+    "model": "NAA-22MS-ROSE",
+    "caliber": ".22 Magnum",
+    "type": "",
+    "barrel": "1.125\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "07/02/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Shark Coast Customs / SIG",
+    "model": "SCC Cali 2*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "3.1\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "07/02/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Shark Coast Customs / SIG",
+    "model": "SCC Cali 3*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "3.1\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "07/02/2026",
     "roster_id": null
   },
   {
@@ -19,6 +52,28 @@
     "finish": "",
     "notes": "",
     "date_added": "06/26/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "KelTec",
+    "model": "P15 Green (P15GRN)*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "06/26/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Walther",
+    "model": "PDP 4.5\" Full size* Alloy OD Green",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4.5\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "06/10/2026",
     "roster_id": null
   },
   {
@@ -52,83 +107,6 @@
     "finish": "",
     "notes": "",
     "date_added": "06/10/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Walther",
-    "model": "PDP 4.5\" Full size* Alloy OD Green",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.5\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "06/10/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "FN America",
-    "model": "502 CA MRD (FDE)",
-    "caliber": ".22 LR",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
-    "model": "EC9409BFCCA-PAC: Echelon 9mm 4.0FC Blk CA PAC*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Rost Martin",
-    "model": "RM1FBLKOSP10CA*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "4.5\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
-    "model": "ECA9409BCA*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4 INCH",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Biofire",
-    "model": "Smart Gun* (Black)",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "119mm",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Sig Sauer",
-    "model": "365AXG-380-COMP-LUXE-MS-CA*",
-    "caliber": ".380",
-    "type": "",
-    "barrel": "3.1\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
     "roster_id": null
   },
   {
@@ -214,6 +192,72 @@
     "caliber": "9MM",
     "type": "",
     "barrel": "3.7\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "FN America",
+    "model": "502 CA MRD (FDE)",
+    "caliber": ".22 LR",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Springfield Armory",
+    "model": "EC9409BFCCA-PAC: Echelon 9mm 4.0FC Blk CA PAC*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Rost Martin",
+    "model": "RM1FBLKOSP10CA*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "4.5\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Springfield Armory",
+    "model": "ECA9409BCA*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4 INCH",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Biofire",
+    "model": "Smart Gun* (Black)",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "119mm",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Sig Sauer",
+    "model": "365AXG-380-COMP-LUXE-MS-CA*",
+    "caliber": ".380",
+    "type": "",
+    "barrel": "3.1\"",
     "finish": "",
     "notes": "",
     "date_added": "04/29/2026",
