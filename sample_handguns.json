@@ -1,28 +1,6 @@
 [
   {
     "brand": "North American Arms",
-    "model": "NAA-22LR-ORCHID",
-    "caliber": "22 LR",
-    "type": "",
-    "barrel": "1.125\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "07/02/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "North American Arms",
-    "model": "NAA-22MS-ROSE",
-    "caliber": ".22 Magnum",
-    "type": "",
-    "barrel": "1.125\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "07/02/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "North American Arms",
     "model": "NAA-22LR-GOOD",
     "caliber": ".22 LR",
     "type": "",
@@ -55,14 +33,25 @@
     "roster_id": null
   },
   {
-    "brand": "KelTec",
-    "model": "P15 TAN (P15TAN)*",
-    "caliber": "9mm",
+    "brand": "North American Arms",
+    "model": "NAA-22LR-ORCHID",
+    "caliber": "22 LR",
     "type": "",
-    "barrel": "4\"",
+    "barrel": "1.125\"",
     "finish": "",
     "notes": "",
-    "date_added": "06/26/2026",
+    "date_added": "07/02/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "North American Arms",
+    "model": "NAA-22MS-ROSE",
+    "caliber": ".22 Magnum",
+    "type": "",
+    "barrel": "1.125\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "07/02/2026",
     "roster_id": null
   },
   {
@@ -77,14 +66,14 @@
     "roster_id": null
   },
   {
-    "brand": "Walther",
-    "model": "PDP 4.5\" Full size* Alloy OD Green",
-    "caliber": "9MM",
+    "brand": "KelTec",
+    "model": "P15 TAN (P15TAN)*",
+    "caliber": "9mm",
     "type": "",
-    "barrel": "4.5\"",
+    "barrel": "4\"",
     "finish": "",
     "notes": "",
-    "date_added": "06/10/2026",
+    "date_added": "06/26/2026",
     "roster_id": null
   },
   {
@@ -121,69 +110,14 @@
     "roster_id": null
   },
   {
-    "brand": "Springfield Armory",
-    "model": "EC9459BCA-COMP-PAC Echelon 9mm 4.5f Comp Blk CA PAC*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "4.5",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Sig Sauer",
-    "model": "365AXGCA-9-LEGION-MS-CA*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "3.1\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "940 Carry 9mm - 14295",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "2.125\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
-    "model": "EC9409BCA-PAC Echelon 9mm 4.0C Comp CA PAC*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Wilson Combat",
-    "model": "2EDCX-CPR-9-CA*",
+    "brand": "Walther",
+    "model": "PDP 4.5\" Full size* Alloy OD Green",
     "caliber": "9MM",
     "type": "",
-    "barrel": "4 IN",
+    "barrel": "4.5\"",
     "finish": "",
     "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "940 Carry 9mm - 14295",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "2.125\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
+    "date_added": "06/10/2026",
     "roster_id": null
   },
   {
@@ -269,6 +203,72 @@
     "caliber": "10mm",
     "type": "",
     "barrel": "5.625\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Springfield Armory",
+    "model": "EC9459BCA-COMP-PAC Echelon 9mm 4.5f Comp Blk CA PAC*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "4.5",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Sig Sauer",
+    "model": "365AXGCA-9-LEGION-MS-CA*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "3.1\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "940 Carry 9mm - 14295",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "2.125\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Springfield Armory",
+    "model": "EC9409BCA-PAC Echelon 9mm 4.0C Comp CA PAC*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Wilson Combat",
+    "model": "2EDCX-CPR-9-CA*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4 IN",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "940 Carry 9mm - 14295",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "2.125\"",
     "finish": "",
     "notes": "",
     "date_added": "04/29/2026",
