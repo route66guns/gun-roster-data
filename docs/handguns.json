@@ -1,6 +1,19 @@
 [
   {
     "brand": "Shark Coast Customs / SIG",
+    "model": "SCC Cali 2*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "3.1\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "07/02/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Shark Coast Customs / SIG",
     "model": "SCC Cali 3*",
     "caliber": "9mm",
     "type": "",
@@ -52,19 +65,6 @@
     "image_source": null
   },
   {
-    "brand": "Shark Coast Customs / SIG",
-    "model": "SCC Cali 2*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "3.1\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "07/02/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
     "brand": "KelTec",
     "model": "P15 TAN (P15TAN)*",
     "caliber": "9mm",
@@ -86,6 +86,19 @@
     "finish": "",
     "notes": "",
     "date_added": "06/26/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Walther",
+    "model": "PDP 4.0\" Compact* Alloy Gray",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "06/10/2026",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -130,14 +143,27 @@
     "image_source": null
   },
   {
-    "brand": "Walther",
-    "model": "PDP 4.0\" Compact* Alloy Gray",
-    "caliber": "9MM",
+    "brand": "Springfield Armory",
+    "model": "EC9409BFCCA-PAC: Echelon 9mm 4.0FC Blk CA PAC*",
+    "caliber": "9mm",
     "type": "",
     "barrel": "4\"",
     "finish": "",
     "notes": "",
-    "date_added": "06/10/2026",
+    "date_added": "04/29/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Rost Martin",
+    "model": "RM1FBLKOSP10CA*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "4.5\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -299,27 +325,14 @@
     "image_source": null
   },
   {
-    "brand": "Springfield Armory",
-    "model": "EC9409BFCCA-PAC: Echelon 9mm 4.0FC Blk CA PAC*",
+    "brand": "Heckler & Koch",
+    "model": "VP9X Bear*",
     "caliber": "9mm",
     "type": "",
-    "barrel": "4\"",
+    "barrel": "4.09in",
     "finish": "",
     "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Rost Martin",
-    "model": "RM1FBLKOSP10CA*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "4.5\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
+    "date_added": "04/14/2026",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -330,19 +343,6 @@
     "caliber": "9mm",
     "type": "",
     "barrel": "4.5in",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/14/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Heckler & Koch",
-    "model": "VP9X Bear*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "4.09in",
     "finish": "",
     "notes": "",
     "date_added": "04/14/2026",
