@@ -78,17 +78,6 @@
   },
   {
     "brand": "Walther",
-    "model": "PDP 4.5\" Full size* Alloy OD Green",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.5\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "06/10/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Walther",
     "model": "PDP 4.0\" Compact* Alloy Gray",
     "caliber": "9MM",
     "type": "",
@@ -121,25 +110,14 @@
     "roster_id": null
   },
   {
-    "brand": "Sig Sauer",
-    "model": "365AXGCA-9-LEGION-MS-CA*",
-    "caliber": "9mm",
+    "brand": "Walther",
+    "model": "PDP 4.5\" Full size* Alloy OD Green",
+    "caliber": "9MM",
     "type": "",
-    "barrel": "3.1\"",
+    "barrel": "4.5\"",
     "finish": "",
     "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "940 Carry 9mm - 14295",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "2.125\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
+    "date_added": "06/10/2026",
     "roster_id": null
   },
   {
@@ -269,6 +247,28 @@
     "caliber": "9mm",
     "type": "",
     "barrel": "4.5",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Sig Sauer",
+    "model": "365AXGCA-9-LEGION-MS-CA*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "3.1\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "940 Carry 9mm - 14295",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "2.125\"",
     "finish": "",
     "notes": "",
     "date_added": "04/29/2026",
