@@ -1,27 +1,5 @@
 [
   {
-    "brand": "North American Arms",
-    "model": "NAA-22MS-ROSE",
-    "caliber": ".22 Magnum",
-    "type": "",
-    "barrel": "1.125\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "07/02/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "North American Arms",
-    "model": "NAA-22LR-GOOD",
-    "caliber": ".22 LR",
-    "type": "",
-    "barrel": "1.125\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "07/02/2026",
-    "roster_id": null
-  },
-  {
     "brand": "Shark Coast Customs / SIG",
     "model": "SCC Cali 2*",
     "caliber": "9mm",
@@ -47,6 +25,28 @@
     "brand": "North American Arms",
     "model": "NAA-22LR-ORCHID",
     "caliber": "22 LR",
+    "type": "",
+    "barrel": "1.125\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "07/02/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "North American Arms",
+    "model": "NAA-22MS-ROSE",
+    "caliber": ".22 Magnum",
+    "type": "",
+    "barrel": "1.125\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "07/02/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "North American Arms",
+    "model": "NAA-22LR-GOOD",
+    "caliber": ".22 LR",
     "type": "",
     "barrel": "1.125\"",
     "finish": "",
@@ -118,61 +118,6 @@
     "finish": "",
     "notes": "",
     "date_added": "06/10/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
-    "model": "EC9409BCA-PAC Echelon 9mm 4.0C Comp CA PAC*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Wilson Combat",
-    "model": "2EDCX-CPR-9-CA*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4 IN",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "940 Carry 9mm - 14295",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "2.125\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Springfield Armory",
-    "model": "HCP9379BOSPCACOMPPAC*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "3.7\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "FN America",
-    "model": "502 CA MRD (FDE)",
-    "caliber": ".22 LR",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "04/29/2026",
     "roster_id": null
   },
   {
@@ -269,6 +214,61 @@
     "caliber": "9mm",
     "type": "",
     "barrel": "2.125\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Springfield Armory",
+    "model": "EC9409BCA-PAC Echelon 9mm 4.0C Comp CA PAC*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Wilson Combat",
+    "model": "2EDCX-CPR-9-CA*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4 IN",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "940 Carry 9mm - 14295",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "2.125\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Springfield Armory",
+    "model": "HCP9379BOSPCACOMPPAC*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "3.7\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "04/29/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "FN America",
+    "model": "502 CA MRD (FDE)",
+    "caliber": ".22 LR",
+    "type": "",
+    "barrel": "4\"",
     "finish": "",
     "notes": "",
     "date_added": "04/29/2026",
