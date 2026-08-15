@@ -1,5 +1,16 @@
 [
   {
+    "brand": "North American Arms",
+    "model": "NAA-22LR-GOOD",
+    "caliber": ".22 LR",
+    "type": "",
+    "barrel": "1.125\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "07/02/2026",
+    "roster_id": null
+  },
+  {
     "brand": "Shark Coast Customs / SIG",
     "model": "SCC Cali 2*",
     "caliber": "9mm",
@@ -44,14 +55,14 @@
     "roster_id": null
   },
   {
-    "brand": "North American Arms",
-    "model": "NAA-22LR-GOOD",
-    "caliber": ".22 LR",
+    "brand": "KelTec",
+    "model": "P15 Green (P15GRN)*",
+    "caliber": "9mm",
     "type": "",
-    "barrel": "1.125\"",
+    "barrel": "4\"",
     "finish": "",
     "notes": "",
-    "date_added": "07/02/2026",
+    "date_added": "06/26/2026",
     "roster_id": null
   },
   {
@@ -66,14 +77,14 @@
     "roster_id": null
   },
   {
-    "brand": "KelTec",
-    "model": "P15 Green (P15GRN)*",
-    "caliber": "9mm",
+    "brand": "Walther",
+    "model": "PDP 4.0\" Compact* Alloy Gray",
+    "caliber": "9MM",
     "type": "",
     "barrel": "4\"",
     "finish": "",
     "notes": "",
-    "date_added": "06/26/2026",
+    "date_added": "06/10/2026",
     "roster_id": null
   },
   {
@@ -104,17 +115,6 @@
     "caliber": "9MM",
     "type": "",
     "barrel": "4.5\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "06/10/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Walther",
-    "model": "PDP 4.0\" Compact* Alloy Gray",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4\"",
     "finish": "",
     "notes": "",
     "date_added": "06/10/2026",
