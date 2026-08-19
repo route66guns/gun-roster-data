@@ -23,7 +23,7 @@
   "beretta::beretta - gewehre und zubehör für jagd und schießsport": {
     "brand": "beretta",
     "name": "Beretta - Gewehre und Zubehör für Jagd und Schießsport",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--46aa7ce7-bc11-4dde-9dbf-8b3155feff1f/a400solobanner2.png?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--46aa7ce7-bc11-4dde-9dbf-8b3155feff1f/a400solobanner2.png?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/de-ch",
     "domain": "www.beretta.com"
   },
@@ -44,14 +44,14 @@
   "beretta::fabbrica d'armi beretta - fucili e accessori per caccia e tiro a volo": {
     "brand": "beretta",
     "name": "Fabbrica d'armi Beretta - Fucili e accessori per Caccia e Tiro a volo",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--46aa7ce7-bc11-4dde-9dbf-8b3155feff1f/a400solobanner2.png?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--46aa7ce7-bc11-4dde-9dbf-8b3155feff1f/a400solobanner2.png?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/it-ch",
     "domain": "www.beretta.com"
   },
   "beretta::beretta usa firearms - find a dealer or shop online": {
     "brand": "beretta",
     "name": "Beretta USA Firearms - Find a Dealer or Shop Online",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--7d518fab-e708-4206-856a-dfc50a802a6e/b22.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--d86d5342-ae8d-4eed-946b-0d715e306f17/waterfowl-collection-2026-2.jpg?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/en-us",
     "domain": "www.beretta.com"
   },
@@ -309,8 +309,8 @@
   },
   "canik::tp9 elite sc": {
     "brand": "canik",
-    "name": "TP9 ELITE SC",
-    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/hg5610t-n_canik_elite_sc_right_1_1.png?v=1772836781",
+    "name": "TP9 Elite SC",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/tp9_elite_sc_side_l_1_1.png?v=1774039457",
     "page": "https://www.canikusa.com/tp9-elite-sc",
     "domain": "www.canikusa.com"
   },
@@ -753,6 +753,111 @@
     "name": "CANiK â Superior Firearms",
     "image": "https://www.canik.com/canik-og.jpg",
     "page": "https://www.canikusa.com/mete-sc",
+    "domain": "www.canikusa.com"
+  },
+  "canik::canik | tti combat": {
+    "brand": "canik",
+    "name": "CANiK | TTI COMBAT",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/HG7854V-N-TTI-COMBAT-Bronze-0.png?v=1779827765",
+    "page": "https://www.canikusa.com/tti-combat",
+    "domain": "www.canikusa.com"
+  },
+  "canik::canik | prime radian": {
+    "brand": "canik",
+    "name": "CANiK | PRIME RADIAN",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/HG8611-N-PRIME-Radian-black-right.png?v=1783629794",
+    "page": "https://www.canikusa.com/prime-radian",
+    "domain": "www.canikusa.com"
+  },
+  "canik::canik | mete mc9 prime": {
+    "brand": "canik",
+    "name": "CANiK | METE MC9 PRIME",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/HG8328-N-METE-MC9-PRIME-0_c471cc20-dcc9-4094-9e87-f77e9c90f8db.png?v=1781880814",
+    "page": "https://www.canikusa.com/mete-mc9-prime",
+    "domain": "www.canikusa.com"
+  },
+  "canik::canik | mete mc9": {
+    "brand": "canik",
+    "name": "CANiK | METE MC9",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/METE-MC9-Black-0.png?v=1777921048",
+    "page": "https://www.canikusa.com/mete-mc9",
+    "domain": "www.canikusa.com"
+  },
+  "canik::tp9 sfx | canik usa": {
+    "brand": "canik",
+    "name": "TP9 SFX | Canik USA",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/TP9-SFx-right-side.png?v=1787080044",
+    "page": "https://www.canikusa.com/tp9sfx",
+    "domain": "www.canikusa.com"
+  },
+  "canik::canik | sfx rival-s": {
+    "brand": "canik",
+    "name": "CANiK | SFx RIVAL-S",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/HG7010C-N-SFX-RIVAL-S-CHROME-0.png?v=1779129603",
+    "page": "https://www.canikusa.com/sfx-rival-s",
+    "domain": "www.canikusa.com"
+  },
+  "canik::the sfx rival": {
+    "brand": "canik",
+    "name": "The SFx RIVAL",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/HG6610T-N-SFxRIVAL-Grey-0.png?v=1779124743",
+    "page": "https://www.canikusa.com/sfx-rival",
+    "domain": "www.canikusa.com"
+  },
+  "canik::canik | mete sft": {
+    "brand": "canik",
+    "name": "CANiK | METE SFT",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/hg5636-n_on_white_right_side_002.jpg?v=1775054548",
+    "page": "https://www.canikusa.com/mete-sft",
+    "domain": "www.canikusa.com"
+  },
+  "canik::canik | mete sft pro": {
+    "brand": "canik",
+    "name": "CANiK | METE SFT PRO",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/METE_SFT_PRO_Right.png?v=1775048083",
+    "page": "https://www.canikusa.com/mete-sft-pro",
+    "domain": "www.canikusa.com"
+  },
+  "canik::canik | mete sf": {
+    "brand": "canik",
+    "name": "CANiK | METE SF",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/mete_sf_black_right_side_4d6c1efa-4077-4907-b569-0ac28a9be95d.png?v=1774362478",
+    "page": "https://www.canikusa.com/mete-sf",
+    "domain": "www.canikusa.com"
+  },
+  "canik::mete sfx black": {
+    "brand": "canik",
+    "name": "METE SFx BLACK",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/METE_SFx_Right.png?v=1775054638",
+    "page": "https://www.canikusa.com/mete-sfx",
+    "domain": "www.canikusa.com"
+  },
+  "canik::mete sfx pro black": {
+    "brand": "canik",
+    "name": "METE SFx PRO Black",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/METE_SFX_PRO_Right.png?v=1775047530",
+    "page": "https://www.canikusa.com/mete-sfx-pro",
+    "domain": "www.canikusa.com"
+  },
+  "canik::canik | mete mc9l": {
+    "brand": "canik",
+    "name": "CANiK | METE MC9L",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/METE-MC9L-FDE-0.png?v=1778002921",
+    "page": "https://www.canikusa.com/mete-mc9-l",
+    "domain": "www.canikusa.com"
+  },
+  "canik::mc9ls black": {
+    "brand": "canik",
+    "name": "MC9LS BLACK",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/METE_MC9LS_Right.png?v=1775049067",
+    "page": "https://www.canikusa.com/mete-mc9ls",
+    "domain": "www.canikusa.com"
+  },
+  "canik::canik â venom lr": {
+    "brand": "canik",
+    "name": "CANiK â VENOM LR",
+    "image": "https://cdn.shopify.com/s/files/1/0711/7760/1185/files/venom-lr-1.jpg?v=1775218799",
+    "page": "https://www.canikusa.com/venom-lr",
     "domain": "www.canikusa.com"
   }
 }
