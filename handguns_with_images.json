@@ -1,5 +1,31 @@
 [
   {
+    "brand": "North American Arms",
+    "model": "NAA-22LR-GOOD",
+    "caliber": ".22 LR",
+    "type": "",
+    "barrel": "1.125\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "07/02/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Shark Coast Customs / SIG",
+    "model": "SCC Cali 2*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "3.1\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "07/02/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
     "brand": "Shark Coast Customs / SIG",
     "model": "SCC Cali 3*",
     "caliber": "9mm",
@@ -39,27 +65,14 @@
     "image_source": null
   },
   {
-    "brand": "North American Arms",
-    "model": "NAA-22LR-GOOD",
-    "caliber": ".22 LR",
-    "type": "",
-    "barrel": "1.125\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "07/02/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Shark Coast Customs / SIG",
-    "model": "SCC Cali 2*",
+    "brand": "KelTec",
+    "model": "P15 Green (P15GRN)*",
     "caliber": "9mm",
     "type": "",
-    "barrel": "3.1\"",
+    "barrel": "4\"",
     "finish": "",
     "notes": "",
-    "date_added": "07/02/2026",
+    "date_added": "06/26/2026",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -78,14 +91,14 @@
     "image_source": null
   },
   {
-    "brand": "KelTec",
-    "model": "P15 Green (P15GRN)*",
-    "caliber": "9mm",
+    "brand": "Walther",
+    "model": "PDP 4.0\" Compact* Alloy Gray",
+    "caliber": "9MM",
     "type": "",
     "barrel": "4\"",
     "finish": "",
     "notes": "",
-    "date_added": "06/26/2026",
+    "date_added": "06/10/2026",
     "roster_id": null,
     "image_local": null,
     "image_source": null
@@ -122,19 +135,6 @@
     "caliber": "9MM",
     "type": "",
     "barrel": "4.5\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "06/10/2026",
-    "roster_id": null,
-    "image_local": null,
-    "image_source": null
-  },
-  {
-    "brand": "Walther",
-    "model": "PDP 4.0\" Compact* Alloy Gray",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4\"",
     "finish": "",
     "notes": "",
     "date_added": "06/10/2026",
