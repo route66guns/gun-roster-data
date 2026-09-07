@@ -1,6 +1,17 @@
 [
   {
     "brand": "Smith & Wesson",
+    "model": "BODYGUARD 2.0 TS CA BTF - 14884*",
+    "caliber": "380 AUTO",
+    "type": "",
+    "barrel": "2.75",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/03/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
     "model": "PC M&P9 M2.0 Compact Carry Comp 10RD 14774*",
     "caliber": "9mm",
     "type": "",
@@ -253,14 +264,14 @@
     "roster_id": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "BODYGUARD 2.0 TS CA BTF - 14884*",
-    "caliber": "380 AUTO",
+    "brand": "Shark Coast Customs / SIG",
+    "model": "SCC Cali 2*",
+    "caliber": "9mm",
     "type": "",
-    "barrel": "2.75",
+    "barrel": "3.1\"",
     "finish": "",
     "notes": "",
-    "date_added": "09/03/2026",
+    "date_added": "07/02/2026",
     "roster_id": null
   },
   {
@@ -302,17 +313,6 @@
     "caliber": ".22 LR",
     "type": "",
     "barrel": "1.125\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "07/02/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Shark Coast Customs / SIG",
-    "model": "SCC Cali 2*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "3.1\"",
     "finish": "",
     "notes": "",
     "date_added": "07/02/2026",
