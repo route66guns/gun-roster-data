@@ -1,6 +1,72 @@
 [
   {
     "brand": "Smith & Wesson",
+    "model": "BODYGUARD 2.0 TS CA BPF SAS - 14863*",
+    "caliber": "380 AUTO",
+    "type": "",
+    "barrel": "2.75",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/03/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "PC BODYGUARD 2.0 CC TS MS BBF - 14870*",
+    "caliber": "380 AUTO",
+    "type": "",
+    "barrel": "2.875\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/03/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "PC Shield X CC TLC1 TS 10RD - 14775*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "3.625",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/03/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "M&P 10MM M2.0 4.6IN OR 10 RD BBF-14867*",
+    "caliber": "10MM",
+    "type": "",
+    "barrel": "4.6\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/03/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Biofire",
+    "model": "Smart Gun* (Dark Terra)",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "119mm",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/03/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "BODYGUARD 2.0 TS CA REBF SAS - 14864*",
+    "caliber": "380 AUTO",
+    "type": "",
+    "barrel": "2.75",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/03/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
     "model": "BODYGUARD 2.0 TS CA BTF - 14884*",
     "caliber": "380 AUTO",
     "type": "",
@@ -198,69 +264,14 @@
     "roster_id": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "BODYGUARD 2.0 TS CA BPF SAS - 14863*",
-    "caliber": "380 AUTO",
+    "brand": "North American Arms",
+    "model": "NAA-22LR-GOOD",
+    "caliber": ".22 LR",
     "type": "",
-    "barrel": "2.75",
+    "barrel": "1.125\"",
     "finish": "",
     "notes": "",
-    "date_added": "09/03/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "PC BODYGUARD 2.0 CC TS MS BBF - 14870*",
-    "caliber": "380 AUTO",
-    "type": "",
-    "barrel": "2.875\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/03/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "PC Shield X CC TLC1 TS 10RD - 14775*",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "3.625",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/03/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "M&P 10MM M2.0 4.6IN OR 10 RD BBF-14867*",
-    "caliber": "10MM",
-    "type": "",
-    "barrel": "4.6\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/03/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Biofire",
-    "model": "Smart Gun* (Dark Terra)",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "119mm",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/03/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "BODYGUARD 2.0 TS CA REBF SAS - 14864*",
-    "caliber": "380 AUTO",
-    "type": "",
-    "barrel": "2.75",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/03/2026",
+    "date_added": "07/02/2026",
     "roster_id": null
   },
   {
@@ -308,14 +319,14 @@
     "roster_id": null
   },
   {
-    "brand": "North American Arms",
-    "model": "NAA-22LR-GOOD",
-    "caliber": ".22 LR",
+    "brand": "KelTec",
+    "model": "P15 Green (P15GRN)*",
+    "caliber": "9mm",
     "type": "",
-    "barrel": "1.125\"",
+    "barrel": "4\"",
     "finish": "",
     "notes": "",
-    "date_added": "07/02/2026",
+    "date_added": "06/26/2026",
     "roster_id": null
   },
   {
@@ -330,14 +341,14 @@
     "roster_id": null
   },
   {
-    "brand": "KelTec",
-    "model": "P15 Green (P15GRN)*",
-    "caliber": "9mm",
+    "brand": "Walther",
+    "model": "PDP 4.0\" Compact* Alloy Gray",
+    "caliber": "9MM",
     "type": "",
     "barrel": "4\"",
     "finish": "",
     "notes": "",
-    "date_added": "06/26/2026",
+    "date_added": "06/10/2026",
     "roster_id": null
   },
   {
@@ -368,17 +379,6 @@
     "caliber": "9MM",
     "type": "",
     "barrel": "4.5\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "06/10/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Walther",
-    "model": "PDP 4.0\" Compact* Alloy Gray",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4\"",
     "finish": "",
     "notes": "",
     "date_added": "06/10/2026",
