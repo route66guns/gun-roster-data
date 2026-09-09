@@ -1,5 +1,71 @@
 [
   {
+    "brand": "Sig Sauer",
+    "model": "211CA-9-GT4-CA*",
+    "caliber": "9MM",
+    "type": "",
+    "barrel": "4.2\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/03/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "SHIELD X 9MM TS MS TLCI 10RD CA BTF - 14885*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "3.5\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/03/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "BODYGUARD 2.0 TS CA SAS PPF - 14862*",
+    "caliber": "380 AUTO",
+    "type": "",
+    "barrel": "2.75",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/03/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "PC BODYGUARD 2.0 CC TS CA MBF - 14887*",
+    "caliber": "380 AUTO",
+    "type": "",
+    "barrel": "2.875",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/03/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Sig Sauer",
+    "model": "365XCA-9-COMP-MS-SL-CA*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "3.1\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/03/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Smith & Wesson",
+    "model": "SHIELD X 9MM TS MS TLCI 10RD MBF - 14890*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "3.5\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/03/2026",
+    "roster_id": null
+  },
+  {
     "brand": "Smith & Wesson",
     "model": "BODYGUARD 2.0 TS CA BPF SAS - 14863*",
     "caliber": "380 AUTO",
@@ -198,69 +264,14 @@
     "roster_id": null
   },
   {
-    "brand": "Sig Sauer",
-    "model": "211CA-9-GT4-CA*",
-    "caliber": "9MM",
+    "brand": "North American Arms",
+    "model": "NAA-22MS-ROSE",
+    "caliber": ".22 Magnum",
     "type": "",
-    "barrel": "4.2\"",
+    "barrel": "1.125\"",
     "finish": "",
     "notes": "",
-    "date_added": "09/03/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "SHIELD X 9MM TS MS TLCI 10RD CA BTF - 14885*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "3.5\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/03/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "BODYGUARD 2.0 TS CA SAS PPF - 14862*",
-    "caliber": "380 AUTO",
-    "type": "",
-    "barrel": "2.75",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/03/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "PC BODYGUARD 2.0 CC TS CA MBF - 14887*",
-    "caliber": "380 AUTO",
-    "type": "",
-    "barrel": "2.875",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/03/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Sig Sauer",
-    "model": "365XCA-9-COMP-MS-SL-CA*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "3.1\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/03/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Smith & Wesson",
-    "model": "SHIELD X 9MM TS MS TLCI 10RD MBF - 14890*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "3.5\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "09/03/2026",
+    "date_added": "07/02/2026",
     "roster_id": null
   },
   {
@@ -308,28 +319,6 @@
     "roster_id": null
   },
   {
-    "brand": "North American Arms",
-    "model": "NAA-22MS-ROSE",
-    "caliber": ".22 Magnum",
-    "type": "",
-    "barrel": "1.125\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "07/02/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "KelTec",
-    "model": "P15 Green (P15GRN)*",
-    "caliber": "9mm",
-    "type": "",
-    "barrel": "4\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "06/26/2026",
-    "roster_id": null
-  },
-  {
     "brand": "KelTec",
     "model": "P15 TAN (P15TAN)*",
     "caliber": "9mm",
@@ -341,47 +330,14 @@
     "roster_id": null
   },
   {
-    "brand": "Walther",
-    "model": "PDP 4.0\" Compact* Alloy Gray",
-    "caliber": "9MM",
+    "brand": "KelTec",
+    "model": "P15 Green (P15GRN)*",
+    "caliber": "9mm",
     "type": "",
     "barrel": "4\"",
     "finish": "",
     "notes": "",
-    "date_added": "06/10/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Walther",
-    "model": "PDP 4.5\" Full Size* Alloy Gray",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.5\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "06/10/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Walther",
-    "model": "PDP 4.5\" Full Size* Alloy FDE",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.5\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "06/10/2026",
-    "roster_id": null
-  },
-  {
-    "brand": "Walther",
-    "model": "PDP 4.5\" Full size* Alloy OD Green",
-    "caliber": "9MM",
-    "type": "",
-    "barrel": "4.5\"",
-    "finish": "",
-    "notes": "",
-    "date_added": "06/10/2026",
+    "date_added": "06/26/2026",
     "roster_id": null
   }
 ]
