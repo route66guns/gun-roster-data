@@ -1,5 +1,38 @@
 [
   {
+    "brand": "Rost Martin",
+    "model": "RM1CXBLKOSP10CA*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "4.0",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/11/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Springfield Armory",
+    "model": "ECA9409BCA-PAC-ECHELON ALPHA 9MM 4.0C BK CA PAC*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/11/2026",
+    "roster_id": null
+  },
+  {
+    "brand": "Rost Martin",
+    "model": "RM1CXBLKOSP10CA (COMP)*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "4.0\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/11/2026",
+    "roster_id": null
+  },
+  {
     "brand": "Sig Sauer",
     "model": "211CA-9-GT4-CA*",
     "caliber": "9MM",
