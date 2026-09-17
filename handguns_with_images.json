@@ -1,5 +1,31 @@
 [
   {
+    "brand": "Heckler & Koch",
+    "model": "VP9L Bear*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "5\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/16/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
+    "brand": "Archon Firearms USA, LLC",
+    "model": "Type B*",
+    "caliber": "9mm",
+    "type": "",
+    "barrel": "4.3\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "09/16/2026",
+    "roster_id": null,
+    "image_local": null,
+    "image_source": null
+  },
+  {
     "brand": "Rost Martin",
     "model": "RM1CXBLKOSP10CA*",
     "caliber": "9mm",
