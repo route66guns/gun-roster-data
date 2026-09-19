@@ -195,11 +195,11 @@
     "image_source": null
   },
   {
-    "brand": "Biofire",
-    "model": "Smart Gun* (Dark Terra)",
-    "caliber": "9mm",
+    "brand": "Smith & Wesson",
+    "model": "BODYGUARD 2.0 TS CA REBF SAS - 14864*",
+    "caliber": "380 AUTO",
     "type": "",
-    "barrel": "119mm",
+    "barrel": "2.75",
     "finish": "",
     "notes": "",
     "date_added": "09/03/2026",
@@ -208,11 +208,11 @@
     "image_source": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "BODYGUARD 2.0 TS CA REBF SAS - 14864*",
-    "caliber": "380 AUTO",
+    "brand": "Biofire",
+    "model": "Smart Gun* (Dark Terra)",
+    "caliber": "9mm",
     "type": "",
-    "barrel": "2.75",
+    "barrel": "119mm",
     "finish": "",
     "notes": "",
     "date_added": "09/03/2026",
@@ -260,11 +260,11 @@
     "image_source": null
   },
   {
-    "brand": "Biofire",
-    "model": "Smart Gun* (Orbital White)",
-    "caliber": "9mm",
+    "brand": "Smith & Wesson",
+    "model": "BODYGUARD 2.0 TS CA BBF - 14866*",
+    "caliber": "380 AUTO",
     "type": "",
-    "barrel": "119mm",
+    "barrel": "2.75\"",
     "finish": "",
     "notes": "",
     "date_added": "09/03/2026",
@@ -273,11 +273,11 @@
     "image_source": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "BODYGUARD 2.0 TS CA BBF - 14866*",
-    "caliber": "380 AUTO",
+    "brand": "Biofire",
+    "model": "Smart Gun* (Orbital White)",
+    "caliber": "9mm",
     "type": "",
-    "barrel": "2.75\"",
+    "barrel": "119mm",
     "finish": "",
     "notes": "",
     "date_added": "09/03/2026",
@@ -325,11 +325,11 @@
     "image_source": null
   },
   {
-    "brand": "Sig Sauer",
-    "model": "211F-9-GT5-CA*",
+    "brand": "Smith & Wesson",
+    "model": "SHIELD X 9MM TS MS TLCI BBF - 14871*",
     "caliber": "9mm",
     "type": "",
-    "barrel": "5.0\"",
+    "barrel": "3.5\"",
     "finish": "",
     "notes": "",
     "date_added": "09/03/2026",
@@ -338,11 +338,11 @@
     "image_source": null
   },
   {
-    "brand": "Smith & Wesson",
-    "model": "SHIELD X 9MM TS MS TLCI BBF - 14871*",
+    "brand": "Sig Sauer",
+    "model": "211F-9-GT5-CA*",
     "caliber": "9mm",
     "type": "",
-    "barrel": "3.5\"",
+    "barrel": "5.0\"",
     "finish": "",
     "notes": "",
     "date_added": "09/03/2026",
