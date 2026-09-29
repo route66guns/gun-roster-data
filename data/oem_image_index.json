@@ -16,7 +16,7 @@
   "beretta::beretta - firearms, clothing & accessories for hunting and shooting": {
     "brand": "beretta",
     "name": "Beretta - Firearms, Clothing & Accessories for Hunting and Shooting",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--6d82a9b9-dbb6-482d-a8d2-45eaa1210b7b/banner-1920x1080-90series-92fs-ducato.png?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--6d82a9b9-dbb6-482d-a8d2-45eaa1210b7b/banner-1920x1080-90series-92fs-ducato.png?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/en-sk",
     "domain": "www.beretta.com"
   },
@@ -30,7 +30,7 @@
   "beretta::beretta - rifles y accesorios para caza y tiro": {
     "brand": "beretta",
     "name": "Beretta - Rifles y Accesorios para Caza y Tiro",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--6d82a9b9-dbb6-482d-a8d2-45eaa1210b7b/banner-1920x1080-90series-92fs-ducato.png?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--6d82a9b9-dbb6-482d-a8d2-45eaa1210b7b/banner-1920x1080-90series-92fs-ducato.png?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/es-es",
     "domain": "www.beretta.com"
   },
@@ -51,7 +51,7 @@
   "beretta::beretta usa firearms - find a dealer or shop online": {
     "brand": "beretta",
     "name": "Beretta USA Firearms - Find a Dealer or Shop Online",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--ed9dfb0b-4656-44b6-87f9-9bf2774d34b2/nationalhuntingday3.jpg?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--d86d5342-ae8d-4eed-946b-0d715e306f17/waterfowl-collection-2026-2.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/en-us",
     "domain": "www.beretta.com"
   },
@@ -849,7 +849,7 @@
   "canik::mc9ls black": {
     "brand": "canik",
     "name": "MC9LS BLACK",
-    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/METE_MC9LS_Right.png?v=1775049067",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/000_b6f1d1ba-9a58-4b1a-a2d8-d9e73936b781.png?v=1790619729",
     "page": "https://www.canikusa.com/mete-mc9ls",
     "domain": "www.canikusa.com"
   },
