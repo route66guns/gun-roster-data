@@ -16,14 +16,14 @@
   "beretta::beretta - firearms, clothing & accessories for hunting and shooting": {
     "brand": "beretta",
     "name": "Beretta - Firearms, Clothing & Accessories for Hunting and Shooting",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b990e3df-15f9-4437-9b61-8905a90024bb/bannerv2.png?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b990e3df-15f9-4437-9b61-8905a90024bb/bannerv2.png?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/en-sk",
     "domain": "www.beretta.com"
   },
   "beretta::beretta - gewehre und zubehör für jagd und schießsport": {
     "brand": "beretta",
     "name": "Beretta - Gewehre und Zubehör für Jagd und Schießsport",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b990e3df-15f9-4437-9b61-8905a90024bb/bannerv2.png?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b990e3df-15f9-4437-9b61-8905a90024bb/bannerv2.png?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/de-ch",
     "domain": "www.beretta.com"
   },
@@ -254,28 +254,28 @@
   "canik::tp9 sfx": {
     "brand": "canik",
     "name": "TP9 SFx",
-    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/hg3774g-n_r_1.png?v=1772836824",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/TP9-SFx-right-side.png?v=1787080044",
     "page": "https://www.canikusa.com/tp9sfx",
     "domain": "www.canikusa.com"
   },
   "canik::sfx rival-s": {
     "brand": "canik",
     "name": "SFx RIVAL-S",
-    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/HG7010-N-SFx-RIVAL-S-Darkside-0.png?v=1779129174",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/HG7010C-N-SFX-RIVAL-S-CHROME-0.png?v=1779129603",
     "page": "https://www.canikusa.com/sfx-rival-s",
     "domain": "www.canikusa.com"
   },
   "canik::sfx rival": {
     "brand": "canik",
     "name": "SFx RIVAL",
-    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/HG6815-N-SFx-RIVAL-Dark-Side-0_b5ecb830-a617-48bc-8b58-7fcee2f03ea7.png?v=1779120982",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/HG6610T-N-SFxRIVAL-Grey-0.png?v=1779124743",
     "page": "https://www.canikusa.com/sfx-rival",
     "domain": "www.canikusa.com"
   },
   "canik::mete sft": {
     "brand": "canik",
     "name": "METE SFT",
-    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/METE_SFT_Right.png?v=1775054548",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/hg5636-n_on_white_right_side_002.jpg?v=1775054548",
     "page": "https://www.canikusa.com/mete-sft",
     "domain": "www.canikusa.com"
   },
@@ -309,7 +309,7 @@
   },
   "canik::tp9 elite sc": {
     "brand": "canik",
-    "name": "TP9 Elite SC",
+    "name": "TP9 ELITE SC",
     "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/tp9_elite_sc_side_l_1_1.png?v=1774039457",
     "page": "https://www.canikusa.com/tp9-elite-sc",
     "domain": "www.canikusa.com"
@@ -366,7 +366,7 @@
   "canik::mete mc9ls": {
     "brand": "canik",
     "name": "METE MC9LS",
-    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/METE_MC9LS_Right.png?v=1775049067",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/000_b6f1d1ba-9a58-4b1a-a2d8-d9e73936b781.png?v=1790619729",
     "page": "https://www.canikusa.com/mete-mc9ls",
     "domain": "www.canikusa.com"
   },
@@ -737,7 +737,7 @@
   "canik::mete mc9l": {
     "brand": "canik",
     "name": "METE MC9L",
-    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/METE-MC9L-Black-0.png?v=1778002813",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/METE-MC9L-FDE-0.png?v=1778002921",
     "page": "https://www.canikusa.com/mete-mc9-l",
     "domain": "www.canikusa.com"
   },
