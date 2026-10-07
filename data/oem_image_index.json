@@ -16,7 +16,7 @@
   "beretta::beretta - firearms, clothing & accessories for hunting and shooting": {
     "brand": "beretta",
     "name": "Beretta - Firearms, Clothing & Accessories for Hunting and Shooting",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b990e3df-15f9-4437-9b61-8905a90024bb/bannerv2.png?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b990e3df-15f9-4437-9b61-8905a90024bb/bannerv2.png?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/en-sk",
     "domain": "www.beretta.com"
   },
@@ -30,7 +30,7 @@
   "beretta::beretta - rifles y accesorios para caza y tiro": {
     "brand": "beretta",
     "name": "Beretta - Rifles y Accesorios para Caza y Tiro",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b990e3df-15f9-4437-9b61-8905a90024bb/bannerv2.png?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b990e3df-15f9-4437-9b61-8905a90024bb/bannerv2.png?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/es-es",
     "domain": "www.beretta.com"
   },
@@ -44,7 +44,7 @@
   "beretta::fabbrica d'armi beretta - fucili e accessori per caccia e tiro a volo": {
     "brand": "beretta",
     "name": "Fabbrica d'armi Beretta - Fucili e accessori per Caccia e Tiro a volo",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b990e3df-15f9-4437-9b61-8905a90024bb/bannerv2.png?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b990e3df-15f9-4437-9b61-8905a90024bb/bannerv2.png?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/it-ch",
     "domain": "www.beretta.com"
   },
@@ -310,7 +310,7 @@
   "canik::tp9 elite sc": {
     "brand": "canik",
     "name": "TP9 ELITE SC",
-    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/tp9_elite_sc_side_l_1_1.png?v=1774039457",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/HG5610B-N-TP9-Elite-SC-in-Burnt-Bronze-right.png?v=1791316989",
     "page": "https://www.canikusa.com/tp9-elite-sc",
     "domain": "www.canikusa.com"
   },
