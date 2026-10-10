@@ -16,42 +16,42 @@
   "beretta::beretta - firearms, clothing & accessories for hunting and shooting": {
     "brand": "beretta",
     "name": "Beretta - Firearms, Clothing & Accessories for Hunting and Shooting",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b990e3df-15f9-4437-9b61-8905a90024bb/bannerv2.png?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b990e3df-15f9-4437-9b61-8905a90024bb/bannerv2.png?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/en-sk",
     "domain": "www.beretta.com"
   },
   "beretta::beretta - gewehre und zubehör für jagd und schießsport": {
     "brand": "beretta",
     "name": "Beretta - Gewehre und Zubehör für Jagd und Schießsport",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b990e3df-15f9-4437-9b61-8905a90024bb/bannerv2.png?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b990e3df-15f9-4437-9b61-8905a90024bb/bannerv2.png?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/de-ch",
     "domain": "www.beretta.com"
   },
   "beretta::beretta - rifles y accesorios para caza y tiro": {
     "brand": "beretta",
     "name": "Beretta - Rifles y Accesorios para Caza y Tiro",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b990e3df-15f9-4437-9b61-8905a90024bb/bannerv2.png?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b990e3df-15f9-4437-9b61-8905a90024bb/bannerv2.png?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/es-es",
     "domain": "www.beretta.com"
   },
   "beretta::beretta - fusils et accessoires pour la chasse & le tir": {
     "brand": "beretta",
     "name": "Beretta - Fusils et Accessoires pour la Chasse & le Tir",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b990e3df-15f9-4437-9b61-8905a90024bb/bannerv2.png?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b990e3df-15f9-4437-9b61-8905a90024bb/bannerv2.png?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/fr-ch",
     "domain": "www.beretta.com"
   },
   "beretta::fabbrica d'armi beretta - fucili e accessori per caccia e tiro a volo": {
     "brand": "beretta",
     "name": "Fabbrica d'armi Beretta - Fucili e accessori per Caccia e Tiro a volo",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b990e3df-15f9-4437-9b61-8905a90024bb/bannerv2.png?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b990e3df-15f9-4437-9b61-8905a90024bb/bannerv2.png?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/it-ch",
     "domain": "www.beretta.com"
   },
   "beretta::beretta usa firearms - find a dealer or shop online": {
     "brand": "beretta",
     "name": "Beretta USA Firearms - Find a Dealer or Shop Online",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--d86d5342-ae8d-4eed-946b-0d715e306f17/waterfowl-collection-2026-2.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--705fa450-8387-47a0-af12-6222bb5eaa64/columbus-day-2026.jpg?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/en-us",
     "domain": "www.beretta.com"
   },
@@ -275,7 +275,7 @@
   "canik::mete sft": {
     "brand": "canik",
     "name": "METE SFT",
-    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/hg5636-n_on_white_right_side_002.jpg?v=1775054548",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/000_573e4961-6d3c-4a9d-8056-f4a49b6af5c6.png?v=1787865285",
     "page": "https://www.canikusa.com/mete-sft",
     "domain": "www.canikusa.com"
   },
@@ -289,7 +289,7 @@
   "canik::mete sf": {
     "brand": "canik",
     "name": "METE SF",
-    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/mete_sf_black_right_side_4d6c1efa-4077-4907-b569-0ac28a9be95d.png?v=1774362478",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/HG5637-N-METE-SF-Black-right-side.png?v=1791577024",
     "page": "https://www.canikusa.com/mete-sf",
     "domain": "www.canikusa.com"
   },
