@@ -30,7 +30,7 @@
   "beretta::beretta - rifles y accesorios para caza y tiro": {
     "brand": "beretta",
     "name": "Beretta - Rifles y Accesorios para Caza y Tiro",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b990e3df-15f9-4437-9b61-8905a90024bb/bannerv2.png?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--b990e3df-15f9-4437-9b61-8905a90024bb/bannerv2.png?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/es-es",
     "domain": "www.beretta.com"
   },
@@ -51,7 +51,7 @@
   "beretta::beretta usa firearms - find a dealer or shop online": {
     "brand": "beretta",
     "name": "Beretta USA Firearms - Find a Dealer or Shop Online",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--705fa450-8387-47a0-af12-6222bb5eaa64/columbus-day-2026.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--705fa450-8387-47a0-af12-6222bb5eaa64/columbus-day-2026.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/en-us",
     "domain": "www.beretta.com"
   },
