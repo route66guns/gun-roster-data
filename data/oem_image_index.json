@@ -30,14 +30,14 @@
   "beretta::beretta - rifles y accesorios para caza y tiro": {
     "brand": "beretta",
     "name": "Beretta - Rifles y Accesorios para Caza y Tiro",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--1feab65f-2f33-421e-87c9-ec4053bf77ed/banner-1920x1080-2-so10-kronos.jpg?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--1feab65f-2f33-421e-87c9-ec4053bf77ed/banner-1920x1080-2-so10-kronos.jpg?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/es-es",
     "domain": "www.beretta.com"
   },
   "beretta::beretta - fusils et accessoires pour la chasse & le tir": {
     "brand": "beretta",
     "name": "Beretta - Fusils et Accessoires pour la Chasse & le Tir",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--1feab65f-2f33-421e-87c9-ec4053bf77ed/banner-1920x1080-2-so10-kronos.jpg?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--1feab65f-2f33-421e-87c9-ec4053bf77ed/banner-1920x1080-2-so10-kronos.jpg?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/fr-ch",
     "domain": "www.beretta.com"
   },
@@ -247,7 +247,7 @@
   "canik::mete mc9": {
     "brand": "canik",
     "name": "METE MC9",
-    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/HG7620-N-METE-MC9-Black-right-side.png?v=1791826432",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/HG7620-N-METE-MC9-Black-right-side_ef79c962-f31c-41be-8611-a481deb41fdd.png?v=1791924533",
     "page": "https://www.canikusa.com/mete-mc9",
     "domain": "www.canikusa.com"
   },
