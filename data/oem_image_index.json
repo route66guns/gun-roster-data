@@ -16,14 +16,14 @@
   "beretta::beretta - firearms, clothing & accessories for hunting and shooting": {
     "brand": "beretta",
     "name": "Beretta - Firearms, Clothing & Accessories for Hunting and Shooting",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--167f1ce2-20aa-46ec-ab91-c15bd97bafa2/banner-1920x1080-3-694-500years.jpg?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--167f1ce2-20aa-46ec-ab91-c15bd97bafa2/banner-1920x1080-3-694-500years.jpg?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/en-sk",
     "domain": "www.beretta.com"
   },
   "beretta::beretta - gewehre und zubehör für jagd und schießsport": {
     "brand": "beretta",
     "name": "Beretta - Gewehre und Zubehör für Jagd und Schießsport",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--167f1ce2-20aa-46ec-ab91-c15bd97bafa2/banner-1920x1080-3-694-500years.jpg?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--167f1ce2-20aa-46ec-ab91-c15bd97bafa2/banner-1920x1080-3-694-500years.jpg?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/de-ch",
     "domain": "www.beretta.com"
   },
@@ -44,7 +44,7 @@
   "beretta::fabbrica d'armi beretta - fucili e accessori per caccia e tiro a volo": {
     "brand": "beretta",
     "name": "Fabbrica d'armi Beretta - Fucili e accessori per Caccia e Tiro a volo",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--167f1ce2-20aa-46ec-ab91-c15bd97bafa2/banner-1920x1080-3-694-500years.jpg?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--167f1ce2-20aa-46ec-ab91-c15bd97bafa2/banner-1920x1080-3-694-500years.jpg?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/it-ch",
     "domain": "www.beretta.com"
   },
@@ -268,14 +268,14 @@
   "canik::sfx rival": {
     "brand": "canik",
     "name": "SFx RIVAL",
-    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/HG6610T-N-SFxRIVAL-Grey-0.png?v=1779124743",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/HG6815-N-SFx-RIVAL-Dark-Side-0_b5ecb830-a617-48bc-8b58-7fcee2f03ea7.png?v=1779120982",
     "page": "https://www.canikusa.com/sfx-rival",
     "domain": "www.canikusa.com"
   },
   "canik::mete sft": {
     "brand": "canik",
     "name": "METE SFT",
-    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/000_573e4961-6d3c-4a9d-8056-f4a49b6af5c6.png?v=1787865285",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/HG5636-N-METE-SFT-Two-Tone-right-side.png?v=1792526699",
     "page": "https://www.canikusa.com/mete-sft",
     "domain": "www.canikusa.com"
   },
@@ -295,7 +295,7 @@
   },
   "canik::mete sfx": {
     "brand": "canik",
-    "name": "METE SFX",
+    "name": "METE SFx",
     "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/METE_SFx_Right.png?v=1775054638",
     "page": "https://www.canikusa.com/mete-sfx",
     "domain": "www.canikusa.com"
