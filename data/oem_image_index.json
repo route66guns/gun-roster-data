@@ -44,7 +44,7 @@
   "beretta::fabbrica d'armi beretta - fucili e accessori per caccia e tiro a volo": {
     "brand": "beretta",
     "name": "Fabbrica d'armi Beretta - Fucili e accessori per Caccia e Tiro a volo",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--167f1ce2-20aa-46ec-ab91-c15bd97bafa2/banner-1920x1080-3-694-500years.jpg?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--167f1ce2-20aa-46ec-ab91-c15bd97bafa2/banner-1920x1080-3-694-500years.jpg?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/it-ch",
     "domain": "www.beretta.com"
   },
@@ -268,7 +268,7 @@
   "canik::sfx rival": {
     "brand": "canik",
     "name": "SFx RIVAL",
-    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/HG6815-N-SFx-RIVAL-Dark-Side-0_b5ecb830-a617-48bc-8b58-7fcee2f03ea7.png?v=1779120982",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/HG6610T-N-SFx-RIVAL-Grey-right-side_547ddc97-f574-496b-873c-c3cf2bd5bd94.png?v=1792593553",
     "page": "https://www.canikusa.com/sfx-rival",
     "domain": "www.canikusa.com"
   },
