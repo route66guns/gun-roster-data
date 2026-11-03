@@ -30,7 +30,7 @@
   "beretta::beretta - rifles y accesorios para caza y tiro": {
     "brand": "beretta",
     "name": "Beretta - Rifles y Accesorios para Caza y Tiro",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--aace47db-758d-431a-8f21-d6715bcf2925/falcobannerbcom.png?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--aace47db-758d-431a-8f21-d6715bcf2925/falcobannerbcom.png?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/es-es",
     "domain": "www.beretta.com"
   },
@@ -240,7 +240,7 @@
   "canik::mete mc9 prime": {
     "brand": "canik",
     "name": "METE MC9 PRIME",
-    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/HG8328-N-METE-MC9-PRIME-right-side.png?v=1792172412",
+    "image": "https://cdn.shopify.com/s/files/1/0829/2528/9506/files/HG8328-N-METE-MC9-PRIME-Black-right-side.png?v=1793656376",
     "page": "https://www.canikusa.com/mete-mc9-prime",
     "domain": "www.canikusa.com"
   },
