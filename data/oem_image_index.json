@@ -30,28 +30,28 @@
   "beretta::beretta - rifles y accesorios para caza y tiro": {
     "brand": "beretta",
     "name": "Beretta - Rifles y Accesorios para Caza y Tiro",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--aace47db-758d-431a-8f21-d6715bcf2925/falcobannerbcom.png?quality=85&preferwebp=true",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--aace47db-758d-431a-8f21-d6715bcf2925/falcobannerbcom.png?preferwebp=true&quality=85",
     "page": "https://www.beretta.com/es-es",
     "domain": "www.beretta.com"
   },
   "beretta::beretta - fusils et accessoires pour la chasse & le tir": {
     "brand": "beretta",
     "name": "Beretta - Fusils et Accessoires pour la Chasse & le Tir",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--aace47db-758d-431a-8f21-d6715bcf2925/falcobannerbcom.png?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--aace47db-758d-431a-8f21-d6715bcf2925/falcobannerbcom.png?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/fr-ch",
     "domain": "www.beretta.com"
   },
   "beretta::fabbrica d'armi beretta - fucili e accessori per caccia e tiro a volo": {
     "brand": "beretta",
     "name": "Fabbrica d'armi Beretta - Fucili e accessori per Caccia e Tiro a volo",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--aace47db-758d-431a-8f21-d6715bcf2925/falcobannerbcom.png?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--aace47db-758d-431a-8f21-d6715bcf2925/falcobannerbcom.png?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/it-ch",
     "domain": "www.beretta.com"
   },
   "beretta::beretta usa firearms - find a dealer or shop online": {
     "brand": "beretta",
     "name": "Beretta USA Firearms - Find a Dealer or Shop Online",
-    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--2443c6ea-fcf6-4411-b417-77c10cd047fe/multifield-2.jpg?preferwebp=true&quality=85",
+    "image": "https://dam.beretta.com/adobe/dynamicmedia/deliver/dm-aid--2443c6ea-fcf6-4411-b417-77c10cd047fe/multifield-2.jpg?quality=85&preferwebp=true",
     "page": "https://www.beretta.com/en-us",
     "domain": "www.beretta.com"
   },
@@ -858,6 +858,20 @@
     "name": "CANiK â VENOM LR",
     "image": "https://cdn.shopify.com/s/files/1/0711/7760/1185/files/venom-lr-1.jpg?v=1775218799",
     "page": "https://www.canikusa.com/venom-lr",
+    "domain": "www.canikusa.com"
+  },
+  "canik::canik | tp9 series collection": {
+    "brand": "canik",
+    "name": "CANiK | TP9 SERIES Collection",
+    "image": "https://www.canik.com/canik-og.jpg",
+    "page": "https://www.canikusa.com/canik-firearms/tp9",
+    "domain": "www.canikusa.com"
+  },
+  "canik::canik | mete series collection": {
+    "brand": "canik",
+    "name": "CANiK | METE SERIES Collection",
+    "image": "https://www.canik.com/canik-og.jpg",
+    "page": "https://www.canikusa.com/canik-firearms/mete",
     "domain": "www.canikusa.com"
   }
 }
