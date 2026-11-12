@@ -1,5 +1,16 @@
 [
   {
+    "brand": "Manurhin",
+    "model": "MR73 Gendarmerie 4\"",
+    "caliber": ".357 Magnum",
+    "type": "",
+    "barrel": "4\"",
+    "finish": "",
+    "notes": "",
+    "date_added": "11/10/2026",
+    "roster_id": null
+  },
+  {
     "brand": "Derya",
     "model": "DY9Z*+",
     "caliber": "9mm",
